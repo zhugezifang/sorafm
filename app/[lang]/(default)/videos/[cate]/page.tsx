@@ -1,14 +1,14 @@
-import {
+/*import {
   getLatestVideos,
   getRandomVideos,
   getRecommendedVideos,
 } from "@/models/video";
-
+*/
 import Hero from "../../_components/hero";
 import { Metadata } from "next";
 import Tab from "../../_components/tab";
 import { Video } from "@/types/video";
-import Videos from "../../_components/videos";
+//import Videos from "../../_components/videos";
 import { getDictionary } from "@/services/i18n";
 
 export async function generateMetadata({
@@ -34,19 +34,18 @@ export default async function ({
   const dict = await getDictionary(params.lang);
 
   let videos: Video[] = [];
-  if (cate === "featured") {
+  /*if (cate === "featured") {
     videos = await getRecommendedVideos(page, limit);
   } else if (cate === "random") {
     videos = await getRandomVideos(page, limit);
   } else {
     videos = await getLatestVideos(page, limit);
-  }
-
+  }*/
   return (
     <div>
       <Hero dict={dict} />
       <Tab lang={params.lang} dict={dict} cate={params.cate} />
-      <Videos lang={params.lang} videos={videos} />
+      {/* <Videos lang={params.lang} videos={videos} />*/}
     </div>
   );
 }

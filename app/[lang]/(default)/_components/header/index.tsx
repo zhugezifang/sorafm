@@ -3,7 +3,7 @@ import { Nav } from "@/types/nav";
 import Social from "../social";
 
 export default function ({ lang, dict }: { lang: string; dict: any }) {
-  const navigations: Nav[] = [];
+  const navigations: Nav[] = dict.nav;
 
   return (
     <header>
@@ -23,7 +23,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               {navigations.map((tab: Nav, idx: number) => (
                 <a
                   key={idx}
-                  href={tab.url}
+                  href={`/${lang}/${tab.url}`}
                   target={tab.target || "_self"}
                   className="text-md font-medium leading-6 text-slate-300 mr-6"
                 >

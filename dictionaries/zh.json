@@ -4,6 +4,16 @@
     "title": "Sora AI 视频生成器",
     "sub_title": "使用 Sora 生成 AI 视频，释放你的创造力"
   },
+  "nav": [
+    {
+      "title": "Home",
+      "url": ""
+    },
+    {
+      "title": "博客",
+      "url": "blog"
+    }
+  ],
   "subscribe": {
     "placeholder": "输入你的邮箱",
     "button": "订阅通知",
