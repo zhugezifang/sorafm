@@ -1,4 +1,5 @@
-import Social from "../social";
+//import Social from "../social";
+import LangLinks from "../LangLinks";
 
 export default function ({ lang, dict }: { lang: string; dict: any }) {
   return (
@@ -12,9 +13,9 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             <p className="font-inter mt-4 max-w-[350px] text-base font-light text-gray-500">
               {dict.brand.title}
             </p>
-            <div className="mb-8 mt-6 flex flex-row">
+            {/*<div className="mb-8 mt-6 flex flex-row">
               <Social />
-            </div>
+              </div>*/}
           </div>
           <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
@@ -124,27 +125,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 Gen-2
               </a>
             </div>
-            {lang.startsWith("zh") && (
-              <div className="mt-10 flex flex-col lg:mt-0">
-                <div className="mb-4 flex flex-col items-center">
-                  <p className="font-inter font-medium text-black"></p>
-                  <p className="font-inter ml-4 text-black">
-                    <img
-                      src={
-                        "https://zknown-1251007641.cos.ap-guangzhou.myqcloud.com/images/20240105113843.png"
-                      }
-                      alt="qrcode"
-                      width={"250"}
-                      height={"400"}
-                      className="rounded-md"
-                    />
-                  </p>
-                </div>
-              </div>
-            )}
+
           </div>
         </div>
         <div className="mx-auto my-12 w-full border border-gray-800 lg:my-20"></div>
+        <LangLinks />
         <div>
           <p className="font-inter lg: text-center text-sm text-gray-500">
             © Copyright 2024.{" "}

@@ -2,7 +2,7 @@ import { respData, respErr } from "@/lib/resp";
 
 import { User } from "@/types/user";
 import { genUuid } from "@/lib";
-//import { saveUser } from "@/services/user";
+import { saveUser } from "@/services/user";
 
 export async function POST(req: Request) {
   try {
@@ -26,7 +26,7 @@ export async function POST(req: Request) {
     };
     console.log("save user info", user);
 
-    //await saveUser(user);
+    await saveUser(user);
 
     return respData(user);
   } catch (e) {
