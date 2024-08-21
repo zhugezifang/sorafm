@@ -33,6 +33,20 @@ export default function RootLayout({
     <html lang={lang}>
       <head>
         <link rel="icon" href="/favicon.ico" />
+        <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=G-Y65J1475LV`}
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-Y65J1475LV');
+            `,
+          }}
+        />
       </head>
       <body className={inter.className}>
         <Toaster position="top-center" richColors />
