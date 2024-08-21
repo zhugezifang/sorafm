@@ -1,5 +1,3 @@
-'use client';
-
 import Hero from "./_components/hero";
 import { Metadata } from "next";
 import Tab from "./_components/tab";

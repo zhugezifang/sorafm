@@ -1,5 +1,3 @@
-'use client';
-
 import Footer from "./_components/footer";
 import Header from "./_components/header";
 import { ReactNode } from "react";
