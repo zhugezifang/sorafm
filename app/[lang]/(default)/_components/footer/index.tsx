@@ -1,14 +1,17 @@
 //import Social from "../social";
+import { Nav } from "@/types/nav";
 import LangLinks from "../LangLinks";
 
 export default function ({ lang, dict }: { lang: string; dict: any }) {
+  const navigations: Nav[] = dict.footer;
+
   return (
     <section>
       <div className="w-screen flex-col bg-black px-6 py-20 text-white lg:flex lg:px-10 xl:px-24">
         <div className="lg:flex lg:flex-row lg:justify-between">
           <div>
-            <a href="https://sora.trys.ai" className="inline-block max-w-full">
-              Sora.FM
+            <a href="/" className="inline-block max-w-full">
+            Corporate Codes
             </a>
             <p className="font-inter mt-4 max-w-[350px] text-base font-light text-gray-500">
               {dict.brand.title}
@@ -19,41 +22,41 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
           </div>
           <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">INTRODUCTION</div>
+              <div className="font-inter font-medium">Products</div>
               <a
                 href="https://openai.com/sora?utm_source=sora.fm"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                What's Sora
+                None
               </a>
               <a
                 href="https://openai.com/research/video-generation-models-as-world-simulators?utm_source=sora.fm"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora technical report
+                None
               </a>
               <a
                 href="https://platform.openai.com/docs/api-reference?utm_source=sora.fm"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora API
+                None
               </a>
               <a
                 href="https://www.tiktok.com/@openai?utm_source=sora.fm"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora Showcases
+                None
               </a>
               <a
                 href="https://platform.openai.com/docs/guides/prompt-engineering?utm_source=sora.fm"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Sora Prompts
+                None
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
@@ -63,67 +66,49 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                GPTs Works
+                None
               </a>
               <a
-                href="https://gptalk.one?utm_source=sora.fm"
+                href="/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                GPTalk
+                None
               </a>
               <a
-                href="https://aiwallpaper.shop?utm_source=sora.fm"
+                href="/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                AI Wallpaper
+                None
               </a>
               <a
-                href="https://aicover.design?utm_source=sora.fm"
+                href="/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                AI Cover
+                None
               </a>
               <a
-                href="https://readknown.cn?utm_source=sora.fm"
+                href="/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                ReadKnown
+                None
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
-              <div className="font-inter font-medium">CREDIT TO</div>
-              <a
-                href="https://sora.trys.ai"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                Sora.FM
-              </a>
-              <a
-                href="https://www.stablevideo.com?utm_source=sora.fm"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                Stable Video
-              </a>
-              <a
-                href="https://pika.art?utm_source=sora.fm"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                Pika
-              </a>
-              <a
-                href="https://runwayml.com/ai-tools/gen-2?utm_source=sora.fm"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                Gen-2
-              </a>
+              <div className="font-inter font-medium">Legal</div>
+              {navigations.map((tab: Nav, idx: number) => (
+                <a
+                  key={idx}
+                  href={`/${lang}/${tab.url}`}
+                  target="_blank"
+                  className="font-inter font-light text-gray-500"
+                >
+                  {tab.title}
+                </a>
+              ))}
             </div>
 
           </div>
@@ -134,11 +119,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
           <p className="font-inter lg: text-center text-sm text-gray-500">
             © Copyright 2024.{" "}
             <a
-              href="https://sora.trys.ai"
+              href="/"
               target="_blank"
               className="text-primary"
             >
-              Sora.FM
+              Corporate Codes
             </a>{" "}
             All rights reserved.
           </p>

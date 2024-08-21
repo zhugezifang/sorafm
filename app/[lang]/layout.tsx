@@ -16,13 +16,9 @@ export async function generateMetadata({
   const dict = await getDictionary(params.lang);
 
   return {
-    title: {
-      template: `%s, ${dict.brand.title} | Sora.FM`,
-      default: `${dict.brand.title} | Sora.FM`,
-    },
-    description: `${dict.brand.title}, ${dict.brand.sub_title}`,
-    keywords:
-      "sora,sora fm,sora ai,openai sora,video ai,ai video,sora video,ai video generator,text to video,sora ai video,sora ai video generator,sora webui,sora showcase,sora ai showcases",
+    title:`${dict.brand.title}`,
+    description: `${dict.brand.sub_title}`,
+    keywords: `${dict.brand.keywords}`,
   };
 }
 
