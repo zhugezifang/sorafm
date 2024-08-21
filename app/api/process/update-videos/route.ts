@@ -3,6 +3,8 @@ import { respData, respErr } from "@/lib/resp";
 import { getVideosFromFile } from "@/services/video";
 import { insertVideo } from "@/models/video";
 
+export const runtime = 'edge';
+
 export async function POST(req: Request) {
   try {
     const allVideos = await getVideosFromFile();
