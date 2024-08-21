@@ -1,3 +1,5 @@
+'use client';
+
 import { Nav } from "@/types/nav";
 
 //import Producthunt from "../producthunt";

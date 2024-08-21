@@ -1,4 +1,6 @@
 //import Social from "../social";
+'use client';
+
 import { Nav } from "@/types/nav";
 import LangLinks from "../LangLinks";
 

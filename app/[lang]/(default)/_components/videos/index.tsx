@@ -1,3 +1,5 @@
+'use client';
+
 import { Video } from "@/types/video";
 
 export default ({ lang, videos }: { lang: string; videos: Video[] }) => {

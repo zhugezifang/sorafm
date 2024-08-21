@@ -1,3 +1,5 @@
+'use client';
+
 import { defaultLocale,localeNames } from "@/services/i18n";
 
 import Link from "next/link";

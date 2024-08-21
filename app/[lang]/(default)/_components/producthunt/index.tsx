@@ -1,3 +1,5 @@
+'use client';
+
 export default function () {
   return (
     <div className="max-w-6xl mx-auto text-center flex items-center justify-center mt-6">

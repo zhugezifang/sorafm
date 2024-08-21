@@ -1,3 +1,5 @@
+'use client';
+
 import Langswitch from "../langswitch";
 import { Nav } from "@/types/nav";
 import Social from "../social";

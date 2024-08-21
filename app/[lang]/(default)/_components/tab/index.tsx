@@ -1,3 +1,5 @@
+'use client';
+
 import { Code } from "@/types/code";
 import Content from "../content";
 
