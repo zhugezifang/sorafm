@@ -1,13 +1,14 @@
 import { respData, respErr } from "@/lib/resp";
 
-import { getVideosFromFile } from "@/services/video";
-import { insertVideo } from "@/models/video";
+//import { getVideosFromFile } from "@/services/video";
+//import { insertVideo } from "@/models/video";
 
 export const runtime = 'edge';
 
 export async function POST(req: Request) {
   try {
-    const allVideos = await getVideosFromFile();
+    //const allVideos = await getVideosFromFile();
+    const allVideos:any[] = [];
     const allVideosCount = allVideos.length;
 
     console.log(`all videos count: ${allVideosCount}`);
@@ -31,7 +32,7 @@ export async function POST(req: Request) {
 
       try {
         // console.log("video", video);
-        await insertVideo(video);
+        //await insertVideo(video);
         newCount += 1;
         console.log(
           "insert new video: ",

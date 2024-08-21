@@ -1,8 +1,8 @@
 import { respData, respErr } from "@/lib/resp";
 
 import { User } from "@/types/user";
-import { genUuid } from "@/lib";
-import { saveUser } from "@/services/user";
+//import { genUuid } from "@/lib";
+//import { saveUser } from "@/services/user";
 
 export const runtime = 'edge';
 
@@ -17,8 +17,8 @@ export async function POST(req: Request) {
     }
 
     const created_at = new Date().toISOString();
-    const user_uuid = genUuid();
-
+    //const user_uuid = genUuid();
+    const user_uuid = "";
     const user: User = {
       email: email,
       nickname: "",
@@ -28,7 +28,7 @@ export async function POST(req: Request) {
     };
     console.log("save user info", user);
 
-    await saveUser(user);
+    //await saveUser(user);
 
     return respData(user);
   } catch (e) {

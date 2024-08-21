@@ -1,4 +1,4 @@
-import { findVideoByUuid, getRandomVideos } from "@/models/video";
+//import { findVideoByUuid, getRandomVideos } from "@/models/video";
 
 import { Metadata } from "next";
 import Videos from "../../_components/videos";
@@ -16,9 +16,10 @@ export async function generateMetadata({
   let description = "";
 
   if (params.uuid) {
-    const video = await findVideoByUuid(params.uuid);
+    //const video = await findVideoByUuid(params.uuid);
+      const video = null;
     if (video) {
-      description = video.video_description;
+      //description = video.video_description;
     }
   }
 
@@ -36,8 +37,10 @@ export default async function ({
   params: { lang: string; uuid: string };
 }) {
   const dict = await getDictionary(params.lang);
-  const video = await findVideoByUuid(params.uuid);
-  const videos = await getRandomVideos(1, 50);
+  const video = null;
+  const videos:any[] = [];
+  //const video = await findVideoByUuid(params.uuid);
+  //const videos = await getRandomVideos(1, 50);
 
   return (
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
@@ -68,18 +71,7 @@ export default async function ({
             <div className="mx-auto flex max-w-7xl flex-col items-center gap-x-8 gap-y-10 px-6 sm:gap-y-8 lg:px-8 xl:flex-row xl:items-stretch">
               <div className="mt-0 w-full max-w-2xl xl:-mb-8 xl:w-96 xl:flex-none">
                 <div className="relative aspect-[2/1] h-full border border-black shadow-lg rounded-xl md:-mx-8 xl:mx-0 xl:aspect-auto flex justify-center">
-                  <video
-                    className="video w-full cursor-pointer rounded-md"
-                    src={video.video_url}
-                    poster={video.cover_url}
-                    preload="auto"
-                    muted
-                    loop
-                    controls
-                    autoPlay
-                  >
-                    Your browser does not support the video tag.
-                  </video>
+                  
                 </div>
               </div>
               <div className="w-full max-w-2xl xl:max-w-none xl:flex-auto xl:px-16 xl:py-24">
@@ -96,19 +88,7 @@ export default async function ({
                     />
                     <use href="#b56e9dab-6ccb-4d32-ad02-6b4bb5d9bbeb" x={86} />
                   </svg>
-                  <blockquote className="text-md font-semibold leading-8 text-white sm:text-xl sm:leading-9">
-                    <p>{video.video_description}</p>
-                  </blockquote>
-                  <figcaption className="mt-8 text-base flex items-center">
-                    <img
-                      src={video.user_avatar_url}
-                      alt={video.user_nickname}
-                      className="w-8 h-8 rounded-full mr-2"
-                    />
-                    <div className="font-semibold text-white">
-                      {video.user_nickname}
-                    </div>
-                  </figcaption>
+                  
                 </figure>
               </div>
             </div>
