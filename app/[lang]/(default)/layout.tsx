@@ -2,7 +2,7 @@ import Footer from "./_components/footer";
 import Header from "./_components/header";
 import { ReactNode } from "react";
 import { getDictionary } from "@/services/i18n";
-
+export const runtime = 'edge';
 export default async function ({
   children,
   params,
