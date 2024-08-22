@@ -13,7 +13,7 @@ export default function ({ dict }: { dict: any }) {
                 <div
                     className="mt-3 rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
                     {contentTions.map((tab: Nav, idx: number) => (
-                        <div className="">
+                        <div key={idx} className="">
                             <h2 className="text-white font-bold text-4xl">
                                 {tab.title}
                             </h2>
