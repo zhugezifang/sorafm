@@ -78,7 +78,7 @@ export default async function ({
       </div>
         </div>
         
-        <div className="bg-gray-700 flex flex-wrap p-2">
+        <div className="bg-gray-700 flex flex-wrap mt-4 p-2">
 
         <div className="text-white p-2">
             <a href={`/${lang}/${dict.Hilton.url}`} className="inline-block max-w-full">
