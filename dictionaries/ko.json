@@ -1,22 +1,431 @@
 {
-  "brand": {
-    "name": "Sora.FM",
-    "title": "Sora AI 비디오 생성기",
-    "sub_title": "Sora 를 사용하여 AI 비디오를 제작하다"
-  },
-  "subscribe": {
-    "placeholder": "이메일을 입력하세요",
-    "button": "알림 구독하기",
-    "tip": "Sora 텍스트에서 비디오로의 API는 사용할 수 없습니다. 서비스가 시작되면 알려드리겠습니다."
-  },
-  "showcase": {
-    "title": "Sora AI 비디오 쇼케이스",
-    "sub_title": "T이 비디오는 OpenAI의 레드 팀이 Sora를 사용하여 만들었습니다.",
-    "more_tip": "더 많은 AI 비디오 쇼케이스"
-  },
-  "tab": {
-    "latest": "최신",
-    "featured": "특집",
-    "random": "무작위"
-  }
+   "brand": {
+    "name": "Corporate Codes",
+    "title": "호텔의 기업체계",
+    "sub_title": "호텔의 기업체계는 IHG, 힐튼, 마리엇, 하얏트 등의 특별한 할인 코드입니다. 이들은 비즈니스를 위해 할인된 가격으로 호텔을 예약하기 위해 기업에 제공됩니다. 회사는 이 코드를 사용하여 직원의 여행 비용을 절감합니다.",
+    "keywords": "호텔의 기업체계, IHG, 힐튼, 마리엇, 하얏트 호텔"
+    },
+    "nav": [
+    {
+    "title": "집",
+    "url": ""
+    },
+    {
+    "title": "도움",
+    "url": ""
+    }
+    ],
+    "footer": [
+    { "title": "About Us", "url": "" },
+    { "title": "Advertising Terms", "url": "" },
+    { "title": "Privacy Policy", "url": "" }
+    ],
+    "Hilton":{
+      "title": "힐튼의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 힐튼의 기업체계를 제공합니다",
+      "url": "codePage/Hilton",
+      "data":[
+        {"Company":"3M","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001542"},
+        {"Company":"Accenture","Hotel":"힐튼의 기업체계","Corporate_Code":"10850857"},
+        {"Company":"Accenture","Hotel":"힐튼의 기업체계","Corporate_Code":"N0156333"},
+        {"Company":"Akzo Noble","Hotel":"힐튼의 기업체계","Corporate_Code":"402371223"},
+        {"Company":"AT&T","Hotel":"힐튼의 기업체계","Corporate_Code":"N0000046"},
+        {"Company":"Bank of America","Hotel":"힐튼의 기업체계","Corporate_Code":"N0710081"}
+      ],
+      "all_data":[
+        {"Company":"3M","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001542"},
+        {"Company":"Accenture","Hotel":"힐튼의 기업체계","Corporate_Code":"10850857"},
+        {"Company":"Accenture","Hotel":"힐튼의 기업체계","Corporate_Code":"N0156333"},
+        {"Company":"Akzo Noble","Hotel":"힐튼의 기업체계","Corporate_Code":"402371223"},
+        {"Company":"AT&T","Hotel":"힐튼의 기업체계","Corporate_Code":"N0000046"},
+        {"Company":"Bank of America","Hotel":"힐튼의 기업체계","Corporate_Code":"N0710081"},
+        {"Company":"BASF","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001125"},
+        {"Company":"Berkshire Hathaway","Hotel":"힐튼의 기업체계","Corporate_Code":"N0437015"},
+        {"Company":"Blackstone","Hotel":"힐튼의 기업체계","Corporate_Code":"N9880578"},
+        {"Company":"BP International","Hotel":"힐튼의 기업체계","Corporate_Code":"N2728493"},
+        {"Company":"CapGemini","Hotel":"힐튼의 기업체계","Corporate_Code":"N0990552"},
+        {"Company":"Coca Cola","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001420"},
+        {"Company":"Dell","Hotel":"힐튼의 기업체계","Corporate_Code":"N7654328"},
+        {"Company":"Deloitte","Hotel":"힐튼의 기업체계","Corporate_Code":"601560"},
+        {"Company":"Disney","Hotel":"힐튼의 기업체계","Corporate_Code":"N0997136"},
+        {"Company":"Dow Chemical","Hotel":"힐튼의 기업체계","Corporate_Code":"N0990214"},
+        {"Company":"Fedex","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001231"},
+        {"Company":"FFEIE","Hotel":"힐튼의 기업체계","Corporate_Code":"D600198360"},
+        {"Company":"Fiat Chrysler","Hotel":"힐튼의 기업체계","Corporate_Code":"N2674000"},
+        {"Company":"Ford Motor Company","Hotel":"힐튼의 기업체계","Corporate_Code":"N0900266"},
+        {"Company":"General Electric","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001398"},
+        {"Company":"General Motors","Hotel":"힐튼의 기업체계","Corporate_Code":"N0903395"},
+        {"Company":"Harley Davidson","Hotel":"힐튼의 기업체계","Corporate_Code":"N3846652"},
+        {"Company":"Home Depot","Hotel":"힐튼의 기업체계","Corporate_Code":"N0794705"},
+        {"Company":"HP","Hotel":"힐튼의 기업체계","Corporate_Code":"9122532"},
+        {"Company":"IBM","Hotel":"힐튼의 기업체계","Corporate_Code":"1368083"},
+        {"Company":"IBM","Hotel":"힐튼의 기업체계","Corporate_Code":"901452"},
+        {"Company":"IBM","Hotel":"힐튼의 기업체계","Corporate_Code":"N2666284"},
+        {"Company":"JC Penney","Hotel":"힐튼의 기업체계","Corporate_Code":"N0381437"},
+        {"Company":"Masco","Hotel":"힐튼의 기업체계","Corporate_Code":"N0990761"},
+        {"Company":"McDonald's","Hotel":"힐튼의 기업체계","Corporate_Code":"N1360871"},
+        {"Company":"McKesson","Hotel":"힐튼의 기업체계","Corporate_Code":"N9890367"},
+        {"Company":"McKinsey","Hotel":"힐튼의 기업체계","Corporate_Code":"N2741095"},
+        {"Company":"MVP","Hotel":"힐튼의 기업체계","Corporate_Code":"560041604"},
+        {"Company":"Nestlé","Hotel":"힐튼의 기업체계","Corporate_Code":"N4083580"},
+        {"Company":"Oracle","Hotel":"힐튼의 기업체계","Corporate_Code":"N0992835"},
+        {"Company":"Proctor & Gamble","Hotel":"힐튼의 기업체계","Corporate_Code":"N0000537"},
+        {"Company":"Shell","Hotel":"힐튼의 기업체계","Corporate_Code":"N0000576"},
+        {"Company":"Siemens","Hotel":"힐튼의 기업체계","Corporate_Code":"323009803"},
+        {"Company":"Sixt","Hotel":"힐튼의 기업체계","Corporate_Code":"D343260360"},
+        {"Company":"Target","Hotel":"힐튼의 기업체계","Corporate_Code":"N4083735"},
+        {"Company":"Volvo","Hotel":"힐튼의 기업체계","Corporate_Code":"N2435318"},
+        {"Company":"Volvo Car Corp","Hotel":"힐튼의 기업체계","Corporate_Code":"355019365"},
+        {"Company":"Wells Fargo","Hotel":"힐튼의 기업체계","Corporate_Code":"N0156393"}      
+      ]
+    },
+    "Marriott":{
+      "title": "마리엇의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 마리엇의 기업체계를 제공합니다",
+      "url": "codePage/Marriott",
+      "data":[
+        {"Company":"3M", "Hotel":"마리엇의 기업체계", "Corporate_Code":"MMM"},
+        {"Company":"Accenture", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ACC"},
+        {"Company":"Aetna", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AET"},
+        {"Company":"Affiliated Computer Services", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ACS"},
+        {"Company":"Alaska Airlines", "Hotel":"마리엇의 기업체계", "Corporate_Code":"A70"},
+        {"Company":"Allstate", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ALL"}
+    ],
+    "all_data":[
+        {"Company":"3M", "Hotel":"마리엇의 기업체계", "Corporate_Code":"MMM"},
+        {"Company":"Accenture", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ACC"},
+        {"Company":"Aetna", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AET"},
+        {"Company":"Affiliated Computer Services", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ACS"},
+        {"Company":"Alaska Airlines", "Hotel":"마리엇의 기업체계", "Corporate_Code":"A70"},
+        {"Company":"Allstate", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ALL"},
+        {"Company":"American Airlines", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AA8"},
+        {"Company":"American Express", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AMX"},
+        {"Company":"American Family Insurance", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AFI"},
+        {"Company":"American International Group", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AIG"},
+        {"Company":"American Online", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AOL"},
+        {"Company":"Amway", "Hotel":"마리엇의 기업체계", "Corporate_Code":"AMW"},
+        {"Company":"APAC", "Hotel":"마리엇의 기업체계", "Corporate_Code":"253568"},
+        {"Company":"APL Apple", "Hotel":"마리엇의 기업체계", "Corporate_Code":"APL"},
+        {"Company":"Applied Materials", "Hotel":"마리엇의 기업체계", "Corporate_Code":"APP"},
+        {"Company":"AT&T", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ATT"},
+        {"Company":"ATK", "Hotel":"마리엇의 기업체계", "Corporate_Code":"259552"},
+        {"Company":"Bank of America", "Hotel":"마리엇의 기업체계", "Corporate_Code":"BOA"},
+        {"Company":"Bank One", "Hotel":"마리엇의 기업체계", "Corporate_Code":"BOB"},
+        {"Company":"Bechtel", "Hotel":"마리엇의 기업체계", "Corporate_Code":"BEC"},
+        {"Company":"Bellsouth", "Hotel":"마리엇의 기업체계", "Corporate_Code":"256810"},
+        {"Company":"Best Avail Rate", "Hotel":"마리엇의 기업체계", "Corporate_Code":"BAR"},
+        {"Company":"Blackrock", "Hotel":"마리엇의 기업체계", "Corporate_Code":"340965"},
+        {"Company":"BMS", "Hotel":"마리엇의 기업체계", "Corporate_Code":"5298"},
+        {"Company":"BMW", "Hotel":"마리엇의 기업체계", "Corporate_Code":"5171"},
+        {"Company":"Boeing", "Hotel":"마리엇의 기업체계", "Corporate_Code":"CDH"},
+        {"Company":"Cardinal Health", "Hotel":"마리엇의 기업체계", "Corporate_Code":"CFA"},
+        {"Company":"Chick Fil A", "Hotel":"마리엇의 기업체계", "Corporate_Code":"13365"},
+        {"Company":"Cisco", "Hotel":"마리엇의 기업체계", "Corporate_Code":"260247"},
+        {"Company":"Citi", "Hotel":"마리엇의 기업체계", "Corporate_Code":"CIT"},
+        {"Company":"Clorox", "Hotel":"마리엇의 기업체계", "Corporate_Code":"CLX"},
+        {"Company":"Coca Cola", "Hotel":"마리엇의 기업체계", "Corporate_Code":"COK"},
+        {"Company":"Convergys", "Hotel":"마리엇의 기업체계", "Corporate_Code":"CVG"},
+        {"Company":"CPI", "Hotel":"마리엇의 기업체계", "Corporate_Code":"281403"},
+        {"Company":"CVS", "Hotel":"마리엇의 기업체계", "Corporate_Code":"283335"},
+        {"Company":"DB", "Hotel":"마리엇의 기업체계", "Corporate_Code":"11353"},
+        {"Company":"De Beers", "Hotel":"마리엇의 기업체계", "Corporate_Code":"D86"},
+        {"Company":"Dell", "Hotel":"마리엇의 기업체계", "Corporate_Code":"DEL"},
+        {"Company":"Deloitte", "Hotel":"마리엇의 기업체계", "Corporate_Code":"DTC"},
+        {"Company":"Delta", "Hotel":"마리엇의 기업체계", "Corporate_Code":"DLA"},
+        {"Company":"Deutch Bank", "Hotel":"마리엇의 기업체계", "Corporate_Code":"DBK"},
+        {"Company":"Disney Employees", "Hotel":"마리엇의 기업체계", "Corporate_Code":"DIS"},
+        {"Company":"DTV", "Hotel":"마리엇의 기업체계", "Corporate_Code":"2754"},
+        {"Company":"E&Y", "Hotel":"마리엇의 기업체계", "Corporate_Code":"EDD"},
+        {"Company":"Eddie Bauer (Seattle area)", "Hotel":"마리엇의 기업체계", "Corporate_Code":"EDS"},
+        {"Company":"Electronic Data Systems", "Hotel":"마리엇의 기업체계", "Corporate_Code":"EMC"},
+        {"Company":"EMC employees", "Hotel":"마리엇의 기업체계", "Corporate_Code":"XOM"},
+        {"Company":"Exxon Mobil", "Hotel":"마리엇의 기업체계", "Corporate_Code":"295936"},
+        {"Company":"Fed Rooms", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FED"},
+        {"Company":"Federal Express", "Hotel":"마리엇의 기업체계", "Corporate_Code":"66272"},
+        {"Company":"Federated", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FUS"},
+        {"Company":"Fleet Bank", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FLT"},
+        {"Company":"Florida Power", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FPL"},
+        {"Company":"Ford Motor Company", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FRD"},
+        {"Company":"Fuji", "Hotel":"마리엇의 기업체계", "Corporate_Code":"FUJ"},
+        {"Company":"Gap, Inc", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GAP"},
+        {"Company":"GE", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GEE"},
+        {"Company":"General Dynamics", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GMC"},
+        {"Company":"General Electric", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GE"},
+        {"Company":"General Motors", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GMC"},
+        {"Company":"Gillette", "Hotel":"마리엇의 기업체계", "Corporate_Code":"GGL"},
+        {"Company":"Goldman", "Hotel":"마리엇의 기업체계", "Corporate_Code":"17885"},
+        {"Company":"Google", "Hotel":"마리엇의 기업체계", "Corporate_Code":"5105"},
+        {"Company":"Harvard University", "Hotel":"마리엇의 기업체계", "Corporate_Code":"5444"},
+        {"Company":"HP", "Hotel":"마리엇의 기업체계", "Corporate_Code":"IBM"},
+        {"Company":"IBM", "Hotel":"마리엇의 기업체계", "Corporate_Code":"290717"},
+        {"Company":"Intel", "Hotel":"마리엇의 기업체계", "Corporate_Code":"INL"}
+      ]
+    },
+    "Hyatt":{
+      "url": "codePage/Hyatt",
+      "title": "하얏트의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 하얏트의 기업체계를 제공합니다",
+      "data":[
+        {"Company":"Bank of America", "Hotel":"하얏트의 기업체계", "Corporate_Code":"17500"},
+        {"Company":"BMW", "Hotel":"하얏트의 기업체계", "Corporate_Code":"15985"},
+        {"Company":"BNP", "Hotel":"하얏트의 기업체계", "Corporate_Code":"NC95864"},
+        {"Company":"BP International", "Hotel":"하얏트의 기업체계", "Corporate_Code":"27450"},
+        {"Company":"Cisco", "Hotel":"하얏트의 기업체계", "Corporate_Code":"79103"},
+        {"Company":"Company TVL Rate", "Hotel":"하얏트의 기업체계", "Corporate_Code":"86458"}
+      ],
+      "all_data":[
+        {"Company":"Bank of America", "Hotel":"하얏트의 기업체계", "Corporate_Code":"17500"},
+        {"Company":"BMW", "Hotel":"하얏트의 기업체계", "Corporate_Code":"15985"},
+        {"Company":"BNP", "Hotel":"하얏트의 기업체계", "Corporate_Code":"NC95864"},
+        {"Company":"BP International", "Hotel":"하얏트의 기업체계", "Corporate_Code":"27450"},
+        {"Company":"Cisco", "Hotel":"하얏트의 기업체계", "Corporate_Code":"79103"},
+        {"Company":"Company TVL Rate", "Hotel":"하얏트의 기업체계", "Corporate_Code":"86458"},
+        {"Company":"Costco", "Hotel":"하얏트의 기업체계", "Corporate_Code":"97920"},
+        {"Company":"Credit Lyonnais", "Hotel":"하얏트의 기업체계", "Corporate_Code":"88762"},
+        {"Company":"Credit Suisse", "Hotel":"하얏트의 기업체계", "Corporate_Code":"13365"},
+        {"Company":"Daimler Benz", "Hotel":"하얏트의 기업체계", "Corporate_Code":"68083"},
+        {"Company":"Deloitte", "Hotel":"하얏트의 기업체계", "Corporate_Code":"66267"},
+        {"Company":"GE", "Hotel":"하얏트의 기업체계", "Corporate_Code":"13516"},
+        {"Company":"GE International", "Hotel":"하얏트의 기업체계", "Corporate_Code":"12624"},
+        {"Company":"General Electric", "Hotel":"하얏트의 기업체계", "Corporate_Code":"99800"},
+        {"Company":"General Motors", "Hotel":"하얏트의 기업체계", "Corporate_Code":"20725"},
+        {"Company":"Honda", "Hotel":"하얏트의 기업체계", "Corporate_Code":"16700"},
+        {"Company":"IBM", "Hotel":"하얏트의 기업체계", "Corporate_Code":"13307"},
+        {"Company":"Li & Fung", "Hotel":"하얏트의 기업체계", "Corporate_Code":"NC12964"},
+        {"Company":"Lufthansa", "Hotel":"하얏트의 기업체계", "Corporate_Code":"34235"},
+        {"Company":"Morgan Stanley", "Hotel":"하얏트의 기업체계", "Corporate_Code":"13717"},
+        {"Company":"Samsung", "Hotel":"하얏트의 기업체계", "Corporate_Code":"90010"},
+        {"Company":"Samsung", "Hotel":"하얏트의 기업체계", "Corporate_Code":"13717"},
+        {"Company":"SAP America", "Hotel":"하얏트의 기업체계", "Corporate_Code":"23240"},
+        {"Company":"Senior Citizen", "Hotel":"하얏트의 기업체계", "Corporate_Code":"57039"},
+        {"Company":"TVL Rate", "Hotel":"하얏트의 기업체계", "Corporate_Code":"24560"},
+        {"Company":"TVL Rte", "Hotel":"하얏트의 기업체계", "Corporate_Code":"NC98733"},
+        {"Company":"UBS", "Hotel":"하얏트의 기업체계", "Corporate_Code":"17497"}
+      ]
+    },
+    "IHG":{
+      "url": "codePage/IHG",
+      "title": "IHG의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 IHG의 기업체계를 제공합니다",
+      "data":[
+        {"Company":"Ace Hardware", "Hotel":"IHG의 기업체계", "Corporate_Code":"101672"},
+        {"Company":"Arizona State University", "Hotel":"IHG의 기업체계", "Corporate_Code":"100862437"},
+        {"Company":"AT&T", "Hotel":"IHG의 기업체계", "Corporate_Code":"150711"},
+        {"Company":"Bank of America", "Hotel":"IHG의 기업체계", "Corporate_Code":"109568"},
+        {"Company":"Bayer", "Hotel":"IHG의 기업체계", "Corporate_Code":"251321"},
+        {"Company":"Cisco", "Hotel":"IHG의 기업체계", "Corporate_Code":"954410926"}
+      ],
+      "all_data":[
+        {"Company":"Ace Hardware", "Hotel":"IHG의 기업체계", "Corporate_Code":"101672"},
+        {"Company":"Arizona State University", "Hotel":"IHG의 기업체계", "Corporate_Code":"100862437"},
+        {"Company":"AT&T", "Hotel":"IHG의 기업체계", "Corporate_Code":"150711"},
+        {"Company":"Bank of America", "Hotel":"IHG의 기업체계", "Corporate_Code":"109568"},
+        {"Company":"Bayer", "Hotel":"IHG의 기업체계", "Corporate_Code":"251321"},
+        {"Company":"Cisco", "Hotel":"IHG의 기업체계", "Corporate_Code":"954410926"},
+        {"Company":"Coca Cola", "Hotel":"IHG의 기업체계", "Corporate_Code":"128813"},
+        {"Company":"ConocoPhillips", "Hotel":"IHG의 기업체계", "Corporate_Code":"262552"},
+        {"Company":"Dell", "Hotel":"IHG의 기업체계", "Corporate_Code":"954284898"},
+        {"Company":"Fedex", "Hotel":"IHG의 기업체계", "Corporate_Code":"109207"},
+        {"Company":"Ford", "Hotel":"IHG의 기업체계", "Corporate_Code":"100016221"},
+        {"Company":"Fujitsu", "Hotel":"IHG의 기업체계", "Corporate_Code":"102806"},
+        {"Company":"GE", "Hotel":"IHG의 기업체계", "Corporate_Code":"100371240"},
+        {"Company":"Honda", "Hotel":"IHG의 기업체계", "Corporate_Code":"243132"},
+        {"Company":"IBM", "Hotel":"IHG의 기업체계", "Corporate_Code":"105406"},
+        {"Company":"Kraft", "Hotel":"IHG의 기업체계", "Corporate_Code":"900000588"},
+        {"Company":"Lafarge", "Hotel":"IHG의 기업체계", "Corporate_Code":"100211707"},
+        {"Company":"Lowes", "Hotel":"IHG의 기업체계", "Corporate_Code":"924806"},
+        {"Company":"Loyola University", "Hotel":"IHG의 기업체계", "Corporate_Code":"478113"},
+        {"Company":"Microsoft", "Hotel":"IHG의 기업체계", "Corporate_Code":"100857558"},
+        {"Company":"Motorola", "Hotel":"IHG의 기업체계", "Corporate_Code":"128554"},
+        {"Company":"Network Appliance", "Hotel":"IHG의 기업체계", "Corporate_Code":"954284247"},
+        {"Company":"NWCTA", "Hotel":"IHG의 기업체계", "Corporate_Code":"900033305"},
+        {"Company":"Oracle", "Hotel":"IHG의 기업체계", "Corporate_Code":"100183394"},
+        {"Company":"Philips", "Hotel":"IHG의 기업체계", "Corporate_Code":"953100013"},
+        {"Company":"Rutgers University", "Hotel":"IHG의 기업체계", "Corporate_Code":"100189760"},
+        {"Company":"Siemens", "Hotel":"IHG의 기업체계", "Corporate_Code":"104256"},
+        {"Company":"Target", "Hotel":"IHG의 기업체계", "Corporate_Code":"888400"},
+        {"Company":"Toyota", "Hotel":"IHG의 기업체계", "Corporate_Code":"954409548"},
+        {"Company":"United Parcel Service", "Hotel":"IHG의 기업체계", "Corporate_Code":"108146"},
+        {"Company":"University of Texas", "Hotel":"IHG의 기업체계", "Corporate_Code":"99502056"}
+      ]
+    },
+    "Western":{
+      "url": "codePage/Western",
+      "title": "베스트 웨스턴의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 베스트 웨스턴의 기업체계를 제공합니다",
+      "data":[
+        {"Company": "Best Business Worldwide", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1476170"},
+        {"Company": "California IT", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1388930"},
+        {"Company": "FedEx", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1353080"},
+        {"Company": "Ford", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "101841"},
+        {"Company": "General Electric", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "322510"}
+      ],
+      "all_data":[
+        {"Company": "Best Business Worldwide", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1476170"},
+        {"Company": "California IT", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1388930"},
+        {"Company": "FedEx", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1353080"},
+        {"Company": "Ford", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "101841"},
+        {"Company": "General Electric", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "322510"},
+        {"Company": "Joe’s House", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1402610"},
+        {"Company": "Met Comm Churches", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1260440"},
+        {"Company": "Nurses", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1418260"},
+        {"Company": "Touchstone Energy", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1399660"},
+        {"Company": "Univ of Maryland", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "334930"},
+        {"Company": "Univ of Pittsburg", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1119970"}
+      ]
+    },
+    "Choice": {
+      "url": "codePage/Choice",
+      "title": "초이스 호텔스의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 초이스 호텔스의 기업체계를 제공합니다",
+      "data": [
+        {"Company": "ABN", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "845160"},
+        {"Company": "Allied Business Network", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "00845160"}
+      ],
+      "all_data": [
+        {"Company": "ABN", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "845160"},
+        {"Company": "Allied Business Network", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "00845160"},
+        {"Company": "Harvard", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "76514"},
+        {"Company": "Yale University", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "318810"}
+      ]
+    },
+    "Omni": {
+      "url": "codePage/Omni",
+      "title": "오미니의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 오미니의 기업체계를 제공합니다",
+      "data": [
+        {"Company": "AT&T", "Hotel": "오미니의 기업체계", "Corporate_Code": "N0099999"}
+      ],
+      "all_data": [
+        {"Company": "AT&T", "Hotel": "오미니의 기업체계", "Corporate_Code": "N0099999"}
+      ]
+    },
+    "Accor": {
+      "url": "codePage/Accor",
+      "title": "아코르의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 아코르의 기업체계를 제공합니다",
+      "data": [
+        {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "SCP428914"}
+      ],
+      "all_data": [
+        {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "SCP428914"},
+        {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "AS633AU981"}
+      ]
+    },
+    "Wyndham": {
+      "url": "codePage/Wyndham",
+      "title": "윈덤의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 윈덤의 기업체계를 제공합니다",
+      "data": [
+        {"Company": "ABN", "Hotel": "윈덤의 기업체계", "Corporate_Code": "8000000066"},
+        {"Company": "AIChE", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000007598"},
+        {"Company": "ASCP", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000010014"},
+        {"Company": "Business Advantage Plus", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000008537"},
+        {"Company": "Century 21 System", "Hotel": "윈덤의 기업체계", "Corporate_Code": "803277"},
+        {"Company": "Civil Air Patrol", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000008946"}
+      ],
+      "all_data": [
+        {"Company": "ABN", "Hotel": "윈덤의 기업체계", "Corporate_Code": "8000000066"},
+        {"Company": "AIChE", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000007598"},
+        {"Company": "ASCP", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000010014"},
+        {"Company": "Business Advantage Plus", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000008537"},
+        {"Company": "Century 21 System", "Hotel": "윈덤의 기업체계", "Corporate_Code": "803277"},
+        {"Company": "Civil Air Patrol", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000008946"},
+        {"Company": "EC Purchasing", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000000265"},
+        {"Company": "MTA", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000007604"},
+        {"Company": "NYSUT", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000007844"},
+        {"Company": "SmithBucklin", "Hotel": "윈덤의 기업체계", "Corporate_Code": "55067752"},
+        {"Company": "The Employee Network", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000009871"},
+        {"Company": "University of Buffalo", "Hotel": "윈덤의 기업체계", "Corporate_Code": "100232108"},
+        {"Company": "University of California", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000005337"}
+      ]
+    },
+    "Radisson":{
+      "url": "codePage/Radisson",
+      "title": "라디손의 기업체계",
+      "more": "기타 기업체계",
+      "des": "2024년 라디손의 기업체계를 제공합니다",
+      "data":[
+        {"Company": "3M", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1229"},
+        {"Company": "ABB (Asea Brown Boveri)", "Hotel": "라디손의 기업체계", "Corporate_Code": "41289"},
+        {"Company": "Abbott Laboratories", "Hotel": "라디손의 기업체계", "Corporate_Code": "10478"},
+        {"Company": "Accenture", "Hotel": "라디손의 기업체계", "Corporate_Code": "14410"},
+        {"Company": "Aecom Technology Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "61709"},
+        {"Company": "Agilent Technologies, Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "64410"}
+      ],
+      "all_data":[
+        {"Company": "3M", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1229"},
+        {"Company": "ABB (Asea Brown Boveri)", "Hotel": "라디손의 기업체계", "Corporate_Code": "41289"},
+        {"Company": "Abbott Laboratories", "Hotel": "라디손의 기업체계", "Corporate_Code": "10478"},
+        {"Company": "Accenture", "Hotel": "라디손의 기업체계", "Corporate_Code": "14410"},
+        {"Company": "Aecom Technology Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "61709"},
+        {"Company": "Agilent Technologies, Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "64410"},
+        {"Company": "Agrium", "Hotel": "라디손의 기업체계", "Corporate_Code": "55957"},
+        {"Company": "Air Canada", "Hotel": "라디손의 기업체계", "Corporate_Code": "47273"},
+        {"Company": "Allergan, Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC2279"},
+        {"Company": "Alliant Techsystems Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "82733"},
+        {"Company": "Allstate Insurance Company", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1702"},
+        {"Company": "Alstom", "Hotel": "라디손의 기업체계", "Corporate_Code": "61331"},
+        {"Company": "American Electric Power", "Hotel": "라디손의 기업체계", "Corporate_Code": "40495"},
+        {"Company": "Amway Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "14426"},
+        {"Company": "Anheuser-Busch Companies", "Hotel": "라디손의 기업체계", "Corporate_Code": "14535"},
+        {"Company": "AON", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP6800"},
+        {"Company": "AP Moller Maersk & Danske Bank", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1263"},
+        {"Company": "Apollo Group", "Hotel": "라디손의 기업체계", "Corporate_Code": "68180"},
+        {"Company": "Archer Daniels Midland Company", "Hotel": "라디손의 기업체계", "Corporate_Code": "19241"},
+        {"Company": "Ascena Retail Group", "Hotel": "라디손의 기업체계", "Corporate_Code": "74648"},
+        {"Company": "AT & T", "Hotel": "라디손의 기업체계", "Corporate_Code": "69511"},
+        {"Company": "AT Kearney, Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1081"},
+        {"Company": "ATB Financial", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC8441"},
+        {"Company": "Atkins Global", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP3401"},
+        {"Company": "Atlantic Southeast Airlines", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC8421"},
+        {"Company": "BAE Systems", "Hotel": "라디손의 기업체계", "Corporate_Code": "42937"},
+        {"Company": "Bank of America", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1255"},
+        {"Company": "Bank of Montreal (BMO Financial Group)", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC8456"},
+        {"Company": "Barclays Capital", "Hotel": "라디손의 기업체계", "Corporate_Code": "47344"},
+        {"Company": "BASF", "Hotel": "라디손의 기업체계", "Corporate_Code": "40724"},
+        {"Company": "Battelle Memorial Institute", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC8467"},
+        {"Company": "Baxter International Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "47069"},
+        {"Company": "Bayer Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "44519"},
+        {"Company": "BB&T Capital Markets", "Hotel": "라디손의 기업체계", "Corporate_Code": "42813"},
+        {"Company": "Becton Dickinson", "Hotel": "라디손의 기업체계", "Corporate_Code": "54623"},
+        {"Company": "Bell Canada Enterprises", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1191"},
+        {"Company": "Best Buy", "Hotel": "라디손의 기업체계", "Corporate_Code": "10052"},
+        {"Company": "Bombardier", "Hotel": "라디손의 기업체계", "Corporate_Code": "76683"},
+        {"Company": "Booz Allen Hamilton", "Hotel": "라디손의 기업체계", "Corporate_Code": "80712"},
+        {"Company": "Boston Scientific", "Hotel": "라디손의 기업체계", "Corporate_Code": "10056"},
+        {"Company": "BP", "Hotel": "라디손의 기업체계", "Corporate_Code": "74334"},
+        {"Company": "Bristol-Myers Squibb (BMS) US", "Hotel": "라디손의 기업체계", "Corporate_Code": "13371"},
+        {"Company": "British American Tobacco", "Hotel": "라디손의 기업체계", "Corporate_Code": "47423"},
+        {"Company": "Broadcom Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "WC8328"},
+        {"Company": "Burger King", "Hotel": "라디손의 기업체계", "Corporate_Code": "42008"}
+      ]
+    },
+    "content":[
+      {
+        "title": "호텔의 법인 코드란 무엇입니까?",
+        "name": "호텔의 법인 코드는 회사나 조직에 부여된 독특한 할인 코드로, 호텔 방을 예약할 때 특별한 요금으로 액세스할 수 있도록 해줍니다. 이 코드들은 호텔과 기업 간의 계약의 일부로서, 직원들이 출장이나 법인 이벤트 중에 숙박 시설을 저렴한 가격으로 예약할 수 있도록 돕습니다. 이는 회사가 여행 비용을 효율적으로 관리하는 데 도움이 되며 다양한 장소에서 일관된 할인을 제공합니다. 일반적으로 대기업, 여행사, 정부 기관은 이러한 코드를 사용하여 빈번한 여행 필요성에 적합한 가격을 확보합니다."
+      },
+      {
+        "title": "호텔의 법인 코드 목록",
+        "name": "호텔의 법인 코드 목록에는 각종 기업에서 사용하는 특별한 할인 코드가 포함되어 있으며, 이 코드들을 사용하여 직원들은 할인된 가격으로 호텔 방을 예약할 수 있습니다. 이 코드들은 빈번한 여행자들 사이에서 온라인으로 공유되며, 해당 기업의 직원들이 법인 할인에 액세스하기 위해 사용됩니다. 목록에는 일반적으로 마리오트, 힐튼, 하얏트 등 주요 호텔 체인이 포함되어 있으며, 다양한 할인을 제공합니다. 그러나 이 코드들의 사용은 일반적으로 관련 기업의 직원들에게만 제한되며, 무허가 사용은 호텔 정책 위반으로 간주될 수 있습니다."
+      },
+      {
+        "title": "호텔의 법인 코드는 무료입니까?",
+        "name": "네, 이 호텔의 법인 코드는 특정 호텔 체인과 계약한 기업의 직원들이 사용하기 위해 일반적으로 무료입니다. 이 코드들은 회사가 숙박 비용을 절약하기 위한 법인 여행 프로그램의 일부로 제공됩니다. 코드 자체는 무료이지만, 이는 자격이 있는 직원 또는 기업과 관련된 개인의 승인된 사용을 위한 것입니다. 이 코드들의 무허가 사용은 처벌 또는 예약 무효화로 이어질 수 있습니다. 따라서 회사와 호텔이 설정한 가이드라인 내에서 이 코드들을 사용하는 것이 중요합니다."
+      },
+      {
+        "title": "호텔의 법인 코드는 2024년 코드를 제공합니까?",
+        "name": "네, 2024년 호텔의 법인 코드는 일반적으로 호텔 체인과 지속적인 계약을 맺고 있는 기업에서 제공되며, 직원들이 출장 중에 할인된 가격을 받을 수 있습니다. 이 코드들은 연도별 또는 새로운 계약의 일부로 업데이트되며, 직원들이 출장 중에 계속해서 할인된 가격을 받을 수 있도록 합니다. 여행자들에 의해 온라인에서 공유될 수 있는 2024년 일부 코드들은 일반적으로 기업의 직원들의 승인된 사용을 위한 것입니다. 이 코드들을 적절히 사용하는 것이 중요합니다. 부적절한 사용은 처벌 또는 예약 취소로 이어질 수 있습니다."
+      }
+    ]
 }

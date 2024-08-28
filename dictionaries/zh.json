@@ -23,6 +23,7 @@
   "Hilton":{
     "title": "希尔顿酒店协议代码",
     "url": "codePage/Hilton",
+    "more": "更多",
     "des":"提供2024年希尔顿酒店协议代码",
     "data":[
       {"Company":"3M","Hotel":"希尔顿","Corporate_Code":"N0001542"},
@@ -82,6 +83,7 @@
   "Marriott":{
     "title": "万豪酒店协议代码",
     "url": "codePage/Marriott",
+    "more": "更多",
     "des":"提供2024年万豪酒店协议代码",
     "data":[
       {"Company":"3M", "Hotel":"Marriott", "Corporate_Code":"MMM"},
@@ -164,6 +166,7 @@
   "Hyatt":{
     "title": "凯悦酒店协议代码",
     "url": "codePage/Hyatt",
+    "more": "更多",
     "des":"提供2024年凯悦酒店协议代码",
     "data":[
       {"Company":"Bank of America", "Hotel":"Hyatt", "Corporate_Code":"17500"},
@@ -206,6 +209,7 @@
   "IHG":{
     "title": "洲际酒店协议代码",
     "url": "codePage/IHG",
+    "more": "更多",
     "des":"提供2024年洲际酒店协议代码",
     "data":[
       {"Company":"Ace Hardware", "Hotel":"IHG", "Corporate_Code":"101672"},
@@ -252,6 +256,7 @@
   "Western":{
     "title": "贝斯特韦斯特酒店协议代码",
     "url": "codePage/Western",
+    "more": "更多",
     "des":"提供2024年贝斯特韦斯特酒店协议代码",
     "data":[
       {"Company": "Best Business Worldwide", "Hotel": "Best Western", "Corporate_Code": "1476170"},
@@ -277,6 +282,7 @@
   "Choice":{
     "title": "精选国际酒店协议代码",
     "url": "codePage/Choice",
+    "more": "更多",
     "des":"提供2024年精选国际酒店协议代码",
     "data":[
       {"Company": "ABN", "Hotel": "Choice Hotels", "Corporate_Code": "845160"},
@@ -292,6 +298,7 @@
   "Omni":{
     "title": "欧姆尼酒店协议代码",
     "url": "codePage/Omni",
+    "more": "更多",
     "des":"提供2024年欧姆尼酒店协议代码",
     "data":[
       {"Company": "AT&T", "Hotel": "Omni", "Corporate_Code": "N0099999"}
@@ -303,6 +310,7 @@
   "Accor":{
     "title": "雅高酒店协议代码",
     "url": "codePage/Accor",
+    "more": "更多",
     "des":"提供2024年雅高酒店协议代码协议代码",
     "data":[
       {"Company": "ALL", "Hotel": "Accor", "Corporate_Code": "SCP428914"}
@@ -315,6 +323,7 @@
   "Wyndham":{
     "title": "温德姆酒店协议代码",
     "url": "codePage/Wyndham",
+    "more": "更多",
     "des":"提供2024年温德姆酒店协议代码",
     "data":[
       {"Company": "ABN", "Hotel": "Wyndham", "Corporate_Code": "8000000066"},
@@ -343,6 +352,7 @@
   "Radisson":{
     "title": "丽笙酒店协议代码",
     "url": "codePage/Radisson",
+    "more": "更多",
     "des":"提供2024年丽笙酒店协议代码",
     "data":[
       {"Company": "3M", "Hotel": "Radisson", "Corporate_Code": "WP1229"},

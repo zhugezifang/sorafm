@@ -32,7 +32,7 @@ export default function ({
     <div className="mx-auto mt-8 mb-0">
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Hilton.title}</h2>
-      <a href={`/${lang}/${dict.Hilton.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Hilton.url}`} className="text-white hover:text-blue-700">{dict.Hilton.more}</a>
      </div>
      
      <div className="flex flex-col px-8">
@@ -76,7 +76,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Marriott.title}</h2>
-      <a href={`/${lang}/${dict.Marriott.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Marriott.url}`} className="text-white hover:text-blue-700">{dict.Marriott.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -120,7 +120,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Hyatt.title}</h2>
-      <a href={`/${lang}/${dict.Hyatt.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Hyatt.url}`} className="text-white hover:text-blue-700">{dict.Hyatt.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -164,7 +164,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.IHG.title}</h2>
-      <a href={`/${lang}/${dict.IHG.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.IHG.url}`} className="text-white hover:text-blue-700">{dict.IHG.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -208,7 +208,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Western.title}</h2>
-      <a href={`/${lang}/${dict.Western.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Western.url}`} className="text-white hover:text-blue-700">{dict.Western.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -252,7 +252,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Choice.title}</h2>
-      <a href={`/${lang}/${dict.Choice.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Choice.url}`} className="text-white hover:text-blue-700">{dict.Choice.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -296,7 +296,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Omni.title}</h2>
-      <a href={`/${lang}/${dict.Omni.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Omni.url}`} className="text-white hover:text-blue-700">{dict.Omni.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -340,7 +340,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Accor.title}</h2>
-      <a href={`/${lang}/${dict.Accor.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Accor.url}`} className="text-white hover:text-blue-700">{dict.Accor.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -384,7 +384,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Wyndham.title}</h2>
-      <a href={`/${lang}/${dict.Wyndham.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Wyndham.url}`} className="text-white hover:text-blue-700">{dict.Wyndham.more}</a>
      </div>
 
      <div className="flex flex-col px-8">
@@ -428,7 +428,7 @@ export default function ({
 
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Radisson.title}</h2>
-      <a href={`/${lang}/${dict.Radisson.url}`} className="text-white hover:text-blue-700">More Corporate Codes</a>
+      <a href={`/${lang}/${dict.Radisson.url}`} className="text-white hover:text-blue-700">{dict.Radisson.more}</a>
      </div>
 
      <div className="flex flex-col px-8">

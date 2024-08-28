@@ -1,22 +1,431 @@
 {
   "brand": {
-    "name": "Sora.FM",
-    "title": "Sora AI ビデオジェネレーター",
-    "sub_title": "Soraを使用してAIビデオを生成する"
+    "name": "Corporate Codes",
+    "title": "ホテルの法人コード",
+    "sub_title": "ホテルの法人コードは、IHG、ヒルトン、マリオット、ハイアットなどの特別な割引コードです。これらは、ビジネスのために割引率でホテルを予約するために企業に提供されます。会社は、これらのコードを使用して社員の旅行費用を削減します。",
+    "keywords": "ホテルの法人コード、IHG、ヒルトン、マリオット、ハイアット・ホテル"
   },
-  "subscribe": {
-    "placeholder": "メールアドレスを入力してください",
-    "button": "通知を購読する",
-    "tip": "SoraテキストからビデオへのAPIは利用できませんが、公開され次第お知らせします。"
+  "nav": [
+    {
+      "title": "ホーム",
+      "url": ""
+    },
+    {
+      "title": "ヘルプ",
+      "url": ""
+    }
+  ],
+  "footer":[
+    {"title":"私たちについて","url":""},
+    {"title":"広告の条件","url":""},
+    {"title":"プライバシーポリシー","url":""}
+  ],
+  "Hilton":{
+    "title": "ヒルトンの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のヒルトンの法人コードを提供します",
+    "url": "codePage/Hilton",
+    "data":[
+      {"Company":"3M","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001542"},
+      {"Company":"Accenture","Hotel":"ヒルトンの法人コード","Corporate_Code":"10850857"},
+      {"Company":"Accenture","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0156333"},
+      {"Company":"Akzo Noble","Hotel":"ヒルトンの法人コード","Corporate_Code":"402371223"},
+      {"Company":"AT&T","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0000046"},
+      {"Company":"Bank of America","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0710081"}
+    ],
+    "all_data":[
+      {"Company":"3M","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001542"},
+      {"Company":"Accenture","Hotel":"ヒルトンの法人コード","Corporate_Code":"10850857"},
+      {"Company":"Accenture","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0156333"},
+      {"Company":"Akzo Noble","Hotel":"ヒルトンの法人コード","Corporate_Code":"402371223"},
+      {"Company":"AT&T","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0000046"},
+      {"Company":"Bank of America","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0710081"},
+      {"Company":"BASF","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001125"},
+      {"Company":"Berkshire Hathaway","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0437015"},
+      {"Company":"Blackstone","Hotel":"ヒルトンの法人コード","Corporate_Code":"N9880578"},
+      {"Company":"BP International","Hotel":"ヒルトンの法人コード","Corporate_Code":"N2728493"},
+      {"Company":"CapGemini","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0990552"},
+      {"Company":"Coca Cola","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001420"},
+      {"Company":"Dell","Hotel":"ヒルトンの法人コード","Corporate_Code":"N7654328"},
+      {"Company":"Deloitte","Hotel":"ヒルトンの法人コード","Corporate_Code":"601560"},
+      {"Company":"Disney","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0997136"},
+      {"Company":"Dow Chemical","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0990214"},
+      {"Company":"Fedex","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001231"},
+      {"Company":"FFEIE","Hotel":"ヒルトンの法人コード","Corporate_Code":"D600198360"},
+      {"Company":"Fiat Chrysler","Hotel":"ヒルトンの法人コード","Corporate_Code":"N2674000"},
+      {"Company":"Ford Motor Company","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0900266"},
+      {"Company":"General Electric","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001398"},
+      {"Company":"General Motors","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0903395"},
+      {"Company":"Harley Davidson","Hotel":"ヒルトンの法人コード","Corporate_Code":"N3846652"},
+      {"Company":"Home Depot","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0794705"},
+      {"Company":"HP","Hotel":"ヒルトンの法人コード","Corporate_Code":"9122532"},
+      {"Company":"IBM","Hotel":"ヒルトンの法人コード","Corporate_Code":"1368083"},
+      {"Company":"IBM","Hotel":"ヒルトンの法人コード","Corporate_Code":"901452"},
+      {"Company":"IBM","Hotel":"ヒルトンの法人コード","Corporate_Code":"N2666284"},
+      {"Company":"JC Penney","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0381437"},
+      {"Company":"Masco","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0990761"},
+      {"Company":"McDonald's","Hotel":"ヒルトンの法人コード","Corporate_Code":"N1360871"},
+      {"Company":"McKesson","Hotel":"ヒルトンの法人コード","Corporate_Code":"N9890367"},
+      {"Company":"McKinsey","Hotel":"ヒルトンの法人コード","Corporate_Code":"N2741095"},
+      {"Company":"MVP","Hotel":"ヒルトンの法人コード","Corporate_Code":"560041604"},
+      {"Company":"Nestlé","Hotel":"ヒルトンの法人コード","Corporate_Code":"N4083580"},
+      {"Company":"Oracle","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0992835"},
+      {"Company":"Proctor & Gamble","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0000537"},
+      {"Company":"Shell","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0000576"},
+      {"Company":"Siemens","Hotel":"ヒルトンの法人コード","Corporate_Code":"323009803"},
+      {"Company":"Sixt","Hotel":"ヒルトンの法人コード","Corporate_Code":"D343260360"},
+      {"Company":"Target","Hotel":"ヒルトンの法人コード","Corporate_Code":"N4083735"},
+      {"Company":"Volvo","Hotel":"ヒルトンの法人コード","Corporate_Code":"N2435318"},
+      {"Company":"Volvo Car Corp","Hotel":"ヒルトンの法人コード","Corporate_Code":"355019365"},
+      {"Company":"Wells Fargo","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0156393"}      
+    ]
   },
-  "showcase": {
-    "title": "Sora AI ビデオショーケース",
-    "sub_title": "このビデオはOpenAIのレッドチームによってSoraを使って作成されました。",
-    "more_tip": "さらにAIビデオショーケース"
+  "Marriott":{
+    "title": "マリオットの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のマリオットの法人コードを提供します",
+    "url": "codePage/Marriott",
+    "data":[
+      {"Company":"3M", "Hotel":"マリオットの法人コード", "Corporate_Code":"MMM"},
+      {"Company":"Accenture", "Hotel":"マリオットの法人コード", "Corporate_Code":"ACC"},
+      {"Company":"Aetna", "Hotel":"マリオットの法人コード", "Corporate_Code":"AET"},
+      {"Company":"Affiliated Computer Services", "Hotel":"マリオットの法人コード", "Corporate_Code":"ACS"},
+      {"Company":"Alaska Airlines", "Hotel":"マリオットの法人コード", "Corporate_Code":"A70"},
+      {"Company":"Allstate", "Hotel":"マリオットの法人コード", "Corporate_Code":"ALL"}
+  ],
+  "all_data":[
+      {"Company":"3M", "Hotel":"マリオットの法人コード", "Corporate_Code":"MMM"},
+      {"Company":"Accenture", "Hotel":"マリオットの法人コード", "Corporate_Code":"ACC"},
+      {"Company":"Aetna", "Hotel":"マリオットの法人コード", "Corporate_Code":"AET"},
+      {"Company":"Affiliated Computer Services", "Hotel":"マリオットの法人コード", "Corporate_Code":"ACS"},
+      {"Company":"Alaska Airlines", "Hotel":"マリオットの法人コード", "Corporate_Code":"A70"},
+      {"Company":"Allstate", "Hotel":"マリオットの法人コード", "Corporate_Code":"ALL"},
+      {"Company":"American Airlines", "Hotel":"マリオットの法人コード", "Corporate_Code":"AA8"},
+      {"Company":"American Express", "Hotel":"マリオットの法人コード", "Corporate_Code":"AMX"},
+      {"Company":"American Family Insurance", "Hotel":"マリオットの法人コード", "Corporate_Code":"AFI"},
+      {"Company":"American International Group", "Hotel":"マリオットの法人コード", "Corporate_Code":"AIG"},
+      {"Company":"American Online", "Hotel":"マリオットの法人コード", "Corporate_Code":"AOL"},
+      {"Company":"Amway", "Hotel":"マリオットの法人コード", "Corporate_Code":"AMW"},
+      {"Company":"APAC", "Hotel":"マリオットの法人コード", "Corporate_Code":"253568"},
+      {"Company":"APL Apple", "Hotel":"マリオットの法人コード", "Corporate_Code":"APL"},
+      {"Company":"Applied Materials", "Hotel":"マリオットの法人コード", "Corporate_Code":"APP"},
+      {"Company":"AT&T", "Hotel":"マリオットの法人コード", "Corporate_Code":"ATT"},
+      {"Company":"ATK", "Hotel":"マリオットの法人コード", "Corporate_Code":"259552"},
+      {"Company":"Bank of America", "Hotel":"マリオットの法人コード", "Corporate_Code":"BOA"},
+      {"Company":"Bank One", "Hotel":"マリオットの法人コード", "Corporate_Code":"BOB"},
+      {"Company":"Bechtel", "Hotel":"マリオットの法人コード", "Corporate_Code":"BEC"},
+      {"Company":"Bellsouth", "Hotel":"マリオットの法人コード", "Corporate_Code":"256810"},
+      {"Company":"Best Avail Rate", "Hotel":"マリオットの法人コード", "Corporate_Code":"BAR"},
+      {"Company":"Blackrock", "Hotel":"マリオットの法人コード", "Corporate_Code":"340965"},
+      {"Company":"BMS", "Hotel":"マリオットの法人コード", "Corporate_Code":"5298"},
+      {"Company":"BMW", "Hotel":"マリオットの法人コード", "Corporate_Code":"5171"},
+      {"Company":"Boeing", "Hotel":"マリオットの法人コード", "Corporate_Code":"CDH"},
+      {"Company":"Cardinal Health", "Hotel":"マリオットの法人コード", "Corporate_Code":"CFA"},
+      {"Company":"Chick Fil A", "Hotel":"マリオットの法人コード", "Corporate_Code":"13365"},
+      {"Company":"Cisco", "Hotel":"マリオットの法人コード", "Corporate_Code":"260247"},
+      {"Company":"Citi", "Hotel":"マリオットの法人コード", "Corporate_Code":"CIT"},
+      {"Company":"Clorox", "Hotel":"マリオットの法人コード", "Corporate_Code":"CLX"},
+      {"Company":"Coca Cola", "Hotel":"マリオットの法人コード", "Corporate_Code":"COK"},
+      {"Company":"Convergys", "Hotel":"マリオットの法人コード", "Corporate_Code":"CVG"},
+      {"Company":"CPI", "Hotel":"マリオットの法人コード", "Corporate_Code":"281403"},
+      {"Company":"CVS", "Hotel":"マリオットの法人コード", "Corporate_Code":"283335"},
+      {"Company":"DB", "Hotel":"マリオットの法人コード", "Corporate_Code":"11353"},
+      {"Company":"De Beers", "Hotel":"マリオットの法人コード", "Corporate_Code":"D86"},
+      {"Company":"Dell", "Hotel":"マリオットの法人コード", "Corporate_Code":"DEL"},
+      {"Company":"Deloitte", "Hotel":"マリオットの法人コード", "Corporate_Code":"DTC"},
+      {"Company":"Delta", "Hotel":"マリオットの法人コード", "Corporate_Code":"DLA"},
+      {"Company":"Deutch Bank", "Hotel":"マリオットの法人コード", "Corporate_Code":"DBK"},
+      {"Company":"Disney Employees", "Hotel":"マリオットの法人コード", "Corporate_Code":"DIS"},
+      {"Company":"DTV", "Hotel":"マリオットの法人コード", "Corporate_Code":"2754"},
+      {"Company":"E&Y", "Hotel":"マリオットの法人コード", "Corporate_Code":"EDD"},
+      {"Company":"Eddie Bauer (Seattle area)", "Hotel":"マリオットの法人コード", "Corporate_Code":"EDS"},
+      {"Company":"Electronic Data Systems", "Hotel":"マリオットの法人コード", "Corporate_Code":"EMC"},
+      {"Company":"EMC employees", "Hotel":"マリオットの法人コード", "Corporate_Code":"XOM"},
+      {"Company":"Exxon Mobil", "Hotel":"マリオットの法人コード", "Corporate_Code":"295936"},
+      {"Company":"Fed Rooms", "Hotel":"マリオットの法人コード", "Corporate_Code":"FED"},
+      {"Company":"Federal Express", "Hotel":"マリオットの法人コード", "Corporate_Code":"66272"},
+      {"Company":"Federated", "Hotel":"マリオットの法人コード", "Corporate_Code":"FUS"},
+      {"Company":"Fleet Bank", "Hotel":"マリオットの法人コード", "Corporate_Code":"FLT"},
+      {"Company":"Florida Power", "Hotel":"マリオットの法人コード", "Corporate_Code":"FPL"},
+      {"Company":"Ford Motor Company", "Hotel":"マリオットの法人コード", "Corporate_Code":"FRD"},
+      {"Company":"Fuji", "Hotel":"マリオットの法人コード", "Corporate_Code":"FUJ"},
+      {"Company":"Gap, Inc", "Hotel":"マリオットの法人コード", "Corporate_Code":"GAP"},
+      {"Company":"GE", "Hotel":"マリオットの法人コード", "Corporate_Code":"GEE"},
+      {"Company":"General Dynamics", "Hotel":"マリオットの法人コード", "Corporate_Code":"GMC"},
+      {"Company":"General Electric", "Hotel":"マリオットの法人コード", "Corporate_Code":"GE"},
+      {"Company":"General Motors", "Hotel":"マリオットの法人コード", "Corporate_Code":"GMC"},
+      {"Company":"Gillette", "Hotel":"マリオットの法人コード", "Corporate_Code":"GGL"},
+      {"Company":"Goldman", "Hotel":"マリオットの法人コード", "Corporate_Code":"17885"},
+      {"Company":"Google", "Hotel":"マリオットの法人コード", "Corporate_Code":"5105"},
+      {"Company":"Harvard University", "Hotel":"マリオットの法人コード", "Corporate_Code":"5444"},
+      {"Company":"HP", "Hotel":"マリオットの法人コード", "Corporate_Code":"IBM"},
+      {"Company":"IBM", "Hotel":"マリオットの法人コード", "Corporate_Code":"290717"},
+      {"Company":"Intel", "Hotel":"マリオットの法人コード", "Corporate_Code":"INL"}
+    ]
   },
-  "tab": {
-    "latest": "最新",
-    "featured": "注目",
-    "random": "ランダム"
-  }
+  "Hyatt":{
+    "url": "codePage/Hyatt",
+    "title": "ハイアットの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のハイアットの法人コードを提供します",
+    "data":[
+      {"Company":"Bank of America", "Hotel":"ハイアットの法人コード", "Corporate_Code":"17500"},
+      {"Company":"BMW", "Hotel":"ハイアットの法人コード", "Corporate_Code":"15985"},
+      {"Company":"BNP", "Hotel":"ハイアットの法人コード", "Corporate_Code":"NC95864"},
+      {"Company":"BP International", "Hotel":"ハイアットの法人コード", "Corporate_Code":"27450"},
+      {"Company":"Cisco", "Hotel":"ハイアットの法人コード", "Corporate_Code":"79103"},
+      {"Company":"Company TVL Rate", "Hotel":"ハイアットの法人コード", "Corporate_Code":"86458"}
+    ],
+    "all_data":[
+      {"Company":"Bank of America", "Hotel":"ハイアットの法人コード", "Corporate_Code":"17500"},
+      {"Company":"BMW", "Hotel":"ハイアットの法人コード", "Corporate_Code":"15985"},
+      {"Company":"BNP", "Hotel":"ハイアットの法人コード", "Corporate_Code":"NC95864"},
+      {"Company":"BP International", "Hotel":"ハイアットの法人コード", "Corporate_Code":"27450"},
+      {"Company":"Cisco", "Hotel":"ハイアットの法人コード", "Corporate_Code":"79103"},
+      {"Company":"Company TVL Rate", "Hotel":"ハイアットの法人コード", "Corporate_Code":"86458"},
+      {"Company":"Costco", "Hotel":"ハイアットの法人コード", "Corporate_Code":"97920"},
+      {"Company":"Credit Lyonnais", "Hotel":"ハイアットの法人コード", "Corporate_Code":"88762"},
+      {"Company":"Credit Suisse", "Hotel":"ハイアットの法人コード", "Corporate_Code":"13365"},
+      {"Company":"Daimler Benz", "Hotel":"ハイアットの法人コード", "Corporate_Code":"68083"},
+      {"Company":"Deloitte", "Hotel":"ハイアットの法人コード", "Corporate_Code":"66267"},
+      {"Company":"GE", "Hotel":"ハイアットの法人コード", "Corporate_Code":"13516"},
+      {"Company":"GE International", "Hotel":"ハイアットの法人コード", "Corporate_Code":"12624"},
+      {"Company":"General Electric", "Hotel":"ハイアットの法人コード", "Corporate_Code":"99800"},
+      {"Company":"General Motors", "Hotel":"ハイアットの法人コード", "Corporate_Code":"20725"},
+      {"Company":"Honda", "Hotel":"ハイアットの法人コード", "Corporate_Code":"16700"},
+      {"Company":"IBM", "Hotel":"ハイアットの法人コード", "Corporate_Code":"13307"},
+      {"Company":"Li & Fung", "Hotel":"ハイアットの法人コード", "Corporate_Code":"NC12964"},
+      {"Company":"Lufthansa", "Hotel":"ハイアットの法人コード", "Corporate_Code":"34235"},
+      {"Company":"Morgan Stanley", "Hotel":"ハイアットの法人コード", "Corporate_Code":"13717"},
+      {"Company":"Samsung", "Hotel":"ハイアットの法人コード", "Corporate_Code":"90010"},
+      {"Company":"Samsung", "Hotel":"ハイアットの法人コード", "Corporate_Code":"13717"},
+      {"Company":"SAP America", "Hotel":"ハイアットの法人コード", "Corporate_Code":"23240"},
+      {"Company":"Senior Citizen", "Hotel":"ハイアットの法人コード", "Corporate_Code":"57039"},
+      {"Company":"TVL Rate", "Hotel":"ハイアットの法人コード", "Corporate_Code":"24560"},
+      {"Company":"TVL Rte", "Hotel":"ハイアットの法人コード", "Corporate_Code":"NC98733"},
+      {"Company":"UBS", "Hotel":"ハイアットの法人コード", "Corporate_Code":"17497"}
+    ]
+  },
+  "IHG":{
+    "url": "codePage/IHG",
+    "title": "IHGの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のIHGの法人コードを提供します",
+    "data":[
+      {"Company":"Ace Hardware", "Hotel":"IHGの法人コード", "Corporate_Code":"101672"},
+      {"Company":"Arizona State University", "Hotel":"IHGの法人コード", "Corporate_Code":"100862437"},
+      {"Company":"AT&T", "Hotel":"IHGの法人コード", "Corporate_Code":"150711"},
+      {"Company":"Bank of America", "Hotel":"IHGの法人コード", "Corporate_Code":"109568"},
+      {"Company":"Bayer", "Hotel":"IHGの法人コード", "Corporate_Code":"251321"},
+      {"Company":"Cisco", "Hotel":"IHGの法人コード", "Corporate_Code":"954410926"}
+    ],
+    "all_data":[
+      {"Company":"Ace Hardware", "Hotel":"IHGの法人コード", "Corporate_Code":"101672"},
+      {"Company":"Arizona State University", "Hotel":"IHGの法人コード", "Corporate_Code":"100862437"},
+      {"Company":"AT&T", "Hotel":"IHGの法人コード", "Corporate_Code":"150711"},
+      {"Company":"Bank of America", "Hotel":"IHGの法人コード", "Corporate_Code":"109568"},
+      {"Company":"Bayer", "Hotel":"IHGの法人コード", "Corporate_Code":"251321"},
+      {"Company":"Cisco", "Hotel":"IHGの法人コード", "Corporate_Code":"954410926"},
+      {"Company":"Coca Cola", "Hotel":"IHGの法人コード", "Corporate_Code":"128813"},
+      {"Company":"ConocoPhillips", "Hotel":"IHGの法人コード", "Corporate_Code":"262552"},
+      {"Company":"Dell", "Hotel":"IHGの法人コード", "Corporate_Code":"954284898"},
+      {"Company":"Fedex", "Hotel":"IHGの法人コード", "Corporate_Code":"109207"},
+      {"Company":"Ford", "Hotel":"IHGの法人コード", "Corporate_Code":"100016221"},
+      {"Company":"Fujitsu", "Hotel":"IHGの法人コード", "Corporate_Code":"102806"},
+      {"Company":"GE", "Hotel":"IHGの法人コード", "Corporate_Code":"100371240"},
+      {"Company":"Honda", "Hotel":"IHGの法人コード", "Corporate_Code":"243132"},
+      {"Company":"IBM", "Hotel":"IHGの法人コード", "Corporate_Code":"105406"},
+      {"Company":"Kraft", "Hotel":"IHGの法人コード", "Corporate_Code":"900000588"},
+      {"Company":"Lafarge", "Hotel":"IHGの法人コード", "Corporate_Code":"100211707"},
+      {"Company":"Lowes", "Hotel":"IHGの法人コード", "Corporate_Code":"924806"},
+      {"Company":"Loyola University", "Hotel":"IHGの法人コード", "Corporate_Code":"478113"},
+      {"Company":"Microsoft", "Hotel":"IHGの法人コード", "Corporate_Code":"100857558"},
+      {"Company":"Motorola", "Hotel":"IHGの法人コード", "Corporate_Code":"128554"},
+      {"Company":"Network Appliance", "Hotel":"IHGの法人コード", "Corporate_Code":"954284247"},
+      {"Company":"NWCTA", "Hotel":"IHGの法人コード", "Corporate_Code":"900033305"},
+      {"Company":"Oracle", "Hotel":"IHGの法人コード", "Corporate_Code":"100183394"},
+      {"Company":"Philips", "Hotel":"IHGの法人コード", "Corporate_Code":"953100013"},
+      {"Company":"Rutgers University", "Hotel":"IHGの法人コード", "Corporate_Code":"100189760"},
+      {"Company":"Siemens", "Hotel":"IHGの法人コード", "Corporate_Code":"104256"},
+      {"Company":"Target", "Hotel":"IHGの法人コード", "Corporate_Code":"888400"},
+      {"Company":"Toyota", "Hotel":"IHGの法人コード", "Corporate_Code":"954409548"},
+      {"Company":"United Parcel Service", "Hotel":"IHGの法人コード", "Corporate_Code":"108146"},
+      {"Company":"University of Texas", "Hotel":"IHGの法人コード", "Corporate_Code":"99502056"}
+    ]
+  },
+  "Western":{
+    "url": "codePage/Western",
+    "title": "ベストウェスタンの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のベストウェスタンの法人コードを提供します",
+    "data":[
+      {"Company": "Best Business Worldwide", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1476170"},
+      {"Company": "California IT", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1388930"},
+      {"Company": "FedEx", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1353080"},
+      {"Company": "Ford", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "101841"},
+      {"Company": "General Electric", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "322510"}
+    ],
+    "all_data":[
+      {"Company": "Best Business Worldwide", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1476170"},
+      {"Company": "California IT", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1388930"},
+      {"Company": "FedEx", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1353080"},
+      {"Company": "Ford", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "101841"},
+      {"Company": "General Electric", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "322510"},
+      {"Company": "Joe’s House", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1402610"},
+      {"Company": "Met Comm Churches", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1260440"},
+      {"Company": "Nurses", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1418260"},
+      {"Company": "Touchstone Energy", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1399660"},
+      {"Company": "Univ of Maryland", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "334930"},
+      {"Company": "Univ of Pittsburg", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1119970"}
+    ]
+  },
+  "Choice":{
+    "url": "codePage/Choice",
+    "title": "チョイス・ホテルズの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のチョイス・ホテルズの法人コードを提供します",
+    "data":[
+      {"Company": "ABN", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "845160"},
+      {"Company": "Allied Business Network", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "00845160"}
+    ],
+    "all_data":[
+      {"Company": "ABN", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "845160"},
+      {"Company": "Allied Business Network", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "00845160"},
+      {"Company": "Harvard", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "76514"},
+      {"Company": "Yale University", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "318810"}
+    ]
+  },
+  "Omni":{
+    "url": "codePage/Omni",
+    "title": "オムニの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のオムニの法人コードを提供します",
+    "data":[
+      {"Company": "AT&T", "Hotel": "オムニの法人コード", "Corporate_Code": "N0099999"}
+    ],
+    "all_data":[
+      {"Company": "AT&T", "Hotel": "オムニの法人コード", "Corporate_Code": "N0099999"}
+    ]
+  },
+  "Accor":{
+    "url": "codePage/Accor",
+    "title": "アコーの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のアコーの法人コードを提供します",
+    "data":[
+      {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "SCP428914"}
+    ],
+    "all_data":[
+      {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "SCP428914"},
+      {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "AS633AU981"}
+    ]
+  },
+  "Wyndham":{
+    "url": "codePage/Wyndham",
+    "title": "ウィンダムの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のウィンダムの法人コードを提供します",
+    "data":[
+      {"Company": "ABN", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "8000000066"},
+      {"Company": "AIChE", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000007598"},
+      {"Company": "ASCP", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000010014"},
+      {"Company": "Business Advantage Plus", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000008537"},
+      {"Company": "Century 21 System", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "803277"},
+      {"Company": "Civil Air Patrol", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000008946"}
+    ],
+    "all_data":[
+      {"Company": "ABN", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "8000000066"},
+      {"Company": "AIChE", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000007598"},
+      {"Company": "ASCP", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000010014"},
+      {"Company": "Business Advantage Plus", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000008537"},
+      {"Company": "Century 21 System", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "803277"},
+      {"Company": "Civil Air Patrol", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000008946"},
+      {"Company": "EC Purchasing", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000000265"},
+      {"Company": "MTA", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000007604"},
+      {"Company": "NYSUT", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000007844"},
+      {"Company": "SmithBucklin", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "55067752"},
+      {"Company": "The Employee Network", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000009871"},
+      {"Company": "University of Buffalo", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "100232108"},
+      {"Company": "University of California", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000005337"}
+    ]
+  },
+  "Radisson":{
+    "url": "codePage/Radisson",
+    "title": "ラディソンの法人コード",
+    "more": "その他の法人コード",
+    "des": "2024年のラディソンの法人コードを提供します",
+    "data":[
+      {"Company": "3M", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1229"},
+      {"Company": "ABB (Asea Brown Boveri)", "Hotel": "ラディソンの法人コード", "Corporate_Code": "41289"},
+      {"Company": "Abbott Laboratories", "Hotel": "ラディソンの法人コード", "Corporate_Code": "10478"},
+      {"Company": "Accenture", "Hotel": "ラディソンの法人コード", "Corporate_Code": "14410"},
+      {"Company": "Aecom Technology Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "61709"},
+      {"Company": "Agilent Technologies, Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "64410"}
+    ],
+    "all_data":[
+      {"Company": "3M", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1229"},
+      {"Company": "ABB (Asea Brown Boveri)", "Hotel": "ラディソンの法人コード", "Corporate_Code": "41289"},
+      {"Company": "Abbott Laboratories", "Hotel": "ラディソンの法人コード", "Corporate_Code": "10478"},
+      {"Company": "Accenture", "Hotel": "ラディソンの法人コード", "Corporate_Code": "14410"},
+      {"Company": "Aecom Technology Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "61709"},
+      {"Company": "Agilent Technologies, Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "64410"},
+      {"Company": "Agrium", "Hotel": "ラディソンの法人コード", "Corporate_Code": "55957"},
+      {"Company": "Air Canada", "Hotel": "ラディソンの法人コード", "Corporate_Code": "47273"},
+      {"Company": "Allergan, Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC2279"},
+      {"Company": "Alliant Techsystems Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "82733"},
+      {"Company": "Allstate Insurance Company", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1702"},
+      {"Company": "Alstom", "Hotel": "ラディソンの法人コード", "Corporate_Code": "61331"},
+      {"Company": "American Electric Power", "Hotel": "ラディソンの法人コード", "Corporate_Code": "40495"},
+      {"Company": "Amway Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "14426"},
+      {"Company": "Anheuser-Busch Companies", "Hotel": "ラディソンの法人コード", "Corporate_Code": "14535"},
+      {"Company": "AON", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP6800"},
+      {"Company": "AP Moller Maersk & Danske Bank", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1263"},
+      {"Company": "Apollo Group", "Hotel": "ラディソンの法人コード", "Corporate_Code": "68180"},
+      {"Company": "Archer Daniels Midland Company", "Hotel": "ラディソンの法人コード", "Corporate_Code": "19241"},
+      {"Company": "Ascena Retail Group", "Hotel": "ラディソンの法人コード", "Corporate_Code": "74648"},
+      {"Company": "AT & T", "Hotel": "ラディソンの法人コード", "Corporate_Code": "69511"},
+      {"Company": "AT Kearney, Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1081"},
+      {"Company": "ATB Financial", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC8441"},
+      {"Company": "Atkins Global", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP3401"},
+      {"Company": "Atlantic Southeast Airlines", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC8421"},
+      {"Company": "BAE Systems", "Hotel": "ラディソンの法人コード", "Corporate_Code": "42937"},
+      {"Company": "Bank of America", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1255"},
+      {"Company": "Bank of Montreal (BMO Financial Group)", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC8456"},
+      {"Company": "Barclays Capital", "Hotel": "ラディソンの法人コード", "Corporate_Code": "47344"},
+      {"Company": "BASF", "Hotel": "ラディソンの法人コード", "Corporate_Code": "40724"},
+      {"Company": "Battelle Memorial Institute", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC8467"},
+      {"Company": "Baxter International Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "47069"},
+      {"Company": "Bayer Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "44519"},
+      {"Company": "BB&T Capital Markets", "Hotel": "ラディソンの法人コード", "Corporate_Code": "42813"},
+      {"Company": "Becton Dickinson", "Hotel": "ラディソンの法人コード", "Corporate_Code": "54623"},
+      {"Company": "Bell Canada Enterprises", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1191"},
+      {"Company": "Best Buy", "Hotel": "ラディソンの法人コード", "Corporate_Code": "10052"},
+      {"Company": "Bombardier", "Hotel": "ラディソンの法人コード", "Corporate_Code": "76683"},
+      {"Company": "Booz Allen Hamilton", "Hotel": "ラディソンの法人コード", "Corporate_Code": "80712"},
+      {"Company": "Boston Scientific", "Hotel": "ラディソンの法人コード", "Corporate_Code": "10056"},
+      {"Company": "BP", "Hotel": "ラディソンの法人コード", "Corporate_Code": "74334"},
+      {"Company": "Bristol-Myers Squibb (BMS) US", "Hotel": "ラディソンの法人コード", "Corporate_Code": "13371"},
+      {"Company": "British American Tobacco", "Hotel": "ラディソンの法人コード", "Corporate_Code": "47423"},
+      {"Company": "Broadcom Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WC8328"},
+      {"Company": "Burger King", "Hotel": "ラディソンの法人コード", "Corporate_Code": "42008"}
+    ]
+  },
+  "content":[
+    {
+      "title": "ホテルの法人コードとは何ですか？",
+      "name": "ホテルの法人コードは、会社や組織に与えられるユニークな割引コードで、ホテルの部屋を予約するときに特別な料金でアクセスできるようになります。これらのコードは、ホテルと企業の間の契約の一部であり、社員がビジネストリップや法人イベントの間に宿泊施設を低価格で予約できるようにします。これらは、会社が旅行費用を効率的に管理するのを助け、さまざまな場所で一貫した割引を提供します。通常、大企業、旅行代理店、政府機関は、これらのコードを使用して頻繁な旅行需要に最適な料金を確保します。"
+    },
+    {
+      "title": "ホテルの法人コードのリスト",
+      "name": "ホテルの法人コードのリストには、さまざまな会社が使用する特別な割引コードが含まれており、これらのコードを使用して、社員は割引料金でホテルの部屋を予約できます。これらのコードは、頻繁な旅行者の間でオンラインで共有され、対応する会社の社員が法人割引にアクセスするために使用されます。リストには通常、マリオット、ヒルトン、ハイアットなどの主要なホテルチェーンが含まれており、さまざまな割引を提供しています。しかし、これらのコードの使用は、通常、関連会社の社員に限られており、無許可の使用はホテルの方針に違反する可能性があります。"
+    },
+    {
+      "title": "ホテルの法人コードは無料ですか？",
+      "name": "はい、このホテルの法人コードは、特定のホテルチェーンと契約している会社の社員が使用するために通常は無料です。これらのコードは、会社が宿泊費用を節約するための法人旅行プログラムの一部として提供されます。コード自体は何もかかりませんが、これらは、資格のある社員または会社に関連する個人の認可された使用のために意図されています。これらのコードの無許可の使用は、罰則や予約の無効化につながる可能性があります。したがって、会社とホテルが設定したガイドラインの範囲内でこれらのコードを使用することが重要です。"
+    },
+    {
+      "title": "ホテルの法人コードは2024年のコードを提供しますか？",
+      "name": "はい、2024年のホテルの法人コードは、通常、ホテルチェーンと継続的な契約を結んでいる会社から提供され、社員がビジネストリップ中に割引料金を受けることができます。これらのコードは、年単位または新しい契約の一環として更新され、社員がビジネストリップ中に引き続き割引料金を受けることができるようにします。旅行者によってオンラインで共有される可能性のある2024年のいくつかのコードは、通常、会社の社員の認可された使用のために意図されています。これらのコードを適切に使用することが重要です。不適切な使用は、罰則や予約のキャンセルにつながる可能性があります。"
+    }
+  ]
 }

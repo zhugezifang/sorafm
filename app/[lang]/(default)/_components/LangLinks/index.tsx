@@ -11,7 +11,7 @@ const LangLinks = () => {
         const name = localeNames[key];
         return (
           <span key={key}>
-            <Link href={key}>{name}</Link>
+            <Link href={`/${key}`}>{name}</Link>
           </span>
         );
       })}
