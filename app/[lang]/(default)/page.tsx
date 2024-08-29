@@ -15,7 +15,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   return {
     alternates: {
-      canonical: `${process.env.WEB_BASE_URI}/${params.lang}`,
+      canonical: `https://corporate-codes.online/${params.lang}`,
     },
   };
 }
