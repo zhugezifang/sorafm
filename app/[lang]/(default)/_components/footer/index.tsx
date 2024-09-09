@@ -25,19 +25,15 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
           <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Products</div>
+              <a href="https://tap4.ai/" target="_blank"
+                className="font-inter font-light text-gray-500" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>
               <a
-                href="https://openai.com/sora?utm_source=sora.fm"
+                href="https://tiktok-money-calculator.online"
+                title="TikTok Money Calculator"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                None
-              </a>
-              <a
-                href="https://openai.com/research/video-generation-models-as-world-simulators?utm_source=sora.fm"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                None
+                TikTok Money Calculator
               </a>
               <a
                 href="https://platform.openai.com/docs/api-reference?utm_source=sora.fm"
