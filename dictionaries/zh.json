@@ -17,8 +17,8 @@
   ],
   "footer":[
     {"title":"关于我们","url":""},
-    {"title":"广告协议","url":""},
-    {"title":"隐私协议","url":""}
+    {"title":"广告协议","url":"ads"},
+    {"title":"隐私协议","url":"policy"}
   ],
   "Hilton":{
     "title": "希尔顿酒店协议代码",

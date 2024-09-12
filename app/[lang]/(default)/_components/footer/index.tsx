@@ -100,7 +100,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               {navigations.map((tab: Nav, idx: number) => (
                 <a
                   key={idx}
-                  href={`/${lang}/${tab.url}`}
+                  href={`/${tab.url}`}
                   target="_blank"
                   className="font-inter font-light text-gray-500"
                 >

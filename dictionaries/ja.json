@@ -17,8 +17,8 @@
   ],
   "footer":[
     {"title":"私たちについて","url":""},
-    {"title":"広告の条件","url":""},
-    {"title":"プライバシーポリシー","url":""}
+    {"title":"広告の条件","url":"ads"},
+    {"title":"プライバシーポリシー","url":"policy"}
   ],
   "Hilton":{
     "title": "ヒルトンの法人コード",

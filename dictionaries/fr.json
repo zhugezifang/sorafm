@@ -17,8 +17,8 @@
   ],
   "footer":[
     {"title":"À propos de nous","url":""},
-    {"title":"Conditions de la publicité","url":""},
-    {"title":"Politique de confidentialité","url":""}
+    {"title":"Conditions de la publicité","url":"ads"},
+    {"title":"Politique de confidentialité","url":"policy"}
   ],
   "Hilton":{
     "title": "Code d'entreprise pour Hilton",

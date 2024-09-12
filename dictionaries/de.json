@@ -17,8 +17,8 @@
   ],
   "footer":[
     {"title":"Über uns","url":""},
-    {"title":"Werbebedingungen","url":""},
-    {"title":"Datenschutzbestimmungen","url":""}
+    {"title":"Werbebedingungen","url":"ads"},
+    {"title":"Datenschutzbestimmungen","url":"policy"}
   ],
   "Hilton":{
       "title": "Geschäftscode für Hilton",
