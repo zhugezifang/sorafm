@@ -33,6 +33,9 @@ export default function RootLayout({
     <html lang={lang}>
       <head>
         <link rel="icon" href="/favicon.ico" />
+        {/* Bug 修复: 将 crossorigin 改为 crossOrigin */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
+        crossOrigin="anonymous"></script>
         <script
           async
           src={`https://www.googletagmanager.com/gtag/js?id=G-Y65J1475LV`}
