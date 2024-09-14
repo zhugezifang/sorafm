@@ -14,9 +14,9 @@ export default function ({ dict }: { dict: any }) {
                     className="mt-3 rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
                     {contentTions.map((tab: Nav, idx: number) => (
                         <div key={idx} className="">
-                            <h2 className="text-white font-bold text-4xl">
+                            <h3 className="text-white font-bold text-4xl">
                                 {tab.title}
-                            </h2>
+                            </h3>
                             <p className="text-white text-base leading-8 my-5">
                                 {tab.name}
                             </p>
