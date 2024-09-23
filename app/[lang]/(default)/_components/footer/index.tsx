@@ -37,6 +37,9 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 className="font-inter font-light text-gray-500" title="Woy AI Tools Directory">Woy AI Tools</a>
               <a href="https://tap4.ai/" target="_blank"
                 className="font-inter font-light text-gray-500" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>
+              <a href="https://navs.site" target="_blank"
+                className="font-inter font-light text-gray-500">AI Nav Site</a>
+
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">FRIENDS</div>
