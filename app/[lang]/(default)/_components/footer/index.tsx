@@ -26,6 +26,14 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Products</div>
               <a
+                href="https://virtual-try-on.online"
+                title="Kolors Virtual Try On"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                Kolors Virtual Try On
+              </a> 
+              <a
                 href="https://tiktok-money-calculator.online"
                 title="TikTok Money Calculator"
                 target="_blank"
