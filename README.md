@@ -1,5 +1,5 @@
-# 酒店协议代码
+# Hotel Corporate Codes
 
-酒店协议代码是关于希尔顿、万豪、凯悦、洲际IHG、欧姆尼、温德姆、丽笙酒店协议代码，为企业提供的特殊折扣代码，用于以优惠价格预订酒店。公司使用这些代码为员工节省差旅费用。
+Hotel corporate codes are special discount codes about IHG, Hilton, Marriott, Hyatt, and more. it provided to businesses for booking hotels at reduced rates. Companies use these codes to save on travel expenses for their employees.
 
-[酒店协议代码](https://corporate-codes.online/zh)
+[Hotel Corporate Codes](https://corporate-codes.online)
