@@ -59,11 +59,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 PC Bottleneck Calculator
               </a>
               <a
-                href="/"
+                href="https://image-splitter.online/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                None
+                Image Splitter
               </a>
               <a
                 href="/"
