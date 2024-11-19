@@ -74,7 +74,7 @@ export default function ({
       </div>
      </div>
 
-     <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+     <div className="py-4 px-4 mx-auto max-w-screen-xl sm:py-6 lg:px-6">
         <script async data-cfasync="false" src="//dustinga.com/d1472120778daf83cc623354618f95b3/invoke.js"></script>
         <div id="container-d1472120778daf83cc623354618f95b3"></div>
      </div>
