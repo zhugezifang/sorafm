@@ -8,7 +8,8 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
   const navigations: Nav[] = dict.nav;
 
   return (
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
+    <header>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
         crossOrigin="anonymous"></script>
     <script
           async
@@ -24,7 +25,6 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             `,
           }}
     />
-    <header>
       <div className="h-auto w-screen">
         <nav className="font-inter mx-auto h-auto w-full max-w-7xl lg:relative lg:top-0">
           <div className="flex flex-row items-center px-6 py-8 lg:flex-row lg:items-center lg:justify-between lg:px-10 lg:py-8 xl:px-10">
