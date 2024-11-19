@@ -74,6 +74,9 @@ export default function ({
       </div>
      </div>
 
+     <script async="async" data-cfasync="false" src="//dustinga.com/d1472120778daf83cc623354618f95b3/invoke.js"></script>
+     <div id="container-d1472120778daf83cc623354618f95b3"></div>
+
      <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-6 shadow-2xl sm:rounded-3xl sm:px-24 xl:pt-4 flex justify-between items-center">
       <h2 className="text-2xl text-white font-bold">{dict.Marriott.title}</h2>
       <a href={`/${lang}/${dict.Marriott.url}`} className="text-white hover:text-blue-700">{dict.Marriott.more}</a>

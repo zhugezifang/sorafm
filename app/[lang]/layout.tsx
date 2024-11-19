@@ -34,22 +34,6 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.ico" />
         {/* Bug 修复: 将 crossorigin 改为 crossOrigin */}
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
-        crossOrigin="anonymous"></script>
-        <script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=G-Y65J1475LV`}
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-Y65J1475LV');
-            `,
-          }}
-        />
       </head>
       <body className={inter.className}>
         <Toaster position="top-center" richColors />

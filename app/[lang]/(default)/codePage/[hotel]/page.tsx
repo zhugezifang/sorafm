@@ -38,6 +38,9 @@ export default async function ({
           {data.des}
         </p>
 
+        <script async="async" data-cfasync="false" src="//dustinga.com/d1472120778daf83cc623354618f95b3/invoke.js"></script>
+        <div id="container-d1472120778daf83cc623354618f95b3"></div>
+
         <div className="flex flex-col px-8">
       <div className="overflow-x-auto sm:mx-0.5 lg:mx-0.5">
         <div className="py-2 inline-block min-w-full sm:px-6 lg:px-8">

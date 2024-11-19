@@ -8,6 +8,22 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
   const navigations: Nav[] = dict.nav;
 
   return (
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
+        crossOrigin="anonymous"></script>
+    <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=G-Y65J1475LV`}
+    />
+    <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-Y65J1475LV');
+            `,
+          }}
+    />
     <header>
       <div className="h-auto w-screen">
         <nav className="font-inter mx-auto h-auto w-full max-w-7xl lg:relative lg:top-0">
