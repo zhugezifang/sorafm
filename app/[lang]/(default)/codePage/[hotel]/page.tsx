@@ -60,6 +60,9 @@ export default async function ({
                   <th scope="col" className="text-sm font-medium text-gray-900 px-6 py-4 text-left">
                   Corporate Code
                   </th>
+                  <th scope="col" className="text-sm font-medium text-gray-900 px-6 py-4 text-left">
+                  view
+                  </th>
                 </tr>
               </thead>
               <tbody>       
@@ -73,6 +76,9 @@ export default async function ({
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
                       {tab.Corporate_Code}
+                      </td>
+                      <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
+                      <a href={`/${lang}/detail/${tab.Hotel}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                ))}
