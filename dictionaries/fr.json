@@ -1,4 +1,5 @@
 {
+  "copy":"copier", "daima":"Code de remise d'entreprise en 2025",
   "brand": {
     "name": "Corporate Codes",
     "title": "Codes d'entreprise pour hôtels",
@@ -21,6 +22,7 @@
     {"title":"Politique de confidentialité","url":"policy"}
   ],
   "Hilton":{
+    "name":"Hilton",
     "title": "Code d'entreprise pour Hilton",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Hilton pour 2024",
@@ -81,6 +83,7 @@
     ]
   },
   "Marriott":{
+    "name":"Marriott",
     "title": "Code d'entreprise pour Marriott",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Marriott pour 2024",
@@ -164,6 +167,7 @@
     ]
   },
   "Hyatt":{
+    "name":"Hyatt",
     "url": "codePage/Hyatt",
     "title": "Code d'entreprise pour Hyatt",
     "more": "Autres codes d'entreprise",
@@ -207,6 +211,7 @@
     ]
   },
   "IHG":{
+    "name":"IHG",
     "url": "codePage/IHG",
     "title": "Code d'entreprise pour IHG",
     "more": "Autres codes d'entreprise",
@@ -254,6 +259,7 @@
     ]
   },
   "Western":{
+    "name":"Western",
     "url": "codePage/Western",
     "title": "Code d'entreprise pour Best Western",
     "more": "Autres codes d'entreprise",
@@ -280,6 +286,7 @@
     ]
   },
   "Choice":{
+    "name":"Choice",
     "url": "codePage/Choice",
     "title": "Code d'entreprise pour Choice Hotels",
     "more": "Autres codes d'entreprise",
@@ -296,6 +303,7 @@
     ]
   },
   "Omni":{
+    "name":"Omni",
     "url": "codePage/Omni",
     "title": "Code d'entreprise pour Omni",
     "more": "Autres codes d'entreprise",
@@ -308,6 +316,7 @@
     ]
   },
   "Accor":{
+    "name":"Accor",
     "url": "codePage/Accor",
     "title": "Code d'entreprise pour Accor",
     "more": "Autres codes d'entreprise",
@@ -321,6 +330,7 @@
     ]
   },
   "Wyndham":{
+    "name":"Wyndham",
     "url": "codePage/Wyndham",
     "title": "Code d'entreprise pour Wyndham",
     "more": "Autres codes d'entreprise",
@@ -350,6 +360,7 @@
     ]
   },
   "Radisson":{
+    "name":"Radisson",
     "url": "codePage/Radisson",
     "title": "Code d'entreprise pour Radisson",
     "more": "Autres codes d'entreprise",

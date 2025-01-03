@@ -1,7 +1,9 @@
 {
+  "copy":"copy",
+  "daima":"Corporate Discount Code in 2025",
   "brand": {
     "name": "Corporate Codes",
-    "title": "Hotel Corporate Codes",
+    "title": "Hotel Corporate Codes in 2025",
     "sub_title": "Hotel corporate codes are special discount codes about IHG, Hilton, Marriott, Hyatt, and more in 2025. it provided to businesses for booking hotels at reduced rates. Companies use these codes to save on travel expenses for their employees.",
     "keywords": "Hotel corporate codes,IHG, Hilton, Marriott, Hyatt hotel"
   },
@@ -21,6 +23,7 @@
     {"title":"Privacy Policy","url":"policy"}
   ],
   "Hilton":{
+    "name":"Hilton",
     "title": "Hilton Corporate Codes 2025",
     "url": "codePage/Hilton",
     "more": "More Corporate Codes",
@@ -81,6 +84,7 @@
     ]
   },
   "Marriott":{
+    "name":"Marriott",
     "title": "Marriott Corporate Codes 2025",
     "url": "codePage/Marriott",
     "more": "More Corporate Codes",
@@ -164,6 +168,7 @@
     ]
   },
   "Hyatt":{
+    "name":"Hyatt",
     "title": "Hyatt Corporate Codes 2025",
     "url": "codePage/Hyatt",
     "more": "More Corporate Codes",
@@ -207,6 +212,7 @@
   ]
   },
   "IHG":{
+    "name":"IHG",
     "title": "IHG Corporate Codes 2025",
     "url": "codePage/IHG",
     "more": "More Corporate Codes",
@@ -254,6 +260,7 @@
   ]
   },
   "Western":{
+    "name":"Western",
     "title": "Best Western Corporate Codes 2025",
     "url": "codePage/Western",
     "more": "More Corporate Codes",
@@ -280,6 +287,7 @@
     ]
   },
   "Choice":{
+    "name":"Choice",
     "title": "Choice Hotels Corporate Codes 2025",
     "url": "codePage/Choice",
     "more": "More Corporate Codes",
@@ -296,6 +304,7 @@
     ]
   },
   "Omni":{
+    "name":"Omni",
     "title": "Omni Corporate Codes 2025",
     "url": "codePage/Omni",
     "more": "More Corporate Codes",
@@ -308,6 +317,7 @@
     ]
   },
   "Accor":{
+    "name":"Accor",
     "title": "Accor Corporate Codes 2025",
     "url": "codePage/Accor",
     "more": "More Corporate Codes",
@@ -321,6 +331,7 @@
     ]
   },
   "Wyndham":{
+    "name":"Wyndham",
     "title": "Wyndham Corporate Codes 2025",
     "url": "codePage/Wyndham",
     "more": "More Corporate Codes",
@@ -350,6 +361,7 @@
     ]
   },
   "Radisson":{
+    "name":"Radisson",
     "title": "Radisson Corporate Codes 2025",
     "url": "codePage/Radisson",
     "more": "More Corporate Codes",

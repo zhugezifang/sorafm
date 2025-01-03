@@ -1,4 +1,6 @@
 {
+  "copy":"コピー",
+  "daima":"2025年の企業割引コード",
   "brand": {
     "name": "Corporate Codes",
     "title": "ホテルの法人コード",
@@ -21,6 +23,7 @@
     {"title":"プライバシーポリシー","url":"policy"}
   ],
   "Hilton":{
+    "name":"Hilton",
     "title": "ヒルトンの法人コード",
     "more": "その他の法人コード",
     "des": "2024年のヒルトンの法人コードを提供します",
@@ -81,6 +84,7 @@
     ]
   },
   "Marriott":{
+    "name":"Marriott",
     "title": "マリオットの法人コード",
     "more": "その他の法人コード",
     "des": "2024年のマリオットの法人コードを提供します",
@@ -164,6 +168,7 @@
     ]
   },
   "Hyatt":{
+    "name":"Hyatt",
     "url": "codePage/Hyatt",
     "title": "ハイアットの法人コード",
     "more": "その他の法人コード",
@@ -207,6 +212,7 @@
     ]
   },
   "IHG":{
+    "name":"IHG",
     "url": "codePage/IHG",
     "title": "IHGの法人コード",
     "more": "その他の法人コード",
@@ -254,6 +260,7 @@
     ]
   },
   "Western":{
+    "name":"Western",
     "url": "codePage/Western",
     "title": "ベストウェスタンの法人コード",
     "more": "その他の法人コード",
@@ -280,6 +287,7 @@
     ]
   },
   "Choice":{
+    "name":"Choice",
     "url": "codePage/Choice",
     "title": "チョイス・ホテルズの法人コード",
     "more": "その他の法人コード",
@@ -296,6 +304,7 @@
     ]
   },
   "Omni":{
+    "name":"Omni",
     "url": "codePage/Omni",
     "title": "オムニの法人コード",
     "more": "その他の法人コード",
@@ -308,6 +317,7 @@
     ]
   },
   "Accor":{
+    "name":"Accor",
     "url": "codePage/Accor",
     "title": "アコーの法人コード",
     "more": "その他の法人コード",
@@ -321,6 +331,7 @@
     ]
   },
   "Wyndham":{
+    "name":"Wyndham",
     "url": "codePage/Wyndham",
     "title": "ウィンダムの法人コード",
     "more": "その他の法人コード",
@@ -350,6 +361,7 @@
     ]
   },
   "Radisson":{
+    "name":"Radisson",
     "url": "codePage/Radisson",
     "title": "ラディソンの法人コード",
     "more": "その他の法人コード",

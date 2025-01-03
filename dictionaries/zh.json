@@ -1,4 +1,6 @@
 {
+  "copy":"复制",
+  "daima":"折扣协议代码2025",
   "brand": {
     "name": "Corporate Codes",
     "title": "酒店协议代码",
@@ -21,6 +23,7 @@
     {"title":"隐私协议","url":"policy"}
   ],
   "Hilton":{
+    "name":"Hilton",
     "title": "希尔顿酒店协议代码",
     "url": "codePage/Hilton",
     "more": "更多",
@@ -81,6 +84,7 @@
     ]
   },
   "Marriott":{
+    "name":"Marriott",
     "title": "万豪酒店协议代码",
     "url": "codePage/Marriott",
     "more": "更多",
@@ -164,6 +168,7 @@
   ]
   },
   "Hyatt":{
+    "name":"Hyatt",
     "title": "凯悦酒店协议代码",
     "url": "codePage/Hyatt",
     "more": "更多",
@@ -207,6 +212,7 @@
   ]
   },
   "IHG":{
+    "name":"IHG",
     "title": "洲际酒店协议代码",
     "url": "codePage/IHG",
     "more": "更多",
@@ -254,6 +260,7 @@
   ]
   },
   "Western":{
+    "name":"Western",
     "title": "贝斯特韦斯特酒店协议代码",
     "url": "codePage/Western",
     "more": "更多",
@@ -280,6 +287,7 @@
     ]
   },
   "Choice":{
+    "name":"Choice",
     "title": "精选国际酒店协议代码",
     "url": "codePage/Choice",
     "more": "更多",
@@ -296,6 +304,7 @@
     ]
   },
   "Omni":{
+    "name":"Omni",
     "title": "欧姆尼酒店协议代码",
     "url": "codePage/Omni",
     "more": "更多",
@@ -308,6 +317,7 @@
     ]
   },
   "Accor":{
+    "name":"Accor",
     "title": "雅高酒店协议代码",
     "url": "codePage/Accor",
     "more": "更多",
@@ -321,6 +331,7 @@
     ]
   },
   "Wyndham":{
+    "name":"Wyndham",
     "title": "温德姆酒店协议代码",
     "url": "codePage/Wyndham",
     "more": "更多",
@@ -350,6 +361,7 @@
     ]
   },
   "Radisson":{
+    "name":"Radisson",
     "title": "丽笙酒店协议代码",
     "url": "codePage/Radisson",
     "more": "更多",

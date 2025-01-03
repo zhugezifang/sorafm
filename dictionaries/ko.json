@@ -1,4 +1,6 @@
 {
+  "copy":"복사",
+  "daima":"2025년 기업 할인 코드",
    "brand": {
     "name": "Corporate Codes",
     "title": "호텔의 기업체계",
@@ -21,6 +23,7 @@
     { "title": "Privacy Policy", "url": "policy" }
     ],
     "Hilton":{
+      "name":"Hilton",
       "title": "힐튼의 기업체계",
       "more": "기타 기업체계",
       "des": "2024년 힐튼의 기업체계를 제공합니다",
@@ -81,6 +84,7 @@
       ]
     },
     "Marriott":{
+      "name":"Marriott",
       "title": "마리엇의 기업체계",
       "more": "기타 기업체계",
       "des": "2024년 마리엇의 기업체계를 제공합니다",
@@ -164,6 +168,7 @@
       ]
     },
     "Hyatt":{
+      "name":"Hyatt",
       "url": "codePage/Hyatt",
       "title": "하얏트의 기업체계",
       "more": "기타 기업체계",
@@ -207,6 +212,7 @@
       ]
     },
     "IHG":{
+      "name":"IHG",
       "url": "codePage/IHG",
       "title": "IHG의 기업체계",
       "more": "기타 기업체계",
@@ -254,6 +260,7 @@
       ]
     },
     "Western":{
+      "name":"Western",
       "url": "codePage/Western",
       "title": "베스트 웨스턴의 기업체계",
       "more": "기타 기업체계",
@@ -280,6 +287,7 @@
       ]
     },
     "Choice": {
+      "name":"Choice",
       "url": "codePage/Choice",
       "title": "초이스 호텔스의 기업체계",
       "more": "기타 기업체계",
@@ -296,6 +304,7 @@
       ]
     },
     "Omni": {
+      "name":"Omni",
       "url": "codePage/Omni",
       "title": "오미니의 기업체계",
       "more": "기타 기업체계",
@@ -308,6 +317,7 @@
       ]
     },
     "Accor": {
+      "name":"Accor",
       "url": "codePage/Accor",
       "title": "아코르의 기업체계",
       "more": "기타 기업체계",
@@ -321,6 +331,7 @@
       ]
     },
     "Wyndham": {
+      "name":"Wyndham",
       "url": "codePage/Wyndham",
       "title": "윈덤의 기업체계",
       "more": "기타 기업체계",
@@ -350,6 +361,7 @@
       ]
     },
     "Radisson":{
+      "name":"Radisson",
       "url": "codePage/Radisson",
       "title": "라디손의 기업체계",
       "more": "기타 기업체계",

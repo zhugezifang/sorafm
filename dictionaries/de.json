@@ -1,4 +1,6 @@
 {
+  "copy":"kopieren", 
+  "daima":" Unternehmensrabattcode 2025",
   "brand": {
     "name": "Corporate Codes",
     "title": "Geschäftscodes für Hotels",
@@ -21,6 +23,7 @@
     {"title":"Datenschutzbestimmungen","url":"policy"}
   ],
   "Hilton":{
+    "name":"Hilton",
       "title": "Geschäftscode für Hilton",
       "more": "Weitere Geschäftscodes",
       "des": "Anbieten von Geschäftscodes für Hilton für 2024",
@@ -81,6 +84,7 @@
       ]
     },
     "Marriott":{
+      "name":"Marriott",
       "title": "Geschäftscode für Marriott",
       "more": "Weitere Geschäftscodes",
       "des": "Anbieten von Geschäftscodes für Marriott für 2024",
@@ -164,6 +168,7 @@
       ]
     },
     "Hyatt":{
+      "name":"Hyatt",
       "url": "codePage/Hyatt",
       "title": "Geschäftscode für Hyatt",
       "more": "Weitere Geschäftscodes",
@@ -207,6 +212,7 @@
       ]
     },
     "IHG":{
+      "name":"IHG",
       "url": "codePage/IHG",
       "title": "Geschäftscode für IHG",
       "more": "Weitere Geschäftscodes",
@@ -254,6 +260,7 @@
       ]
     },
     "Western":{
+      "name":"Western",
       "url": "codePage/Western",
       "title": "Geschäftscode für Best Western",
       "more": "Weitere Geschäftscodes",
@@ -280,6 +287,7 @@
       ]
     },
     "Choice":{
+      "name":"Choice",
       "url": "codePage/Choice",
       "title": "Geschäftscode für Choice Hotels",
       "more": "Weitere Geschäftscodes",
@@ -296,6 +304,7 @@
       ]
     },
     "Omni":{
+      "name":"Omni",
       "url": "codePage/Omni",
       "title": "Geschäftscode für Omni",
       "more": "Weitere Geschäftscodes",
@@ -308,6 +317,7 @@
       ]
     },
     "Accor":{
+      "name":"Accor",
       "url": "codePage/Accor",
       "title": "Geschäftscode für Accor",
       "more": "Weitere Geschäftscodes",
@@ -321,6 +331,7 @@
       ]
     },
     "Wyndham":{
+      "name":"Wyndham",
       "url": "codePage/Wyndham",
       "title": "Geschäftscode für Wyndham",
       "more": "Weitere Geschäftscodes",
@@ -350,6 +361,7 @@
       ]
     },
     "Radisson":{
+      "name":"Radisson",
       "url": "codePage/Radisson",
       "title": "Geschäftscode für Radisson",
       "more": "Weitere Geschäftscodes",
