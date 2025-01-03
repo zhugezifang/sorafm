@@ -30,7 +30,7 @@ export default async function ({
   return (
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
 
-      <div className="relative isolate overflow-hidden  px-2 py-12  sm:rounded-3xl sm:px-24 xl:py-32">
+      <div className="relative isolate overflow-hidden  px-2 py-12  sm:rounded-3xl sm:px-14 xl:py-12">
         <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold tracking-tight text-primary sm:text-6xl">
           {data.title}
         </h1>
