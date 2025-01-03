@@ -34,7 +34,7 @@ export default async function ({
         <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold tracking-tight text-primary sm:text-6xl">
           {data.title}
         </h1>
-        <p className="mx-auto mt-2 px-4 max-w-xl text-center text-xl leading-8 text-gray-300">
+        <p className="mx-auto mt-2 px-4 max-w-4xl text-center text-xl leading-8 text-gray-300">
           {data.des}
         </p>
 
