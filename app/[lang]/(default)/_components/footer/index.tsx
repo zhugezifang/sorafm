@@ -107,7 +107,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
         <LangLinks />
         <div>
           <p className="font-inter lg: text-center text-sm text-gray-500">
-            © Copyright 2024.{" "}
+            © Copyright 2025.{" "}
             <a
               href="/"
               target="_blank"
