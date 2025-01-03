@@ -13,8 +13,8 @@
       "url": ""
     },
     {
-      "title": "help",
-      "url": ""
+      "title": "blog",
+      "url": "/blog"
     }
   ],
   "footer":[
@@ -448,5 +448,21 @@
       "title":"Is the Hotel corporate codes provide 2025 code?",
       "name":"Yes,Hotel corporate codes for 2025 are typically provided by companies that have ongoing agreements with hotel chains to secure discounted rates for their employees. These codes are updated annually or as part of new contracts, ensuring that employees can continue to benefit from reduced rates during business trips. While some 2025 codes may be shared online by travelers, they are generally intended for authorized use by company employees. It's important to use these codes responsibly, as improper use may result in penalties or booking cancellations."
     }
-  ]
+  ],
+  "blog": {
+    "backToList": "Back to Blog List",
+    "title": "Hotel Corporate Codes Blog List",
+    "description": "share Hotel Corporate Codes experience and blog",
+    "loadMore": "Load More",
+    "posts": [
+          {
+            "id": 1,
+            "title": "Go hilton employee friends family rates plan",
+            "description": "Go hilton employee friends family rates plan",
+            "date": "2025-01-03",
+            "readTime": "20 min reads",
+            "slug": "go-hilton-employee-friends-family-rates-plan"
+          }
+       ]
+  }
 }
