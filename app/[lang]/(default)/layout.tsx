@@ -13,7 +13,7 @@ export default async function ({
   const dict = await getDictionary(params.lang);
 
   return (
-    <div className="bg-gray-900">
+    <div>
       <Header lang={params.lang} dict={dict} />
       <main>{children}</main>
       <Footer lang={params.lang} dict={dict} />

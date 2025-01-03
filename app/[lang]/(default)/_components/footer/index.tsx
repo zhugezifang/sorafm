@@ -9,7 +9,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
 
   return (
     <section>
-      <div className="w-screen flex-col bg-black px-6 py-20 text-white lg:flex lg:px-10 xl:px-24">
+      <div className="w-screen flex-col bg-gray-100 px-6 py-20 lg:flex lg:px-10 xl:px-24">
         <div className="lg:flex lg:flex-row lg:justify-between">
           <div>
             <a href="/" className="inline-block max-w-full">

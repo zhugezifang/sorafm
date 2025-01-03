@@ -25,7 +25,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             `,
           }}
     />
-      <div className="h-auto w-screen">
+      <div className="h-auto w-screen bg-gray-100">
         <nav className="font-inter mx-auto h-auto w-full max-w-7xl lg:relative lg:top-0">
           <div className="flex flex-row items-center px-6 py-8 lg:flex-row lg:items-center lg:justify-between lg:px-10 lg:py-8 xl:px-10">
             <a
@@ -43,7 +43,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                   key={idx}
                   href={`/${lang}/${tab.url}`}
                   target={tab.target || "_self"}
-                  className="text-md font-medium leading-6 text-slate-300 mr-6"
+                  className="text-md font-medium leading-6 mr-6"
                 >
                   {tab.title}
                 </a>
@@ -53,7 +53,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             <div className="flex-1"></div>
 
             <div className="flex flex-row items-center lg:flex lg:flex-row lg:space-x-3 lg:space-y-0">
-              <div className="md:block mr-4 text-white">
+              <div className="md:block mr-4">
                 <Social />
               </div>
               <div>
