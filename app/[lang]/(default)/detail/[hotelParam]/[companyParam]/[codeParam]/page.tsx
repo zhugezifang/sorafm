@@ -40,7 +40,7 @@ export default async function ({
 
       <div className="relative isolate overflow-hidden  px-2 py-6  sm:rounded-3xl sm:px-24 xl:py-6">
 
-        <h1 className="mx-auto max-w-4xl text-center text-4xl font-bold tracking-tight text-primary">
+        <h1 className="mx-auto max-w-4xl text-center text-4xl py-8 font-bold tracking-tight text-primary">
           {hotel} {company} {dict.daima}
         </h1>
 
