@@ -90,10 +90,7 @@ export default async function ({
       </div>
         </div>
         
-
-      </div>
-
-      <div className="bg-gray-100 flex flex-wrap mt-4 p-2">
+        <div className="bg-gray-100 flex flex-wrap mt-4 p-2">
 
           <div className="p-2">
               <a href={`/${lang}/${dict.Hilton.url}`} className="inline-block max-w-full">
@@ -146,6 +143,11 @@ export default async function ({
               </a>
           </div>
         </div>
+
+      </div>
+
+      
+      
 
     </div>
   );
