@@ -51,7 +51,7 @@ export default async function ({
       <div className="relative isolate overflow-hidden  px-2 py-6  sm:rounded-3xl sm:px-24 xl:py-6">
 
         <h2 className="mx-auto max-w-4xl text-center text-4xl font-bold tracking-tight text-primary">
-          {data.title}
+          <a href={`/${lang}/${data.url}`} className="hover:text-blue-700">{data.title}</a>
         </h2>
 
         <div className="py-4 px-4 mx-auto max-w-screen-xl sm:py-6 lg:px-6">
