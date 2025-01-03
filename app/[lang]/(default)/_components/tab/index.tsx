@@ -69,7 +69,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Hilton.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Hilton.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -124,7 +124,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Marriott.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Marriott.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -174,7 +174,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Hyatt.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Hyatt.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -224,7 +224,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Hyatt.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Hyatt.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -274,7 +274,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Western.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Western.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -324,7 +324,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Choice.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Choice.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -374,7 +374,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Omni.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Omni.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -424,7 +424,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Accor.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Accor.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -474,7 +474,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Wyndham.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Wyndham.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}
@@ -524,7 +524,7 @@ export default function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${dict.Radisson.name}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${dict.Radisson.name}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                   ))}

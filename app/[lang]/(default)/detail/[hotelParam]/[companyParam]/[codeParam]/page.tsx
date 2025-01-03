@@ -1,19 +1,20 @@
 import { Metadata } from "next";
 import { Code } from "@/types/code";
 import { getDictionary } from "@/services/i18n";
-import Copy from "../../_components/copy";
+import Copy from "../../../../_components/copy";
 
 export const runtime = 'edge';
 
 export async function generateMetadata({
   params,
 }: {
-  params: { lang: string; param: string };
+  params: { lang: string; hotelParam: string;companyParam: string; codeParam: string };
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang);
-  const hotel = params.param.split('_')[0];
-  const company = params.param.split('_')[1];
-  const code = params.param.split('_')[2];
+  const lang= params.lang;
+  const hotel= decodeURIComponent(params.hotelParam);
+  const company= decodeURIComponent(params.companyParam);
+  const code= decodeURIComponent(params.codeParam);
   const data = dict[hotel];
   return {
     title:`${hotel} ${company} ${dict.daima}`,
@@ -24,14 +25,13 @@ export async function generateMetadata({
 export default async function ({
   params,
 }: {
-  params: { lang: string; param: string };
+  params: { lang: string; hotelParam: string;companyParam: string; codeParam: string };
 }) {
   const dict = await getDictionary(params.lang);
   const lang= params.lang;
-  const hotel = params.param.split('_')[0];
-  const company = params.param.split('_')[1];
-  const code = params.param.split('_')[2];
-
+  const hotel= decodeURIComponent(params.hotelParam);
+  const company= decodeURIComponent(params.companyParam);
+  const code= decodeURIComponent(params.codeParam);
   const data = dict[hotel];
   const codeTions: Code[] = data.all_data;
 
@@ -94,7 +94,7 @@ export default async function ({
                       {tab.Corporate_Code}
                       </td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap">
-                      <a href={`/${lang}/detail/${tab.Hotel}_${tab.Company}_${tab.Corporate_Code}`} className="text-blue-700">view</a>
+                      <a href={`/${lang}/detail/${hotel}/${tab.Company}/${tab.Corporate_Code}`} className="text-blue-700">view</a>
                       </td>
                     </tr>
                ))}
