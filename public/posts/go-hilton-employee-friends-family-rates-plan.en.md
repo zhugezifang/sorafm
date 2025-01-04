@@ -7,8 +7,6 @@ readTime: "10分钟阅读"
 url: "https://supermariogame.org/mario.html"
 ---
 
-# Signature Generator: Create Impressive Signatures and Go
-
 Looking for an easy way to create a professional signature for your digital documents? Our signature generator makes it simple! Whether you’re signing contracts, emails, or official forms, you can instantly generate a personalized, professional signature in just a few clicks.
 
 No more scanning or writing by hand—if you prefer to handwrite, we also offer the option to create and save your handwritten signature. With our AI signature generator, the process is faster and more convenient than ever.
