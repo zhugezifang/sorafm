@@ -4,7 +4,7 @@ import { NextRequest } from "next/server";
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
-  if (pathname === "/favicon.ico" || pathname == "/ads.txt" || pathname == "/google59c7010f61a72e2d.html" || pathname.startsWith("/post/") || pathname.startsWith("/api/")) {
+  if (pathname === "/favicon.ico" || pathname == "/ads.txt" || pathname == "/google59c7010f61a72e2d.html" || pathname.startsWith("/posts/") || pathname.startsWith("/api/")) {
     return;
   }
 
