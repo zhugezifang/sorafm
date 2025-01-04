@@ -20,9 +20,9 @@ export default async function BlogPage({ params: { lang } }: { params: { lang: s
       </div>
       
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-4">
-          {posts.map((post: { id: string; title: string; date: string; readTime: string; description: string; slug: string; }) => (
+          {posts.map((post: { id: string; title: string; date: string; readTime: string; description: string; slug: string;image:string; }) => (
             <article className="p-6 shadow-md transition duration-300 ease-in-out hover:shadow-lg">
-            <img src="https://via.placeholder.com/600" alt="Blog post image" className="w-full object-cover aspect-[16/9] mb-4 transition duration-300 ease-in-out hover:opacity-80"/>
+            <img src={`${post.image}`} alt={`${post.title}`}  className="w-full object-cover aspect-[16/9] mb-4 transition duration-300 ease-in-out hover:opacity-80"/>
             <h2 className="text-xl font-bold text-blue-800"><a href={`/${lang}/blog/${post.slug}`} className="hover:text-blue-600 transition duration-300 ease-in-out">{post.title}</a></h2>
             <p className="text-sm text-gray-600">{post.date}</p>
             </article>

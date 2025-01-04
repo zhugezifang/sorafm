@@ -457,11 +457,12 @@
     "posts": [
           {
             "id": 1,
-            "title": "Go hilton employee friends family rates plan",
-            "description": "Go hilton employee friends family rates plan",
+            "title": "Unveiling the Wonders of Hilton's Employee and Friends & Family Rate Plans",
+            "description": "Unveiling the Wonders of Hilton's Employee and Friends & Family Rate Plans",
             "date": "2025-01-03",
             "readTime": "20 min reads",
-            "slug": "go-hilton-employee-friends-family-rates-plan"
+            "slug": "go-hilton-employee-friends-family-rates-plan",
+            "image": "/images/go-hilton-employee-friends-family-rates-plan.jpeg"
           }
        ]
   }
