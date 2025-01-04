@@ -463,6 +463,15 @@
             "readTime": "20 min reads",
             "slug": "go-hilton-employee-friends-family-rates-plan",
             "image": "/images/go-hilton-employee-friends-family-rates-plan.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Best Corporate Codes for Hotels for Travlers",
+            "description": "Best Corporate Codes for Hotels for Travlers",
+            "date": "2025-01-03",
+            "readTime": "20 min reads",
+            "slug": "best-corporate-codes-for-hotels",
+            "image": "/images/best-corporate-codes-for-hotels.jpeg"
           }
        ]
   }
