@@ -2,7 +2,7 @@
 
 import Langswitch from "../langswitch";
 import { Nav } from "@/types/nav";
-import Social from "../social";
+//import Social from "../social";
 
 export default function ({ lang, dict }: { lang: string; dict: any }) {
   const navigations: Nav[] = dict.nav;
@@ -54,7 +54,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
 
             <div className="flex flex-row items-center lg:flex lg:flex-row lg:space-x-3 lg:space-y-0">
               <div className="md:block mr-4">
-                <Social />
+                
               </div>
               <div>
                 <Langswitch />
