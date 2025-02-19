@@ -12,7 +12,7 @@ export async function generateMetadata({
   const dict = await getDictionary(params.lang);
   const data = dict[params.hotel];
   return {
-    title:`${data.title}——${dict.brand.title}`,
+    title:`${data.title}`,
     description: `${data.des}`,
   };
 }
