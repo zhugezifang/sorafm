@@ -18,8 +18,8 @@
     }
   ],
   "footer":[
-    {"title":"广告协议","url":"https://corporate-codes.online/en/ads"},
-    {"title":"隐私协议","url":"https://corporate-codes.online/en/policy"}
+    {"title":"广告协议","url":"en/ads"},
+    {"title":"隐私协议","url":"en/policy"}
   ],
   "Hilton":{
     "name":"Hilton",

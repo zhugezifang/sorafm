@@ -17,8 +17,8 @@
     }
   ],
   "footer":[
-    {"title":"Conditions de la publicité","url":"https://corporate-codes.online/en/ads"},
-    {"title":"Politique de confidentialité","url":"https://corporate-codes.online/en/policy"}
+    {"title":"Conditions de la publicité","url":"en/ads"},
+    {"title":"Politique de confidentialité","url":"en/policy"}
   ],
   "Hilton":{
     "name":"Hilton",
