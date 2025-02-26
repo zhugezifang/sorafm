@@ -19,8 +19,8 @@
   ],
   "footer":[
     {"title":"About Us","url":""},
-    {"title":"Advertising Terms","url":"/en/ads"},
-    {"title":"Privacy Policy","url":"/en/policy"}
+    {"title":"Advertising Terms","url":"https://corporate-codes.online/en/ads"},
+    {"title":"Privacy Policy","url":"https://corporate-codes.online/en/policy"}
   ],
   "Hilton":{
     "name":"Hilton",
