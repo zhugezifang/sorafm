@@ -19,8 +19,8 @@
   ],
   "footer":[
     {"title":"关于我们","url":""},
-    {"title":"广告协议","url":"ads"},
-    {"title":"隐私协议","url":"policy"}
+    {"title":"广告协议","url":"/en/ads"},
+    {"title":"隐私协议","url":"/en/policy"}
   ],
   "Hilton":{
     "name":"Hilton",

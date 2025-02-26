@@ -19,8 +19,8 @@
   ],
   "footer":[
     {"title":"私たちについて","url":""},
-    {"title":"広告の条件","url":"ads"},
-    {"title":"プライバシーポリシー","url":"policy"}
+    {"title":"広告の条件","url":"/en/ads"},
+    {"title":"プライバシーポリシー","url":"/en/policy"}
   ],
   "Hilton":{
     "name":"Hilton",

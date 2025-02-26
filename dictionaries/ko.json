@@ -19,8 +19,8 @@
     ],
     "footer": [
     { "title": "About Us", "url": "" },
-    { "title": "Advertising Terms", "url": "ads" },
-    { "title": "Privacy Policy", "url": "policy" }
+    { "title": "Advertising Terms", "url": "/en/ads" },
+    { "title": "Privacy Policy", "url": "/en/policy" }
     ],
     "Hilton":{
       "name":"Hilton",

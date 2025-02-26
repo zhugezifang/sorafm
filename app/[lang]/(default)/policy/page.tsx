@@ -9,10 +9,9 @@ export async function generateMetadata({
   params: { lang: string; hotel: string };
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang);
-  const data = dict[params.hotel];
   return {
-    title:`${data.title}——${dict.brand.title}`,
-    description: `${data.des}`,
+    title:`Hotel Corporate Codes Privacy Policy`,
+    description: `Hotel Corporate Codes Privacy Policy`,
   };
 }
 

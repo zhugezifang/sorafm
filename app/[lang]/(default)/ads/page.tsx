@@ -9,10 +9,9 @@ export async function generateMetadata({
   params: { lang: string; hotel: string };
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang);
-  const data = dict[params.hotel];
   return {
-    title:`${data.title}——${dict.brand.title}`,
-    description: `${data.des}`,
+    title:`Hotel Corporate Codes Advertising Terms`,
+    description: `Hotel Corporate Codes Advertising Terms`,
   };
 }
 
@@ -26,7 +25,7 @@ export default async function ({
   return (
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
         <section className="bg-white">
-            <div className="max-w-screen-xl px-4 pt-20 pb-6 mx-auto lg:gap-8 xl:gap-0 lg:py-6 lg:pt-28">
+            <div className="max-w-screen-xl px-4 pt-20 pb-6 mx-auto lg:gap-8 xl:gap-0 lg:py-6 lg:pt-8">
                 <div className="max-w-3xl mx-auto">
                     <div
                         className="mt-3 bg-white rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
