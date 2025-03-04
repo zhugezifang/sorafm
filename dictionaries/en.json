@@ -1,5 +1,6 @@
 {
   "copy":"copy",
+  "title":"Top Hotels In World",
   "daima":"Corporate Discount Code in 2025",
   "brand": {
     "name": "Corporate Codes",
@@ -24,6 +25,7 @@
   ],
   "Hilton":{
     "name":"Hilton",
+    "t0":"Hilton Hotels",
     "title": "Hilton Corporate Codes 2025",
     "url": "codePage/Hilton",
     "more": "More Corporate Codes",
@@ -95,6 +97,7 @@
   },
   "Marriott":{
     "name":"Marriott",
+    "t0":"Marriott Hotels",
     "title": "Marriott Corporate Codes 2025",
     "url": "codePage/Marriott",
     "more": "More Corporate Codes",
@@ -179,6 +182,7 @@
   },
   "Hyatt":{
     "name":"Hyatt",
+    "t0":"Hyatt Hotels",
     "title": "Hyatt Corporate Codes 2025",
     "url": "codePage/Hyatt",
     "more": "More Corporate Codes",
@@ -223,6 +227,7 @@
   },
   "IHG":{
     "name":"IHG",
+    "t0":"IHG Hotels Group",
     "title": "IHG Corporate Codes 2025",
     "url": "codePage/IHG",
     "more": "More Corporate Codes",
@@ -271,6 +276,7 @@
   },
   "Western":{
     "name":"Western",
+    "t0":"Best Western Hotels",
     "title": "Best Western Corporate Codes 2025",
     "url": "codePage/Western",
     "more": "More Corporate Codes",
@@ -298,6 +304,7 @@
   },
   "Choice":{
     "name":"Choice",
+    "t0":"Choice Hotels",
     "title": "Choice Hotels Corporate Codes 2025",
     "url": "codePage/Choice",
     "more": "More Corporate Codes",
@@ -315,6 +322,7 @@
   },
   "Omni":{
     "name":"Omni",
+    "t0":"Omni Hotels",
     "title": "Omni Corporate Codes 2025",
     "url": "codePage/Omni",
     "more": "More Corporate Codes",
@@ -328,6 +336,7 @@
   },
   "Accor":{
     "name":"Accor",
+    "t0":"Accor Hotels",
     "title": "Accor Corporate Codes 2025",
     "url": "codePage/Accor",
     "more": "More Corporate Codes",
@@ -342,6 +351,7 @@
   },
   "Wyndham":{
     "name":"Wyndham",
+    "t0":"Wyndham Hotels",
     "title": "Wyndham Corporate Codes 2025",
     "url": "codePage/Wyndham",
     "more": "More Corporate Codes",
@@ -372,6 +382,7 @@
   },
   "Radisson":{
     "name":"Radisson",
+    "t0":"Radisson Hotels",
     "title": "Radisson Corporate Codes 2025",
     "url": "codePage/Radisson",
     "more": "More Corporate Codes",

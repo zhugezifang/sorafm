@@ -1,5 +1,6 @@
 {
   "copy":"复制",
+  "title":"全球顶级协议酒店",
   "daima":"折扣协议代码2025",
   "brand": {
     "name": "Corporate Codes",
@@ -23,6 +24,7 @@
   ],
   "Hilton":{
     "name":"Hilton",
+    "t0":"希尔顿酒店",
     "title": "希尔顿酒店协议代码(2025年最全的希尔顿协议价代码列表)",
     "url": "codePage/Hilton",
     "more": "更多",
@@ -84,6 +86,7 @@
   },
   "Marriott":{
     "name":"Marriott",
+    "t0":"万豪酒店",
     "title": "万豪酒店协议代码(2025年最全的万豪协议价代码列表)",
     "url": "codePage/Marriott",
     "more": "更多",
@@ -168,6 +171,7 @@
   },
   "Hyatt":{
     "name":"Hyatt",
+    "t0":"凯悦酒店",
     "title": "凯悦酒店协议代码(2025年最全的凯悦协议价代码列表)",
     "url": "codePage/Hyatt",
     "more": "更多",
@@ -212,6 +216,7 @@
   },
   "IHG":{
     "name":"IHG",
+    "t0":"洲际酒店",
     "title": "洲际酒店协议代码(2025年最全的洲际协议价代码列表)",
     "url": "codePage/IHG",
     "more": "更多",
@@ -260,6 +265,7 @@
   },
   "Western":{
     "name":"Western",
+    "t0":"贝斯特韦斯特酒店",
     "title": "贝斯特韦斯特酒店协议代码(2025年最全的贝斯特韦斯特协议价代码列表)",
     "url": "codePage/Western",
     "more": "更多",
@@ -287,6 +293,7 @@
   },
   "Choice":{
     "name":"Choice",
+    "t0":"精选酒店",
     "title": "精选国际酒店协议代码(2025年最全的精选国际酒店特协议价代码列表)",
     "url": "codePage/Choice",
     "more": "更多",
@@ -304,6 +311,7 @@
   },
   "Omni":{
     "name":"Omni",
+    "t0":"欧姆尼酒店",
     "title": "欧姆尼酒店协议代码(2025年最全的欧姆尼特协议价代码列表)",
     "url": "codePage/Omni",
     "more": "更多",
@@ -317,6 +325,7 @@
   },
   "Accor":{
     "name":"Accor",
+    "t0":"雅高酒店",
     "title": "雅高酒店协议代码(2025年最全的雅高协议价代码列表)",
     "url": "codePage/Accor",
     "more": "更多",
@@ -331,6 +340,7 @@
   },
   "Wyndham":{
     "name":"Wyndham",
+    "t0":"温德姆酒店",
     "title": "温德姆酒店协议代码(2025年最全的温德姆协议价代码列表)",
     "url": "codePage/Wyndham",
     "more": "更多",
@@ -361,6 +371,7 @@
   },
   "Radisson":{
     "name":"Radisson",
+    "t0":"丽笙酒店",
     "title": "丽笙酒店协议代码(2025年最全的丽笙协议价代码列表)",
     "url": "codePage/Radisson",
     "more": "更多",
