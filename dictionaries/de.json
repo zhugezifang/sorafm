@@ -1,6 +1,6 @@
 {
   "copy":"kopieren", 
-  "title":"Top Hotels In World",
+  "title":"Top-Hotels der Welt",
   "daima":" Unternehmensrabattcode 2025",
   "brand": {
     "name": "Corporate Codes",
@@ -25,6 +25,7 @@
   ],
   "Hilton":{
     "name":"Hilton",
+    "t0":"Hilton Hotels",
       "title": "Geschäftscode für Hilton",
       "more": "Weitere Geschäftscodes",
       "des": "Anbieten von Geschäftscodes für Hilton für 2024",
@@ -86,6 +87,7 @@
     },
     "Marriott":{
       "name":"Marriott",
+      "t0":"Marriott Hotels",
       "title": "Geschäftscode für Marriott",
       "more": "Weitere Geschäftscodes",
       "des": "Anbieten von Geschäftscodes für Marriott für 2024",
@@ -170,6 +172,7 @@
     },
     "Hyatt":{
       "name":"Hyatt",
+      "t0":"Hyatt Hotels",
       "url": "codePage/Hyatt",
       "title": "Geschäftscode für Hyatt",
       "more": "Weitere Geschäftscodes",
@@ -214,6 +217,7 @@
     },
     "IHG":{
       "name":"IHG",
+      "t0":"IHG Hotels",
       "url": "codePage/IHG",
       "title": "Geschäftscode für IHG",
       "more": "Weitere Geschäftscodes",
@@ -261,7 +265,8 @@
       ]
     },
     "Western":{
-      "name":"Western",
+      "name":"Western",      
+      "t0":"Western Hotels",
       "url": "codePage/Western",
       "title": "Geschäftscode für Best Western",
       "more": "Weitere Geschäftscodes",
@@ -289,6 +294,7 @@
     },
     "Choice":{
       "name":"Choice",
+      "t0":"Choice Hotels",
       "url": "codePage/Choice",
       "title": "Geschäftscode für Choice Hotels",
       "more": "Weitere Geschäftscodes",
@@ -306,6 +312,7 @@
     },
     "Omni":{
       "name":"Omni",
+      "t0":"Omni Hotels",
       "url": "codePage/Omni",
       "title": "Geschäftscode für Omni",
       "more": "Weitere Geschäftscodes",
@@ -319,6 +326,7 @@
     },
     "Accor":{
       "name":"Accor",
+      "t0":"Accor Hotels",
       "url": "codePage/Accor",
       "title": "Geschäftscode für Accor",
       "more": "Weitere Geschäftscodes",
@@ -333,6 +341,7 @@
     },
     "Wyndham":{
       "name":"Wyndham",
+      "t0":"Wyndham Hotels",
       "url": "codePage/Wyndham",
       "title": "Geschäftscode für Wyndham",
       "more": "Weitere Geschäftscodes",
@@ -363,6 +372,7 @@
     },
     "Radisson":{
       "name":"Radisson",
+      "t0":"Radisson Hotels",
       "url": "codePage/Radisson",
       "title": "Geschäftscode für Radisson",
       "more": "Weitere Geschäftscodes",

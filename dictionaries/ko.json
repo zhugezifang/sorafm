@@ -1,6 +1,6 @@
 {
   "copy":"복사",
-  "title":"Top Hotels In World",
+  "title":"세계 최고의 호텔",
   "daima":"2025년 기업 할인 코드",
    "brand": {
     "name": "Corporate Codes",
@@ -24,6 +24,7 @@
     ],
     "Hilton":{
       "name":"Hilton",
+      "t0":"힐튼 호텔",
       "title": "힐튼의 기업체계",
       "more": "기타 기업체계",
       "des": "2024년 힐튼의 기업체계를 제공합니다",
@@ -85,6 +86,7 @@
     },
     "Marriott":{
       "name":"Marriott",
+      "t0":"메리어트 호텔",
       "title": "마리엇의 기업체계",
       "more": "기타 기업체계",
       "des": "2024년 마리엇의 기업체계를 제공합니다",
@@ -169,6 +171,7 @@
     },
     "Hyatt":{
       "name":"Hyatt",
+      "t0":"하얏트 호텔",
       "url": "codePage/Hyatt",
       "title": "하얏트의 기업체계",
       "more": "기타 기업체계",
@@ -213,6 +216,7 @@
     },
     "IHG":{
       "name":"IHG",
+      "t0":"IHG 호텔",
       "url": "codePage/IHG",
       "title": "IHG의 기업체계",
       "more": "기타 기업체계",
@@ -261,6 +265,7 @@
     },
     "Western":{
       "name":"Western",
+      "t0":"베스트 웨스턴 호텔",
       "url": "codePage/Western",
       "title": "베스트 웨스턴의 기업체계",
       "more": "기타 기업체계",
@@ -288,6 +293,7 @@
     },
     "Choice": {
       "name":"Choice",
+      "t0":"초이스 호텔스",
       "url": "codePage/Choice",
       "title": "초이스 호텔스의 기업체계",
       "more": "기타 기업체계",
@@ -305,6 +311,7 @@
     },
     "Omni": {
       "name":"Omni",
+      "t0":"오므니 호텔",
       "url": "codePage/Omni",
       "title": "오미니의 기업체계",
       "more": "기타 기업체계",
@@ -318,6 +325,7 @@
     },
     "Accor": {
       "name":"Accor",
+      "t0":"아코르 호텔",
       "url": "codePage/Accor",
       "title": "아코르의 기업체계",
       "more": "기타 기업체계",
@@ -332,6 +340,7 @@
     },
     "Wyndham": {
       "name":"Wyndham",
+      "t0":"윈덤 호텔",
       "url": "codePage/Wyndham",
       "title": "윈덤의 기업체계",
       "more": "기타 기업체계",
@@ -362,6 +371,7 @@
     },
     "Radisson":{
       "name":"Radisson",
+      "t0":"래디슨 호텔",
       "url": "codePage/Radisson",
       "title": "라디손의 기업체계",
       "more": "기타 기업체계",

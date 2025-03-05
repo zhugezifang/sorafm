@@ -1,6 +1,6 @@
 {
   "copy":"copier", 
-  "title":"Top Hotels In World",
+  "title":"Les meilleurs hôtels du monde",
   "daima":"Code de remise d'entreprise en 2025",
   "brand": {
     "name": "Corporate Codes",
@@ -24,6 +24,7 @@
   ],
   "Hilton":{
     "name":"Hilton",
+    "t0": "Code d'entreprise pour Hilton",
     "title": "Code d'entreprise pour Hilton",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Hilton pour 2024",
@@ -85,6 +86,7 @@
   },
   "Marriott":{
     "name":"Marriott",
+    "t0": "Code d'entreprise pour Marriott",
     "title": "Code d'entreprise pour Marriott",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Marriott pour 2024",
@@ -169,6 +171,7 @@
   },
   "Hyatt":{
     "name":"Hyatt",
+    "t0": "Code d'entreprise pour Hyatt",
     "url": "codePage/Hyatt",
     "title": "Code d'entreprise pour Hyatt",
     "more": "Autres codes d'entreprise",
@@ -214,6 +217,7 @@
   "IHG":{
     "name":"IHG",
     "url": "codePage/IHG",
+    "t0": "Code d'entreprise pour IHG",
     "title": "Code d'entreprise pour IHG",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour IHG pour 2024",
@@ -262,6 +266,7 @@
   "Western":{
     "name":"Western",
     "url": "codePage/Western",
+    "t0": "Code d'entreprise pour Best Western",
     "title": "Code d'entreprise pour Best Western",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Best Western pour 2024",
@@ -289,6 +294,7 @@
   "Choice":{
     "name":"Choice",
     "url": "codePage/Choice",
+    "t0": "Code d'entreprise pour Choice Hotels",
     "title": "Code d'entreprise pour Choice Hotels",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Choice Hotels pour 2024",
@@ -306,6 +312,7 @@
   "Omni":{
     "name":"Omni",
     "url": "codePage/Omni",
+    "t0": "Code d'entreprise pour Omni",
     "title": "Code d'entreprise pour Omni",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Omni pour 2024",
@@ -319,6 +326,7 @@
   "Accor":{
     "name":"Accor",
     "url": "codePage/Accor",
+    "t0": "Code d'entreprise pour Accor",
     "title": "Code d'entreprise pour Accor",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Accor pour 2024",
@@ -333,6 +341,7 @@
   "Wyndham":{
     "name":"Wyndham",
     "url": "codePage/Wyndham",
+    "t0": "Code d'entreprise pour Wyndham",
     "title": "Code d'entreprise pour Wyndham",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Wyndham pour 2024",
@@ -363,6 +372,7 @@
   "Radisson":{
     "name":"Radisson",
     "url": "codePage/Radisson",
+    "t0": "Code d'entreprise pour Radisson",
     "title": "Code d'entreprise pour Radisson",
     "more": "Autres codes d'entreprise",
     "des": "Fourniture de codes d'entreprise pour Radisson pour 2024",
