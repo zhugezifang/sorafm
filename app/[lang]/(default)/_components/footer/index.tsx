@@ -66,11 +66,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 Image Splitter
               </a>
               <a
-                href="/"
+                href="https://www.zjnav.com"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                None
+                终极导航
               </a>
               <a
                 href="/"
