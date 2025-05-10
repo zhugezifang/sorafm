@@ -38,6 +38,7 @@
         {"Company":"AT&T","Hotel":"Geschäftscode für Hilton","Corporate_Code":"N0000046"},
         {"Company":"Bank of America","Hotel":"Geschäftscode für Hilton","Corporate_Code":"N0710081"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"3M","Hotel":"Geschäftscode für Hilton","Corporate_Code":"N0001542"},
         {"Company":"Accenture","Hotel":"Geschäftscode für Hilton","Corporate_Code":"10850857"},
@@ -100,6 +101,7 @@
         {"Company":"Alaska Airlines", "Hotel":"Geschäftscode für Marriott", "Corporate_Code":"A70"},
         {"Company":"Allstate", "Hotel":"Geschäftscode für Marriott", "Corporate_Code":"ALL"}
     ],
+    "summary":"",
     "all_data":[
         {"Company":"3M", "Hotel":"Geschäftscode für Marriott", "Corporate_Code":"MMM"},
         {"Company":"Accenture", "Hotel":"Geschäftscode für Marriott", "Corporate_Code":"ACC"},
@@ -185,6 +187,7 @@
         {"Company":"Cisco", "Hotel":"Geschäftscode für Hyatt", "Corporate_Code":"79103"},
         {"Company":"Company TVL Rate", "Hotel":"Geschäftscode für Hyatt", "Corporate_Code":"86458"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"Bank of America", "Hotel":"Geschäftscode für Hyatt", "Corporate_Code":"17500"},
         {"Company":"BMW", "Hotel":"Geschäftscode für Hyatt", "Corporate_Code":"15985"},
@@ -230,6 +233,7 @@
         {"Company":"Bayer", "Hotel":"Geschäftscode für IHG", "Corporate_Code":"251321"},
         {"Company":"Cisco", "Hotel":"Geschäftscode für IHG", "Corporate_Code":"954410926"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"Ace Hardware", "Hotel":"Geschäftscode für IHG", "Corporate_Code":"101672"},
         {"Company":"Arizona State University", "Hotel":"Geschäftscode für IHG", "Corporate_Code":"100862437"},
@@ -278,6 +282,7 @@
         {"Company": "Ford", "Hotel": "Geschäftscode für Best Western", "Corporate_Code": "101841"},
         {"Company": "General Electric", "Hotel": "Geschäftscode für Best Western", "Corporate_Code": "322510"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "Best Business Worldwide", "Hotel": "Geschäftscode für Best Western", "Corporate_Code": "1476170"},
         {"Company": "California IT", "Hotel": "Geschäftscode für Best Western", "Corporate_Code": "1388930"},
@@ -303,6 +308,7 @@
         {"Company": "ABN", "Hotel": "Geschäftscode für Choice Hotels", "Corporate_Code": "845160"},
         {"Company": "Allied Business Network", "Hotel": "Geschäftscode für Choice Hotels", "Corporate_Code": "00845160"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "ABN", "Hotel": "Geschäftscode für Choice Hotels", "Corporate_Code": "845160"},
         {"Company": "Allied Business Network", "Hotel": "Geschäftscode für Choice Hotels", "Corporate_Code": "00845160"},
@@ -320,6 +326,7 @@
       "data":[
         {"Company": "AT&T", "Hotel": "Geschäftscode für Omni", "Corporate_Code": "N0099999"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "AT&T", "Hotel": "Geschäftscode für Omni", "Corporate_Code": "N0099999"}
       ]
@@ -334,6 +341,7 @@
       "data":[
         {"Company": "ALL", "Hotel": "Geschäftscode für Accor", "Corporate_Code": "SCP428914"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "ALL", "Hotel": "Geschäftscode für Accor", "Corporate_Code": "SCP428914"},
         {"Company": "ALL", "Hotel": "Geschäftscode für Accor", "Corporate_Code": "AS633AU981"}
@@ -354,6 +362,7 @@
         {"Company": "Century 21 System", "Hotel": "Geschäftscode für Wyndham", "Corporate_Code": "803277"},
         {"Company": "Civil Air Patrol", "Hotel": "Geschäftscode für Wyndham", "Corporate_Code": "1000008946"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "ABN", "Hotel": "Geschäftscode für Wyndham", "Corporate_Code": "8000000066"},
         {"Company": "AIChE", "Hotel": "Geschäftscode für Wyndham", "Corporate_Code": "1000007598"},
@@ -385,6 +394,7 @@
         {"Company": "Aecom Technology Corporation", "Hotel": "Geschäftscode für Radisson", "Corporate_Code": "61709"},
         {"Company": "Agilent Technologies, Inc.", "Hotel": "Geschäftscode für Radisson", "Corporate_Code": "64410"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "3M", "Hotel": "Geschäftscode für Radisson", "Corporate_Code": "WP1229"},
         {"Company": "ABB (Asea Brown Boveri)", "Hotel": "Geschäftscode für Radisson", "Corporate_Code": "41289"},

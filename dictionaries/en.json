@@ -30,6 +30,7 @@
     "url": "codePage/Hilton",
     "more": "More Corporate Codes",
     "des":"Hilton Honors Corporate Codes provide travel discounts in Hilton Hotels Group,and contain the Best Hilton Corporate Codes. If you are a company employees or staff, goverment contractor, you can save up to 30% rate by book the hotel",
+    "summary":"## What are Hilton Honors Corporate Codes?\nHilton Honors Corporate Codes are special codes that help employees of certain companies or government contractors get discounts when they stay at Hilton hotels. With these codes, you can save up to 30% on your hotel bookings, making travel more affordable.\n\n## Who can use Hilton Corporate Codes?\nThese special codes can be used by employees of specific companies and government contractors. If you work for a company that has its own corporate code, you can use it to get discounts while booking your stay at Hilton hotels.\n\n## How do I find my company's corporate code?\nTo find your company's Hilton corporate code, you can talk to your human resources department or look on your company’s internal portal. You can also visit websites that provide corporate codes for various businesses.\n\n## How much can I save with Hilton Corporate Codes?\nUsing Hilton Corporate Codes can save you quite a bit of money! Depending on the code, you could save up to 30% off the regular room rates at Hilton hotels. This is a great way to enjoy a comfortable stay while keeping your travel costs low.\n\n## Can I use multiple corporate codes for one booking?\nTypically, you can only use one corporate code per booking. It's best to use the code that gives you the highest discount. Make sure to check the terms of your specific corporate code to be sure!\n\n## What if my company doesn't have a corporate code?\nIf your company doesn’t have a corporate code, that's okay! You can still look for regular discounts or promotions offered by Hilton. Sometimes, they have deals for everyone, or you can sign up for Hilton Honors to earn points and discounts.\n\n## Are there any restrictions on using corporate codes?\nYes, there can be some restrictions when using corporate codes. For example, there may be specific dates when discounts apply, or certain hotels might not accept all corporate codes. Be sure to check the details before booking.\n\n## How do I book a hotel using a corporate code?\nBooking a hotel with a corporate code is easy! When you go to the Hilton website, enter the corporate code in the section provided while making your reservation. This will give you access to the discounted rates.\n\n## Can family and friends use my corporate code?\nUsually, only the employee whose name is on the corporate code can use it. However, some companies might allow you to share it with family or friends. Check with your company’s policy to be sure.\n\n## Where can I find a list of Hilton Corporate Codes?\nYou can find a list of Hilton Corporate Codes on specific websites that focus on corporate discounts or through your company's internal resources. Many people share these codes online, so a quick search might help you find what you need!",
     "data":[
       {"Company":"3M","Hotel":"Hilton","Corporate_Code":"N0001542"},
         {"Company":"Accenture","Hotel":"Hilton","Corporate_Code":"10850857"},
@@ -110,6 +111,7 @@
         {"Company":"Alaska Airlines", "Hotel":"Marriott", "Corporate_Code":"A70"},
         {"Company":"Allstate", "Hotel":"Marriott", "Corporate_Code":"ALL"}
     ],
+    "summary":"## What are Marriott Corporate Codes?\nMarriott Corporate Codes are special codes that give discounts to employees and consultants of certain companies when booking hotels. With these codes, you can save up to 35% or more on your stay at Marriott hotels. It's a great way to travel and enjoy a comfortable stay while spending less!\n\n## Who can use Marriott Corporate Codes?\nThese codes are generally for employees or consultants of specific companies. If you work for a company listed under Marriott Corporate Codes, you can use that code to enjoy discounted rates while staying at Marriott hotels. Make sure to check if your company is eligible!\n\n## How do I find my company's Marriott Corporate Code?\nYou can find your company's Marriott Corporate Code on the official Marriott Corporate Codes website. Just look for your company name in the list, and you will see the code next to it. If your company is not listed, you can ask your HR department for details.\n\n## Can I use multiple codes for the same stay?\nUsually, you can only use one corporate code per reservation. It's best to choose the one that gives you the biggest discount. Make sure to check the terms when booking to confirm!\n\n## How do I book a hotel with a corporate code?\nTo book a hotel with a corporate code, go to the Marriott website. When you search for your stay, look for an option to enter a corporate code. Enter your code, and the system will apply your discount automatically when you find a hotel.\n\n## What is the best way to use a Marriott Corporate Code?\nThe best way to use a Marriott Corporate Code is to plan your trip in advance. Check the availability of hotels that accept your code, and compare prices to find the best deal. Make sure to book early to secure your preferred hotel and rate!\n\n## Do Marriott Corporate Codes expire?\nYes, some Marriott Corporate Codes may have expiration dates. It’s important to check if your code is still valid before you make your reservation. If you're unsure, you can always contact Marriott customer service for assistance.\n\n## Can family members use my corporate code?\nTypically, corporate codes are meant for the employee or consultant who works for the company. However, some companies may allow family members to use the code, so it's best to check your company's policy on this.\n\n## Where can I find more information about Marriott Corporate Codes?\nYou can find more information about Marriott Corporate Codes by visiting the official Marriott Corporate Codes website. They provide detailed lists of codes for various companies, instructions on how to use them, and answers to many common questions.\n\n## Is it safe to use Marriott Corporate Codes?\nYes, using Marriott Corporate Codes is safe as long as you are booking directly through Marriott's official website or app. Make sure not to share your code with anyone outside of your company to maintain its validity.",
     "all_data":[
         {"Company":"3M", "Hotel":"Marriott", "Corporate_Code":"MMM"},
         {"Company":"Accenture", "Hotel":"Marriott", "Corporate_Code":"ACC"},
@@ -195,6 +197,7 @@
       {"Company":"Cisco", "Hotel":"Hyatt", "Corporate_Code":"79103"},
       {"Company":"Company TVL Rate", "Hotel":"Hyatt", "Corporate_Code":"86458"}
     ],
+    "summary":"",
     "all_data":[
       {"Company":"Bank of America", "Hotel":"Hyatt", "Corporate_Code":"17500"},
       {"Company":"BMW", "Hotel":"Hyatt", "Corporate_Code":"15985"},
@@ -240,6 +243,7 @@
       {"Company":"Bayer", "Hotel":"IHG", "Corporate_Code":"251321"},
       {"Company":"Cisco", "Hotel":"IHG", "Corporate_Code":"954410926"}
     ],
+    "summary":"",
     "all_data":[
       {"Company":"Ace Hardware", "Hotel":"IHG", "Corporate_Code":"101672"},
       {"Company":"Arizona State University", "Hotel":"IHG", "Corporate_Code":"100862437"},
@@ -288,6 +292,7 @@
       {"Company": "Ford", "Hotel": "Best Western", "Corporate_Code": "101841"},
       {"Company": "General Electric", "Hotel": "Best Western", "Corporate_Code": "322510"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "Best Business Worldwide", "Hotel": "Best Western", "Corporate_Code": "1476170"},
       {"Company": "California IT", "Hotel": "Best Western", "Corporate_Code": "1388930"},
@@ -313,6 +318,7 @@
       {"Company": "ABN", "Hotel": "Choice Hotels", "Corporate_Code": "845160"},
       {"Company": "Allied Business Network", "Hotel": "Choice Hotels", "Corporate_Code": "00845160"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ABN", "Hotel": "Choice Hotels", "Corporate_Code": "845160"},
       {"Company": "Allied Business Network", "Hotel": "Choice Hotels", "Corporate_Code": "00845160"},
@@ -330,6 +336,7 @@
     "data":[
       {"Company": "AT&T", "Hotel": "Omni", "Corporate_Code": "N0099999"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "AT&T", "Hotel": "Omni", "Corporate_Code": "N0099999"}
     ]
@@ -344,6 +351,7 @@
     "data":[
       {"Company": "ALL", "Hotel": "Accor", "Corporate_Code": "SCP428914"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ALL", "Hotel": "Accor", "Corporate_Code": "SCP428914"},
       {"Company": "ALL", "Hotel": "Accor", "Corporate_Code": "AS633AU981"}
@@ -364,6 +372,7 @@
       {"Company": "Century 21 System", "Hotel": "Wyndham", "Corporate_Code": "803277"},
       {"Company": "Civil Air Patrol", "Hotel": "Wyndham", "Corporate_Code": "1000008946"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ABN", "Hotel": "Wyndham", "Corporate_Code": "8000000066"},
       {"Company": "AIChE", "Hotel": "Wyndham", "Corporate_Code": "1000007598"},
@@ -395,6 +404,7 @@
       {"Company": "Aecom Technology Corporation", "Hotel": "Radisson", "Corporate_Code": "61709"},
       {"Company": "Agilent Technologies, Inc.", "Hotel": "Radisson", "Corporate_Code": "64410"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "3M", "Hotel": "Radisson", "Corporate_Code": "WP1229"},
       {"Company": "ABB (Asea Brown Boveri)", "Hotel": "Radisson", "Corporate_Code": "41289"},

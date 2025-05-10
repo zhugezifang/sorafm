@@ -1,4 +1,6 @@
 import { Metadata } from "next";
+import { text2Markdown } from "@/lib/text2Markdown"
+
 import { Code } from "@/types/code";
 import { getDictionary } from "@/services/i18n";
 
@@ -26,6 +28,10 @@ export default async function ({
   const lang= params.lang;
   const data = dict[params.hotel];
   const codeTions: Code[] = data.all_data;
+  const post = await text2Markdown(data.summary) as unknown as { 
+    desc: string;
+    contentHtml: string; 
+  }
 
   return (
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
@@ -34,17 +40,14 @@ export default async function ({
         <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold tracking-tight text-primary sm:text-6xl">
           {data.title}
         </h1>
-        <p className="mx-auto mt-2 px-4 max-w-4xl text-center text-xl leading-8 text-gray-300">
+        <p className="mx-auto mt-2 px-4 max-w-4xl text-center text-xl leading-8">
           {data.des}
         </p>
 
-        <div className="py-4 px-4 mx-auto max-w-screen-xl sm:py-6 lg:px-6">
-          <script async data-cfasync="false" src="//dustinga.com/d1472120778daf83cc623354618f95b3/invoke.js"></script>
-          <div id="container-d1472120778daf83cc623354618f95b3"></div>
-        </div>
+        
        
 
-        <div className="flex flex-col px-8">
+        <div className="flex flex-col px-8 py-4">
       <div className="overflow-x-auto sm:mx-0.5 lg:mx-0.5">
         <div className="py-2 inline-block min-w-full sm:px-6 lg:px-8">
           <div className="overflow-hidden">
@@ -89,7 +92,16 @@ export default async function ({
         </div>
       </div>
         </div>
-        
+
+        <article className="prose max-w-6xl prose-gray dark:prose-invert mx-auto">
+          <div className="mt-2" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+        </article>
+
+        <div className="py-4 px-4 mx-auto max-w-screen-xl sm:py-6 lg:px-6">
+          <script async data-cfasync="false" src="//dustinga.com/d1472120778daf83cc623354618f95b3/invoke.js"></script>
+          <div id="container-d1472120778daf83cc623354618f95b3"></div>
+        </div>
+
         <div className="bg-gray-100 flex flex-wrap mt-4 p-2">
 
           <div className="p-2">
@@ -143,6 +155,8 @@ export default async function ({
               </a>
           </div>
         </div>
+
+        
 
       </div>
 

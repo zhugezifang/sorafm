@@ -37,6 +37,7 @@
       {"Company":"AT&T","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0000046"},
       {"Company":"Bank of America","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0710081"}
     ],
+    "summary":"",
     "all_data":[
       {"Company":"3M","Hotel":"ヒルトンの法人コード","Corporate_Code":"N0001542"},
       {"Company":"Accenture","Hotel":"ヒルトンの法人コード","Corporate_Code":"10850857"},
@@ -99,6 +100,7 @@
       {"Company":"Alaska Airlines", "Hotel":"マリオットの法人コード", "Corporate_Code":"A70"},
       {"Company":"Allstate", "Hotel":"マリオットの法人コード", "Corporate_Code":"ALL"}
   ],
+  "summary":"",
   "all_data":[
       {"Company":"3M", "Hotel":"マリオットの法人コード", "Corporate_Code":"MMM"},
       {"Company":"Accenture", "Hotel":"マリオットの法人コード", "Corporate_Code":"ACC"},
@@ -184,6 +186,7 @@
       {"Company":"Cisco", "Hotel":"ハイアットの法人コード", "Corporate_Code":"79103"},
       {"Company":"Company TVL Rate", "Hotel":"ハイアットの法人コード", "Corporate_Code":"86458"}
     ],
+    "summary":"",
     "all_data":[
       {"Company":"Bank of America", "Hotel":"ハイアットの法人コード", "Corporate_Code":"17500"},
       {"Company":"BMW", "Hotel":"ハイアットの法人コード", "Corporate_Code":"15985"},
@@ -229,6 +232,7 @@
       {"Company":"Bayer", "Hotel":"IHGの法人コード", "Corporate_Code":"251321"},
       {"Company":"Cisco", "Hotel":"IHGの法人コード", "Corporate_Code":"954410926"}
     ],
+    "summary":"",
     "all_data":[
       {"Company":"Ace Hardware", "Hotel":"IHGの法人コード", "Corporate_Code":"101672"},
       {"Company":"Arizona State University", "Hotel":"IHGの法人コード", "Corporate_Code":"100862437"},
@@ -277,6 +281,7 @@
       {"Company": "Ford", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "101841"},
       {"Company": "General Electric", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "322510"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "Best Business Worldwide", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1476170"},
       {"Company": "California IT", "Hotel": "ベストウェスタンの法人コード", "Corporate_Code": "1388930"},
@@ -302,6 +307,7 @@
       {"Company": "ABN", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "845160"},
       {"Company": "Allied Business Network", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "00845160"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ABN", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "845160"},
       {"Company": "Allied Business Network", "Hotel": "チョイス・ホテルズの法人コード", "Corporate_Code": "00845160"},
@@ -319,6 +325,7 @@
     "data":[
       {"Company": "AT&T", "Hotel": "オムニの法人コード", "Corporate_Code": "N0099999"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "AT&T", "Hotel": "オムニの法人コード", "Corporate_Code": "N0099999"}
     ]
@@ -333,6 +340,7 @@
     "data":[
       {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "SCP428914"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "SCP428914"},
       {"Company": "ALL", "Hotel": "アコーの法人コード", "Corporate_Code": "AS633AU981"}
@@ -353,6 +361,7 @@
       {"Company": "Century 21 System", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "803277"},
       {"Company": "Civil Air Patrol", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000008946"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "ABN", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "8000000066"},
       {"Company": "AIChE", "Hotel": "ウィンダムの法人コード", "Corporate_Code": "1000007598"},
@@ -384,6 +393,7 @@
       {"Company": "Aecom Technology Corporation", "Hotel": "ラディソンの法人コード", "Corporate_Code": "61709"},
       {"Company": "Agilent Technologies, Inc.", "Hotel": "ラディソンの法人コード", "Corporate_Code": "64410"}
     ],
+    "summary":"",
     "all_data":[
       {"Company": "3M", "Hotel": "ラディソンの法人コード", "Corporate_Code": "WP1229"},
       {"Company": "ABB (Asea Brown Boveri)", "Hotel": "ラディソンの法人コード", "Corporate_Code": "41289"},

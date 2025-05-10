@@ -37,6 +37,7 @@
         {"Company":"AT&T","Hotel":"힐튼의 기업체계","Corporate_Code":"N0000046"},
         {"Company":"Bank of America","Hotel":"힐튼의 기업체계","Corporate_Code":"N0710081"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"3M","Hotel":"힐튼의 기업체계","Corporate_Code":"N0001542"},
         {"Company":"Accenture","Hotel":"힐튼의 기업체계","Corporate_Code":"10850857"},
@@ -99,6 +100,7 @@
         {"Company":"Alaska Airlines", "Hotel":"마리엇의 기업체계", "Corporate_Code":"A70"},
         {"Company":"Allstate", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ALL"}
     ],
+    "summary":"",
     "all_data":[
         {"Company":"3M", "Hotel":"마리엇의 기업체계", "Corporate_Code":"MMM"},
         {"Company":"Accenture", "Hotel":"마리엇의 기업체계", "Corporate_Code":"ACC"},
@@ -184,6 +186,7 @@
         {"Company":"Cisco", "Hotel":"하얏트의 기업체계", "Corporate_Code":"79103"},
         {"Company":"Company TVL Rate", "Hotel":"하얏트의 기업체계", "Corporate_Code":"86458"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"Bank of America", "Hotel":"하얏트의 기업체계", "Corporate_Code":"17500"},
         {"Company":"BMW", "Hotel":"하얏트의 기업체계", "Corporate_Code":"15985"},
@@ -229,6 +232,7 @@
         {"Company":"Bayer", "Hotel":"IHG의 기업체계", "Corporate_Code":"251321"},
         {"Company":"Cisco", "Hotel":"IHG의 기업체계", "Corporate_Code":"954410926"}
       ],
+      "summary":"",
       "all_data":[
         {"Company":"Ace Hardware", "Hotel":"IHG의 기업체계", "Corporate_Code":"101672"},
         {"Company":"Arizona State University", "Hotel":"IHG의 기업체계", "Corporate_Code":"100862437"},
@@ -277,6 +281,7 @@
         {"Company": "Ford", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "101841"},
         {"Company": "General Electric", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "322510"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "Best Business Worldwide", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1476170"},
         {"Company": "California IT", "Hotel": "베스트 웨스턴의 기업체계", "Corporate_Code": "1388930"},
@@ -302,6 +307,7 @@
         {"Company": "ABN", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "845160"},
         {"Company": "Allied Business Network", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "00845160"}
       ],
+      "summary":"",
       "all_data": [
         {"Company": "ABN", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "845160"},
         {"Company": "Allied Business Network", "Hotel": "초이스 호텔스의 기업체계", "Corporate_Code": "00845160"},
@@ -319,6 +325,7 @@
       "data": [
         {"Company": "AT&T", "Hotel": "오미니의 기업체계", "Corporate_Code": "N0099999"}
       ],
+      "summary":"",
       "all_data": [
         {"Company": "AT&T", "Hotel": "오미니의 기업체계", "Corporate_Code": "N0099999"}
       ]
@@ -333,6 +340,7 @@
       "data": [
         {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "SCP428914"}
       ],
+      "summary":"",
       "all_data": [
         {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "SCP428914"},
         {"Company": "ALL", "Hotel": "아코르의 기업체계", "Corporate_Code": "AS633AU981"}
@@ -353,6 +361,7 @@
         {"Company": "Century 21 System", "Hotel": "윈덤의 기업체계", "Corporate_Code": "803277"},
         {"Company": "Civil Air Patrol", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000008946"}
       ],
+      "summary":"",
       "all_data": [
         {"Company": "ABN", "Hotel": "윈덤의 기업체계", "Corporate_Code": "8000000066"},
         {"Company": "AIChE", "Hotel": "윈덤의 기업체계", "Corporate_Code": "1000007598"},
@@ -384,6 +393,7 @@
         {"Company": "Aecom Technology Corporation", "Hotel": "라디손의 기업체계", "Corporate_Code": "61709"},
         {"Company": "Agilent Technologies, Inc.", "Hotel": "라디손의 기업체계", "Corporate_Code": "64410"}
       ],
+      "summary":"",
       "all_data":[
         {"Company": "3M", "Hotel": "라디손의 기업체계", "Corporate_Code": "WP1229"},
         {"Company": "ABB (Asea Brown Boveri)", "Hotel": "라디손의 기업체계", "Corporate_Code": "41289"},
