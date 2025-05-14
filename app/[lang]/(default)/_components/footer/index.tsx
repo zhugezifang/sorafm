@@ -73,11 +73,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 终极导航
               </a>
               <a
-                href="/"
+                href="http://guozhivip.com/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                None
+                果汁资源导航
               </a>
               <a
                 href="/"
