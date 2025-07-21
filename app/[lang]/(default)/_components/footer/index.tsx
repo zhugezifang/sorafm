@@ -81,11 +81,18 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 果汁资源导航
               </a>
               <a
-                href="/"
+                href="https://templatejp.online/"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                None
+                無料のテンプレート
+              </a>
+              <a
+                href="https://cv-template.online/"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                免费简历模板
               </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
