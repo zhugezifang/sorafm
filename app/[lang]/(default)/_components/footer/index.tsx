@@ -47,6 +47,8 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 className="font-inter font-light text-gray-500" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>
               <a href="https://navs.site" target="_blank"
                 className="font-inter font-light text-gray-500">AI Nav Site</a>
+              <a href="https://rednotevideodownload.org/" target="_blank"
+                className="font-inter font-light text-gray-500">RedNote Video Downloader</a>
               
 
             </div>
