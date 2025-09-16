@@ -9,6 +9,7 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
 
   return (
     <header>
+      <script defer src="https://umami.virtual-try-on.online/script.js" data-website-id="86a16c2b-96f7-431a-a451-8989b30f1c8d"></script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
         crossOrigin="anonymous"></script>
     <script
