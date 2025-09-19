@@ -33,20 +33,10 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               >
                 Kolors Virtual Try On
               </a> 
-              <a
-                href="https://tiktok-money-calculator.online"
-                title="TikTok Money Calculator"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                TikTok Money Calculator
-              </a>
-              <a href="https://woy.ai/" target="_blank"
-                className="font-inter font-light text-gray-500" title="Woy AI Tools Directory">Woy AI Tools</a>
-              <a href="https://tap4.ai/" target="_blank"
-                className="font-inter font-light text-gray-500" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>
-              <a href="https://navs.site" target="_blank"
-                className="font-inter font-light text-gray-500">AI Nav Site</a>
+             
+              <a href="https://www.xhs-download.org/" target="_blank"
+                className="font-inter font-light text-gray-500">RedNote Video Downloader without Watermark</a>
+
               <a href="https://rednotevideodownload.org/" target="_blank"
                 className="font-inter font-light text-gray-500">RedNote Video Downloader</a>
               
