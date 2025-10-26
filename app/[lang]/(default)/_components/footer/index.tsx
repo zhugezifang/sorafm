@@ -39,6 +39,8 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
 
               <a href="https://rednotevideodownload.org/" target="_blank"
                 className="font-inter font-light text-gray-500">RedNote Video Downloader</a>
+              <a href="https://onlinenotepad101.org" target="_blank"
+                className="font-inter font-light text-gray-500">Online Notepad</a>
               
 
             </div>
