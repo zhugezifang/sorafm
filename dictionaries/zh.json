@@ -1,10 +1,10 @@
 {
   "copy":"复制",
   "title":"全球顶级酒店",
-  "daima":"折扣协议代码2025",
+  "daima":"折扣协议代码2026",
   "brand": {
     "name": "Corporate Codes",
-    "title": "酒店协议代码——2025年最新连锁酒店协议价代码列表",
+    "title": "酒店协议代码——2026年最新连锁酒店协议价代码列表",
     "sub_title": "酒店协议代码是关于希尔顿、万豪、凯悦、洲际IHG、欧姆尼、温德姆、丽笙酒店协议代码，为企业提供的特殊折扣代码，用于以优惠价格预订酒店。公司使用这些代码为员工节省差旅费用。",
     "keywords": "酒店协议代码,希尔顿、万豪、凯悦、洲际、欧姆尼、温德姆、丽笙酒店协议代码"
   },
@@ -25,10 +25,10 @@
   "Hilton":{
     "name":"Hilton",
     "t0":"希尔顿酒店",
-    "title": "希尔顿酒店协议代码(2025年最全的希尔顿协议价代码列表)",
+    "title": "希尔顿酒店协议代码(2026年最全的希尔顿协议价代码列表)",
     "url": "codePage/Hilton",
     "more": "更多",
-    "des":"提供2025年希尔顿酒店协议代码",
+    "des":"提供2026年希尔顿酒店协议代码",
     "data":[
       {"Company":"3M","Hotel":"希尔顿","Corporate_Code":"N0001542"},
       {"Company":"埃森哲（Accenture）","Hotel":"希尔顿","Corporate_Code":"10850857"},
@@ -88,10 +88,10 @@
   "Marriott":{
     "name":"Marriott",
     "t0":"万豪酒店",
-    "title": "万豪酒店协议代码(2025年最全的万豪协议价代码列表)",
+    "title": "万豪酒店协议代码(2026年最全的万豪协议价代码列表)",
     "url": "codePage/Marriott",
     "more": "更多",
-    "des":"提供2025年万豪酒店协议代码",
+    "des":"提供2026年万豪酒店协议代码",
     "data":[
       {"Company":"3M", "Hotel":"Marriott", "Corporate_Code":"MMM"},
       {"Company":"Accenture", "Hotel":"Marriott", "Corporate_Code":"ACC"},
@@ -174,10 +174,10 @@
   "Hyatt":{
     "name":"Hyatt",
     "t0":"凯悦酒店",
-    "title": "凯悦酒店协议代码(2025年最全的凯悦协议价代码列表)",
+    "title": "凯悦酒店协议代码(2026年最全的凯悦协议价代码列表)",
     "url": "codePage/Hyatt",
     "more": "更多",
-    "des":"提供2025年凯悦酒店协议代码",
+    "des":"提供2026年凯悦酒店协议代码",
     "data":[
       {"Company":"Bank of America", "Hotel":"Hyatt", "Corporate_Code":"17500"},
       {"Company":"BMW", "Hotel":"Hyatt", "Corporate_Code":"15985"},
@@ -220,10 +220,10 @@
   "IHG":{
     "name":"IHG",
     "t0":"洲际酒店",
-    "title": "洲际酒店协议代码(2025年最全的洲际协议价代码列表)",
+    "title": "洲际酒店协议代码(2026年最全的洲际协议价代码列表)",
     "url": "codePage/IHG",
     "more": "更多",
-    "des":"提供2025年洲际酒店协议代码",
+    "des":"提供2026年洲际酒店协议代码",
     "data":[
       {"Company":"Ace Hardware", "Hotel":"IHG", "Corporate_Code":"101672"},
       {"Company":"Arizona State University", "Hotel":"IHG", "Corporate_Code":"100862437"},
@@ -270,10 +270,10 @@
   "Western":{
     "name":"Western",
     "t0":"贝斯特韦斯特酒店",
-    "title": "贝斯特韦斯特酒店协议代码(2025年最全的贝斯特韦斯特协议价代码列表)",
+    "title": "贝斯特韦斯特酒店协议代码(2026年最全的贝斯特韦斯特协议价代码列表)",
     "url": "codePage/Western",
     "more": "更多",
-    "des":"提供2025年贝斯特韦斯特酒店协议代码",
+    "des":"提供2026年贝斯特韦斯特酒店协议代码",
     "data":[
       {"Company": "Best Business Worldwide", "Hotel": "Best Western", "Corporate_Code": "1476170"},
       {"Company": "California IT", "Hotel": "Best Western", "Corporate_Code": "1388930"},
@@ -299,10 +299,10 @@
   "Choice":{
     "name":"Choice",
     "t0":"精选酒店",
-    "title": "精选国际酒店协议代码(2025年最全的精选国际酒店特协议价代码列表)",
+    "title": "精选国际酒店协议代码(2026年最全的精选国际酒店特协议价代码列表)",
     "url": "codePage/Choice",
     "more": "更多",
-    "des":"提供2025年精选国际酒店协议代码",
+    "des":"提供2026年精选国际酒店协议代码",
     "data":[
       {"Company": "ABN", "Hotel": "Choice Hotels", "Corporate_Code": "845160"},
       {"Company": "Allied Business Network", "Hotel": "Choice Hotels", "Corporate_Code": "00845160"}
@@ -318,10 +318,10 @@
   "Omni":{
     "name":"Omni",
     "t0":"欧姆尼酒店",
-    "title": "欧姆尼酒店协议代码(2025年最全的欧姆尼特协议价代码列表)",
+    "title": "欧姆尼酒店协议代码(2026年最全的欧姆尼特协议价代码列表)",
     "url": "codePage/Omni",
     "more": "更多",
-    "des":"提供2025年欧姆尼酒店协议代码",
+    "des":"提供2026年欧姆尼酒店协议代码",
     "data":[
       {"Company": "AT&T", "Hotel": "Omni", "Corporate_Code": "N0099999"}
     ],
@@ -333,10 +333,10 @@
   "Accor":{
     "name":"Accor",
     "t0":"雅高酒店",
-    "title": "雅高酒店协议代码(2025年最全的雅高协议价代码列表)",
+    "title": "雅高酒店协议代码(2026年最全的雅高协议价代码列表)",
     "url": "codePage/Accor",
     "more": "更多",
-    "des":"提供2025年雅高酒店协议代码协议代码",
+    "des":"提供2026年雅高酒店协议代码协议代码",
     "data":[
       {"Company": "ALL", "Hotel": "Accor", "Corporate_Code": "SCP428914"}
     ],
@@ -349,10 +349,10 @@
   "Wyndham":{
     "name":"Wyndham",
     "t0":"温德姆酒店",
-    "title": "温德姆酒店协议代码(2025年最全的温德姆协议价代码列表)",
+    "title": "温德姆酒店协议代码(2026年最全的温德姆协议价代码列表)",
     "url": "codePage/Wyndham",
     "more": "更多",
-    "des":"提供2025年温德姆酒店协议代码",
+    "des":"提供2026年温德姆酒店协议代码",
     "data":[
       {"Company": "ABN", "Hotel": "Wyndham", "Corporate_Code": "8000000066"},
       {"Company": "AIChE", "Hotel": "Wyndham", "Corporate_Code": "1000007598"},
@@ -381,10 +381,10 @@
   "Radisson":{
     "name":"Radisson",
     "t0":"丽笙酒店",
-    "title": "丽笙酒店协议代码(2025年最全的丽笙协议价代码列表)",
+    "title": "丽笙酒店协议代码(2026年最全的丽笙协议价代码列表)",
     "url": "codePage/Radisson",
     "more": "更多",
-    "des":"提供2025年丽笙酒店协议代码",
+    "des":"提供2026年丽笙酒店协议代码",
     "data":[
       {"Company": "3M", "Hotel": "Radisson", "Corporate_Code": "WP1229"},
       {"Company": "ABB (Asea Brown Boveri)", "Hotel": "Radisson", "Corporate_Code": "41289"},
