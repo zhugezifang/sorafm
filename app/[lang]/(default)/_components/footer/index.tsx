@@ -25,14 +25,6 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
           <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Products</div>
-              <a
-                href="https://virtual-try-on.online"
-                title="Kolors Virtual Try On"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                Kolors Virtual Try On
-              </a> 
              
               <a href="https://www.xhs-download.org/" target="_blank"
                 className="font-inter font-light text-gray-500">RedNote Video Downloader without Watermark</a>
@@ -41,7 +33,10 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 className="font-inter font-light text-gray-500">RedNote Video Downloader</a>
               <a href="https://onlinenotepad101.org" target="_blank"
                 className="font-inter font-light text-gray-500">Online Notepad</a>
-              
+              <a href="https://share-text.org/gpt-watermark-remover" target="_blank"
+                className="font-inter font-light text-gray-500">ChatGPT Watermark Remover And Detector</a>
+              <a href="https://imagetranslateai.org/tw" target="_blank"
+                className="font-inter font-light text-gray-500">AI線上圖片翻譯器</a>
 
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
