@@ -85,6 +85,13 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               >
                 免费简历模板
               </a>
+              <a
+                href="https://batchcodechecker.org/zh"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                化妆品生产日期查询
+              </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Legal</div>
