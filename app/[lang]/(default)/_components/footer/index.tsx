@@ -92,6 +92,13 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               >
                 化妆品生产日期查询
               </a>
+              <a
+                href="https://onlineps101.org/zh"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                在线ps网页版
+              </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Legal</div>
