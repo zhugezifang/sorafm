@@ -51,11 +51,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 How Attractive am I
               </a>
               <a
-                href="https://image-splitter.online/"
+                href="https://www.10015tools.online/zh"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
-                Image Splitter
+                蛙蛙工具
               </a>
               <a
                 href="https://www.zjnav.com"
