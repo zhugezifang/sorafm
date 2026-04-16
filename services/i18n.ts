@@ -9,7 +9,7 @@ export const localeNames: any = {
   ko: "🇰🇷 한국어",
   fr: "🇫🇷 Français",//法语
   de: "🇩🇪 Deutsch",//德语
-  tw : "🇹🇼 繁體中文",
+  tw: "🇹🇼 繁體中文",
 };
 export const defaultLocale = "en";
 
