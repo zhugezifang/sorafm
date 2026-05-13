@@ -39,6 +39,8 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 className="font-inter font-light text-gray-500">AI線上圖片翻譯器</a>
               <a href="https://watermarkremoverio.org/" target="_blank"
                 className="font-inter font-light text-gray-500">AI Watermark Remover</a>
+              <a href="https://checkcosmetic.online/tw" target="_blank"
+                className="font-inter font-light text-gray-500">化妝品批次代碼和生產日期查詢</a>
 
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
