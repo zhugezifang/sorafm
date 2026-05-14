@@ -33,6 +33,7 @@ export default function RootLayout({
     <html lang={lang}>
       <head>
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"></script>
         <meta name="google-adsense-account" content="ca-pub-4158779929727637"/>
         {/* Bug 修复: 将 crossorigin 改为 crossOrigin */}
       </head>
