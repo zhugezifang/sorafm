@@ -101,6 +101,20 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
               >
                 在线ps网页版
               </a>
+              <a
+                href="https://www.pdf24tools.online/"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                免费在线pdf工具
+              </a>
+              <a
+                href="https://pdf2url.com/"
+                target="_blank"
+                className="font-inter font-light text-gray-500"
+              >
+                pdf2url
+              </a>
             </div>
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Legal</div>
