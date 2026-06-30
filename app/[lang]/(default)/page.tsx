@@ -1,4 +1,5 @@
 import Hero from "./_components/hero";
+import HomeGuide from "./_components/homeGuide";
 import { Metadata } from "next";
 import Tab from "./_components/tab";
 //import Right from "./_components/right";
@@ -13,7 +14,11 @@ export async function generateMetadata({
 }: {
   params: { lang: string };
 }): Promise<Metadata> {
+  const dict = await getDictionary(params.lang);
+
   return {
+    title: dict.brand.title,
+    description: dict.brand.sub_title,
     alternates: {
       canonical: `https://corporate-codes.online/${params.lang}`,
     },

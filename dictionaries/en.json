@@ -470,6 +470,58 @@
       "name":"Yes,Hotel corporate codes for 2026 are typically provided by companies that have ongoing agreements with hotel chains to secure discounted rates for their employees. These codes are updated annually or as part of new contracts, ensuring that employees can continue to benefit from reduced rates during business trips. While some 2026 codes may be shared online by travelers, they are generally intended for authorized use by company employees. It's important to use these codes responsibly, as improper use may result in penalties or booking cancellations."
     }
   ],
+  "homeGuide": {
+    "eyebrow": "Hotel Corporate Rate Guide",
+    "title": "Research hotel discounts responsibly before you book",
+    "description": "Corporate hotel codes can be useful, but every rate has conditions. This guide explains what the codes mean, how to check them, and what travelers should review before relying on a discounted rate.",
+    "guideTitle": "What to know before using a corporate code",
+    "guides": [
+      {
+        "title": "What this directory covers",
+        "body": "Corporate Codes is an independent reference for hotel corporate rate codes, employee travel discounts, and negotiated business travel rates. We organize public traveler knowledge across Hilton, Marriott, Hyatt, IHG, Best Western, Choice, Omni, Wyndham, Radisson, and Accor so visitors can compare hotel groups before booking."
+      },
+      {
+        "title": "How to verify a hotel corporate code",
+        "body": "Before using a code, search on the official hotel website, check whether the rate appears for your travel dates, and read the rate rules before confirming. Hotels may ask for employee ID, company email, conference credentials, government ID, or another proof of eligibility at check-in."
+      },
+      {
+        "title": "Who should use these rates",
+        "body": "Corporate rates are normally intended for employees, contractors, consultants, conference attendees, government travelers, or members of an organization with a valid hotel agreement. If you are not sure whether you qualify, ask your employer, travel manager, or the hotel directly."
+      },
+      {
+        "title": "Why rates can change",
+        "body": "A code can work at one property and not another because discounts depend on the hotel brand, market, dates, room type, occupancy, and the contract behind the rate. We treat the tables as a starting point for research, not as a guarantee of availability or final price."
+      }
+    ],
+    "checklistTitle": "Booking checklist",
+    "checklist": [
+      "Confirm your eligibility before booking a restricted business rate.",
+      "Compare the corporate rate with member, prepaid, senior, AAA, government, and public promotional rates.",
+      "Read cancellation rules, taxes, resort fees, breakfast terms, parking fees, and loyalty point eligibility.",
+      "Keep proof of employment, membership, conference attendance, or government status if the hotel may request it."
+    ],
+    "faqTitle": "Frequently asked questions",
+    "faqs": [
+      {
+        "question": "Are hotel corporate codes free to search?",
+        "answer": "Yes. This site does not charge visitors to browse the hotel corporate code tables or travel guides."
+      },
+      {
+        "question": "Can anyone use a listed corporate code?",
+        "answer": "No. Many codes are restricted to eligible travelers. Unauthorized use may cause the rate to be removed, the reservation to be repriced, or proof of eligibility to be requested at check-in."
+      },
+      {
+        "question": "Should I book through the hotel directly?",
+        "answer": "Direct booking through the official hotel website or app is usually the clearest way to see rate rules, cancellation terms, loyalty benefits, and eligibility requirements."
+      },
+      {
+        "question": "Does Corporate Codes own these hotel programs?",
+        "answer": "No. Corporate Codes is not owned by or officially affiliated with the hotel brands listed on this site. Brand names are used only to identify the relevant hotel programs."
+      }
+    ],
+    "noteLabel": "Editorial note:",
+    "note": "Corporate Codes is an informational resource. We do not issue hotel corporate codes, approve eligibility, or guarantee that a rate will be honored. Always follow the hotel terms and your organization's travel policy."
+  },
   "blog": {
     "backToList": "Back to Blog List",
     "title": "Hotel Corporate Codes Blog List",

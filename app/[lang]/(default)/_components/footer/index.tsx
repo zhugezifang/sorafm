@@ -26,11 +26,6 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">Products</div>
              
-              <a href="https://www.xhs-download.org/" target="_blank"
-                className="font-inter font-light text-gray-500">RedNote Video Downloader without Watermark</a>
-
-              <a href="https://rednotevideodownload.org/" target="_blank"
-                className="font-inter font-light text-gray-500">RedNote Video Downloader</a>
               <a href="https://onlinenotepad101.org" target="_blank"
                 className="font-inter font-light text-gray-500">Online Notepad</a>
               <a href="https://share-text.org/gpt-watermark-remover" target="_blank"
@@ -46,32 +41,11 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
             <div className="mb-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10">
               <div className="font-inter font-medium">FRIENDS</div>
               <a
-                href="https://howattractiveami.app/"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                How Attractive am I
-              </a>
-              <a
                 href="https://www.10015tools.online/zh"
                 target="_blank"
                 className="font-inter font-light text-gray-500"
               >
                 蛙蛙工具
-              </a>
-              <a
-                href="https://www.zjnav.com"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                终极导航
-              </a>
-              <a
-                href="http://guozhivip.com/"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                果汁资源导航
               </a>
               <a
                 href="https://templatejp.online/"
@@ -93,13 +67,6 @@ export default function ({ lang, dict }: { lang: string; dict: any }) {
                 className="font-inter font-light text-gray-500"
               >
                 化妆品生产日期查询
-              </a>
-              <a
-                href="https://onlineps101.org/zh"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                在线ps网页版
               </a>
               <a
                 href="https://www.pdf24tools.online/"

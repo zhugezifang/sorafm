@@ -459,5 +459,57 @@
       "title": "Les codes d'entreprise pour hôtels offrent-ils des codes pour 2024?",
       "name": "Oui, les codes d'entreprise pour hôtels pour 2024 sont généralement fournis par les entreprises qui ont un contrat continu avec les chaînes d'hôtels, permettant à leurs employés de bénéficier de tarifs réduits lors de voyages d'affaires. Ces codes sont mis à jour annuellement ou dans le cadre de nouveaux contrats pour permettre aux employés de continuer à bénéficier de tarifs réduits lors de leurs voyages d'affaires. Certains de ces codes pour 2024 peuvent être partagés en ligne par les voyageurs, mais ils sont généralement destinés à une utilisation approuvée par les employés de l'entreprise concernée. Il est important d'utiliser ces codes correctement, car une utilisation inappropriée peut entraîner des pénalités ou l'annulation des réservations."
     }
-  ]
+  ],
+  "homeGuide": {
+    "eyebrow": "Guide des tarifs hôteliers d'entreprise",
+    "title": "Vérifiez les réductions d'hôtel de façon responsable avant de réserver",
+    "description": "Les codes d'entreprise hôteliers peuvent être utiles, mais chaque tarif comporte des conditions. Ce guide explique ce que signifient les codes, comment les vérifier et ce que les voyageurs doivent lire avant d'utiliser un tarif réduit.",
+    "guideTitle": "Ce qu'il faut savoir avant d'utiliser un code d'entreprise",
+    "guides": [
+      {
+        "title": "Ce que couvre ce répertoire",
+        "body": "Corporate Codes est une référence indépendante sur les codes de tarifs d'entreprise, les réductions de voyage pour employés et les tarifs négociés pour les déplacements professionnels. Nous organisons des informations publiques sur Hilton, Marriott, Hyatt, IHG, Best Western, Choice, Omni, Wyndham, Radisson et Accor afin d'aider les visiteurs à comparer les groupes hôteliers avant de réserver."
+      },
+      {
+        "title": "Comment vérifier un code d'entreprise hôtelier",
+        "body": "Avant d'utiliser un code, recherchez vos dates sur le site officiel de l'hôtel, vérifiez si le tarif apparaît et lisez les règles du tarif avant de confirmer. L'hôtel peut demander une carte d'employé, une adresse e-mail professionnelle, un justificatif de conférence, une pièce d'identité gouvernementale ou une autre preuve d'éligibilité à l'arrivée."
+      },
+      {
+        "title": "Qui devrait utiliser ces tarifs",
+        "body": "Les tarifs d'entreprise sont généralement destinés aux employés, contractants, consultants, participants à une conférence, voyageurs gouvernementaux ou membres d'une organisation disposant d'un accord hôtelier valide. En cas de doute, demandez à votre employeur, responsable voyages ou directement à l'hôtel."
+      },
+      {
+        "title": "Pourquoi les tarifs peuvent changer",
+        "body": "Un code peut fonctionner dans un établissement et pas dans un autre, car les réductions dépendent de la marque, du marché, des dates, du type de chambre, de l'occupation et du contrat lié au tarif. Les tableaux sont un point de départ pour vos recherches, pas une garantie de disponibilité ou de prix final."
+      }
+    ],
+    "checklistTitle": "Liste de vérification avant réservation",
+    "checklist": [
+      "Confirmez votre éligibilité avant de réserver un tarif professionnel restreint.",
+      "Comparez le tarif d'entreprise avec les tarifs membre, prépayé, senior, AAA, gouvernemental et promotionnel public.",
+      "Lisez les conditions d'annulation, taxes, frais de complexe, petit-déjeuner, parking et éligibilité aux points fidélité.",
+      "Gardez une preuve d'emploi, d'adhésion, de participation à une conférence ou de statut gouvernemental si l'hôtel peut la demander."
+    ],
+    "faqTitle": "Questions fréquentes",
+    "faqs": [
+      {
+        "question": "La recherche de codes d'entreprise hôteliers est-elle gratuite?",
+        "answer": "Oui. Ce site ne facture pas les visiteurs pour consulter les tableaux de codes d'entreprise hôteliers ou les guides de voyage."
+      },
+      {
+        "question": "Tout le monde peut-il utiliser un code d'entreprise listé?",
+        "answer": "Non. De nombreux codes sont réservés aux voyageurs éligibles. Une utilisation non autorisée peut entraîner la suppression du tarif, le recalcul de la réservation ou une demande de preuve d'éligibilité à l'arrivée."
+      },
+      {
+        "question": "Faut-il réserver directement auprès de l'hôtel?",
+        "answer": "La réservation via le site officiel ou l'application de l'hôtel est généralement la façon la plus claire de voir les règles du tarif, les conditions d'annulation, les avantages fidélité et les exigences d'éligibilité."
+      },
+      {
+        "question": "Corporate Codes possède-t-il ces programmes hôteliers?",
+        "answer": "Non. Corporate Codes n'est pas détenu par les marques hôtelières listées sur ce site et n'y est pas officiellement affilié. Les noms de marque sont utilisés uniquement pour identifier les programmes concernés."
+      }
+    ],
+    "noteLabel": "Note éditoriale:",
+    "note": "Corporate Codes est une ressource d'information. Nous n'émettons pas de codes d'entreprise hôteliers, n'approuvons pas l'éligibilité et ne garantissons pas qu'un tarif sera honoré. Respectez toujours les conditions de l'hôtel et la politique de voyage de votre organisation."
+  }
 }

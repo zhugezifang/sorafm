@@ -460,5 +460,57 @@
       "title": "Bieten Geschäftscodes für Hotels Codes für 2024 an?",
       "name": "Ja, Geschäftscodes für Hotels für 2024 werden normalerweise von Unternehmen angeboten, die einen fortlaufenden Vertrag mit einer Hotelkette haben, sodass ihre Mitarbeiter während von Geschäftsreisen ermäßigte Tarife erhalten können. Diese Codes werden jährlich oder im Rahmen eines neuen Vertrags aktualisiert, um sicherzustellen, dass die Mitarbeiter während von Geschäftsreisen weiterhin ermäßigte Tarife erhalten. Einige dieser Codes für 2024, die möglicherweise online von Reisenden geteilt werden, sind normalerweise für die genehmigte Nutzung durch Mitarbeiter des Unternehmens vorgesehen. Es ist wichtig, diese Codes ordnungsgemäß zu nutzen, da eine unsachgemäße Nutzung zu Strafen oder zur Absage von Reservierungen führen kann."
     }
-  ]
+  ],
+  "homeGuide": {
+    "eyebrow": "Leitfaden für Hotel-Firmentarife",
+    "title": "Prüfen Sie Hotelrabatte verantwortungsvoll, bevor Sie buchen",
+    "description": "Hotel-Firmencodes können hilfreich sein, aber jeder Tarif hat Bedingungen. Dieser Leitfaden erklärt, was die Codes bedeuten, wie man sie prüft und was Reisende vor der Nutzung eines ermäßigten Tarifs beachten sollten.",
+    "guideTitle": "Was Sie vor der Nutzung eines Firmencodes wissen sollten",
+    "guides": [
+      {
+        "title": "Was dieses Verzeichnis abdeckt",
+        "body": "Corporate Codes ist eine unabhängige Referenz für Hotel-Firmencodes, Mitarbeiterrabatte und ausgehandelte Geschäftsreisetarife. Wir ordnen öffentliches Reisewissen zu Hilton, Marriott, Hyatt, IHG, Best Western, Choice, Omni, Wyndham, Radisson und Accor, damit Besucher Hotelgruppen vor der Buchung vergleichen können."
+      },
+      {
+        "title": "So prüfen Sie einen Hotel-Firmencode",
+        "body": "Suchen Sie vor der Nutzung eines Codes auf der offiziellen Hotelwebsite nach Ihren Reisedaten, prüfen Sie, ob der Tarif angezeigt wird, und lesen Sie die Tarifregeln vor der Bestätigung. Hotels können beim Check-in einen Mitarbeiterausweis, eine Firmen-E-Mail, Konferenznachweise, einen Behördenausweis oder einen anderen Berechtigungsnachweis verlangen."
+      },
+      {
+        "title": "Wer diese Tarife nutzen sollte",
+        "body": "Firmentarife sind normalerweise für Mitarbeiter, Auftragnehmer, Berater, Konferenzteilnehmer, Regierungsreisende oder Mitglieder einer Organisation mit gültiger Hotelvereinbarung bestimmt. Wenn Sie unsicher sind, fragen Sie Ihren Arbeitgeber, Reisemanager oder direkt das Hotel."
+      },
+      {
+        "title": "Warum sich Tarife ändern können",
+        "body": "Ein Code kann in einem Hotel funktionieren und in einem anderen nicht, weil Rabatte von Marke, Markt, Daten, Zimmerart, Auslastung und dem zugrunde liegenden Vertrag abhängen. Die Tabellen sind ein Ausgangspunkt für Recherchen, keine Garantie für Verfügbarkeit oder Endpreis."
+      }
+    ],
+    "checklistTitle": "Checkliste vor der Buchung",
+    "checklist": [
+      "Bestätigen Sie Ihre Berechtigung, bevor Sie einen eingeschränkten Geschäftstarif buchen.",
+      "Vergleichen Sie den Firmentarif mit Mitglieds-, Vorauszahlungs-, Senioren-, AAA-, Regierungs- und öffentlichen Aktionstarifen.",
+      "Lesen Sie Stornoregeln, Steuern, Resortgebühren, Frühstücksbedingungen, Parkgebühren und Regeln zur Punktegutschrift.",
+      "Bewahren Sie Nachweise zu Beschäftigung, Mitgliedschaft, Konferenzteilnahme oder Behördenstatus auf, falls das Hotel sie verlangt."
+    ],
+    "faqTitle": "Häufige Fragen",
+    "faqs": [
+      {
+        "question": "Ist die Suche nach Hotel-Firmencodes kostenlos?",
+        "answer": "Ja. Diese Website berechnet Besuchern keine Gebühren für das Durchsuchen der Hotel-Firmencode-Tabellen oder Reiseführer."
+      },
+      {
+        "question": "Kann jeder einen gelisteten Firmencode verwenden?",
+        "answer": "Nein. Viele Codes sind auf berechtigte Reisende beschränkt. Eine unbefugte Nutzung kann dazu führen, dass der Tarif entfernt, die Reservierung neu berechnet oder beim Check-in ein Berechtigungsnachweis verlangt wird."
+      },
+      {
+        "question": "Sollte ich direkt beim Hotel buchen?",
+        "answer": "Die Buchung über die offizielle Hotelwebsite oder App ist meist der klarste Weg, um Tarifregeln, Stornobedingungen, Treuevorteile und Berechtigungsanforderungen zu sehen."
+      },
+      {
+        "question": "Gehören diese Hotelprogramme Corporate Codes?",
+        "answer": "Nein. Corporate Codes gehört nicht den auf dieser Website gelisteten Hotelmarken und ist nicht offiziell mit ihnen verbunden. Markennamen werden nur verwendet, um die entsprechenden Hotelprogramme zu identifizieren."
+      }
+    ],
+    "noteLabel": "Redaktioneller Hinweis:",
+    "note": "Corporate Codes ist eine Informationsquelle. Wir stellen keine Hotel-Firmencodes aus, genehmigen keine Berechtigungen und garantieren nicht, dass ein Tarif akzeptiert wird. Befolgen Sie immer die Hotelbedingungen und die Reiserichtlinie Ihrer Organisation."
+  }
 }
