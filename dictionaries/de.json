@@ -484,6 +484,46 @@
         "body": "Ein Code kann in einem Hotel funktionieren und in einem anderen nicht, weil Rabatte von Marke, Markt, Daten, Zimmerart, Auslastung und dem zugrunde liegenden Vertrag abhängen. Die Tabellen sind ein Ausgangspunkt für Recherchen, keine Garantie für Verfügbarkeit oder Endpreis."
       }
     ],
+    "editorialTitle": "Wie wir diese Informationen organisieren",
+    "editorialItems": [
+      "Wir gruppieren Codes nach Hotelmarke, damit Reisende Programme vergleichen können, ohne zwischen unzusammenhängenden Seiten zu wechseln.",
+      "Wir ergänzen leicht verständliche Hinweise zu Berechtigung, Tarifregeln und Prüfung beim Check-in, weil ein niedriger Preis nur nützlich ist, wenn er korrekt genutzt werden kann.",
+      "Wir halten öffentliche Hotel- und Firmennamen für Recherchen sichtbar, empfehlen aber, jeden eingeschränkten Tarif vor der Buchung beim Hotel oder der eigenen Organisation zu bestätigen."
+    ],
+    "alternativesTitle": "Andere legitime Wege, einen Hotelpreis zu senken",
+    "alternatives": [
+      {
+        "title": "Mitglieds- und Treueprogrammtarife",
+        "body": "Hotel-Treueprogramme bieten oft Mitgliederpreise, kostenloses WLAN, mobilen Check-in, späten Check-out oder Punkte, die wertvoller sein können als ein ungeprüfter Firmentarif."
+      },
+      {
+        "title": "Öffentliche Rabatte",
+        "body": "AAA-, AARP-, Senioren-, Regierungs-, Militär-, Studenten- und Einwohnertarife können leichter nachzuweisen sein, wenn Sie berechtigt sind. Vergleichen Sie immer den Endpreis nach Steuern und Gebühren."
+      },
+      {
+        "title": "Flexible Datumssuche",
+        "body": "Eine Reise um eine Nacht zu verschieben, ein nahegelegenes Hotel zu wählen oder die Zimmerart zu ändern, kann den Endpreis senken, ohne sich auf eine eingeschränkte Vereinbarung zu stützen."
+      }
+    ],
+    "safetyTitle": "Sicherheits- und Compliance-Tipps für Reisende",
+    "safetySections": [
+      {
+        "title": "Vor der Buchung",
+        "items": [
+          "Nutzen Sie offizielle Hotelwebsites oder vertrauenswürdige Buchungskanäle, wenn Sie einen Code prüfen.",
+          "Lesen Sie, ob der Tarif erstattbar, vorausbezahlt, provisionsfähig oder an eine bestimmte Unternehmensrichtlinie gebunden ist.",
+          "Speichern Sie einen Screenshot oder die Tarifregeln für Ihre eigenen Reiseunterlagen."
+        ]
+      },
+      {
+        "title": "Beim Check-in",
+        "items": [
+          "Bringen Sie einen Nachweis mit, der zum gebuchten Tarif passt, falls das Hotel danach fragt.",
+          "Rechnen Sie damit, dass das Hotel den Aufenthalt neu bepreist, wenn Sie Ihre Berechtigung nicht nachweisen können.",
+          "Machen Sie keine falschen Angaben zu Beschäftigung, Mitgliedschaft oder Regierungsstatus, um einen Rabatt zu erhalten."
+        ]
+      }
+    ],
     "checklistTitle": "Checkliste vor der Buchung",
     "checklist": [
       "Bestätigen Sie Ihre Berechtigung, bevor Sie einen eingeschränkten Geschäftstarif buchen.",

@@ -483,6 +483,46 @@
         "body": "Un code peut fonctionner dans un établissement et pas dans un autre, car les réductions dépendent de la marque, du marché, des dates, du type de chambre, de l'occupation et du contrat lié au tarif. Les tableaux sont un point de départ pour vos recherches, pas une garantie de disponibilité ou de prix final."
       }
     ],
+    "editorialTitle": "Comment nous organisons ces informations",
+    "editorialItems": [
+      "Nous regroupons les codes par marque hôtelière afin que les voyageurs puissent comparer les programmes sans passer d'une page sans rapport à une autre.",
+      "Nous ajoutons des notes simples sur l'éligibilité, les règles tarifaires et la vérification à l'arrivée, car un prix plus bas n'est utile que s'il peut être utilisé correctement.",
+      "Nous gardons les noms publics d'hôtels et d'entreprises visibles pour la recherche, mais nous recommandons de confirmer tout tarif restreint auprès de l'hôtel ou de votre organisation avant de réserver."
+    ],
+    "alternativesTitle": "Autres moyens légitimes de réduire un tarif hôtelier",
+    "alternatives": [
+      {
+        "title": "Tarifs membres et programmes fidélité",
+        "body": "Les programmes de fidélité hôteliers proposent souvent des prix réservés aux membres, le Wi-Fi gratuit, l'enregistrement mobile, le départ tardif ou des points qui peuvent être plus intéressants qu'un tarif d'entreprise non vérifié."
+      },
+      {
+        "title": "Réductions publiques",
+        "body": "Les tarifs AAA, AARP, senior, gouvernement, militaire, étudiant ou résident local peuvent être plus faciles à vérifier lorsque vous êtes éligible. Comparez toujours le prix final après taxes et frais."
+      },
+      {
+        "title": "Recherche de dates flexibles",
+        "body": "Décaler un séjour d'une nuit, choisir un établissement proche ou changer de type de chambre peut réduire le prix final sans dépendre d'un accord restreint."
+      }
+    ],
+    "safetyTitle": "Conseils de sécurité et de conformité pour les voyageurs",
+    "safetySections": [
+      {
+        "title": "Avant de réserver",
+        "items": [
+          "Utilisez les sites officiels des hôtels ou des canaux de réservation fiables lorsque vous vérifiez un code.",
+          "Lisez si le tarif est remboursable, prépayé, commissionnable ou lié à une politique d'entreprise spécifique.",
+          "Conservez une capture d'écran ou les règles du tarif pour vos propres dossiers de voyage."
+        ]
+      },
+      {
+        "title": "À l'arrivée",
+        "items": [
+          "Apportez une preuve correspondant au tarif réservé si l'hôtel peut la demander.",
+          "Soyez prêt à ce que l'hôtel recalcule le séjour si vous ne pouvez pas prouver votre éligibilité.",
+          "Ne déclarez pas faussement un emploi, une adhésion ou un statut gouvernemental pour obtenir une réduction."
+        ]
+      }
+    ],
     "checklistTitle": "Liste de vérification avant réservation",
     "checklist": [
       "Confirmez votre éligibilité avant de réserver un tarif professionnel restreint.",

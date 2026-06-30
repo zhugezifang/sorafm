@@ -1,7 +1,6 @@
 'use client';
 
 import { Code } from "@/types/code";
-import HomeGuide from "../homeGuide";
 
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(" ");
@@ -672,10 +671,6 @@ export default function ({
      
      
     </div>
-    
-    <HomeGuide dict={dict} />
-
-
     </>
     
   );

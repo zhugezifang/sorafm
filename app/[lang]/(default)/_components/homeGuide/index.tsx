@@ -13,12 +13,23 @@ type ContentItem = {
   name: string;
 };
 
+type ListSection = {
+  title: string;
+  items: string[];
+};
+
 type HomeGuideDict = {
   eyebrow: string;
   title: string;
   description: string;
   guideTitle: string;
   guides: GuideSection[];
+  editorialTitle?: string;
+  editorialItems?: string[];
+  alternativesTitle?: string;
+  alternatives?: GuideSection[];
+  safetyTitle?: string;
+  safetySections?: ListSection[];
   checklistTitle: string;
   checklist: string[];
   faqTitle: string;
@@ -87,6 +98,78 @@ export default function HomeGuide({ dict }: { dict: any }) {
           ))}
         </div>
       </div>
+
+      {homeGuide.editorialItems && homeGuide.editorialItems.length > 0 && (
+        <div className="mt-12 rounded-lg border border-gray-200 bg-gray-50 p-6">
+          <h2 className="text-2xl font-bold text-gray-950">
+            {homeGuide.editorialTitle}
+          </h2>
+          <div className="mt-5 grid gap-4 md:grid-cols-3">
+            {homeGuide.editorialItems.map((item) => (
+              <p
+                key={item}
+                className="rounded-lg border border-gray-200 bg-white p-4 text-sm leading-7 text-gray-700"
+              >
+                {item}
+              </p>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {homeGuide.alternatives && homeGuide.alternatives.length > 0 && (
+        <div className="mt-12">
+          <h2 className="text-2xl font-bold text-gray-950">
+            {homeGuide.alternativesTitle}
+          </h2>
+          <div className="mt-5 grid gap-5 md:grid-cols-3">
+            {homeGuide.alternatives.map((item) => (
+              <article
+                key={item.title}
+                className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm"
+              >
+                <h3 className="text-lg font-semibold text-gray-950">
+                  {item.title}
+                </h3>
+                <p className="mt-3 text-sm leading-7 text-gray-600">
+                  {item.body}
+                </p>
+              </article>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {homeGuide.safetySections && homeGuide.safetySections.length > 0 && (
+        <div className="mt-12">
+          <h2 className="text-2xl font-bold text-gray-950">
+            {homeGuide.safetyTitle}
+          </h2>
+          <div className="mt-5 grid gap-5 md:grid-cols-2">
+            {homeGuide.safetySections.map((section) => (
+              <div
+                key={section.title}
+                className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm"
+              >
+                <h3 className="text-lg font-semibold text-gray-950">
+                  {section.title}
+                </h3>
+                <ul className="mt-4 space-y-3">
+                  {section.items.map((item) => (
+                    <li
+                      key={item}
+                      className="flex gap-3 text-sm leading-7 text-gray-700"
+                    >
+                      <span className="mt-2 h-2 w-2 flex-none rounded-full bg-emerald-600" />
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="mt-12 grid gap-8 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)] lg:items-start">
         <div className="rounded-lg border border-gray-200 bg-gray-50 p-6">

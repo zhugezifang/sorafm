@@ -493,6 +493,46 @@
         "body": "A code can work at one property and not another because discounts depend on the hotel brand, market, dates, room type, occupancy, and the contract behind the rate. We treat the tables as a starting point for research, not as a guarantee of availability or final price."
       }
     ],
+    "editorialTitle": "How we organize this information",
+    "editorialItems": [
+      "We group codes by hotel brand so travelers can compare programs without jumping between unrelated pages.",
+      "We add plain-language notes about eligibility, rate rules, and check-in verification because a lower price is only useful when it can be used correctly.",
+      "We keep public hotel names and company names visible for research, but we encourage visitors to confirm every restricted rate with the hotel or their organization before booking."
+    ],
+    "alternativesTitle": "Other legitimate ways to lower a hotel rate",
+    "alternatives": [
+      {
+        "title": "Member and loyalty rates",
+        "body": "Hotel loyalty programs often show member-only prices, free Wi-Fi, mobile check-in, late checkout, or points that can be more valuable than an unverified corporate rate."
+      },
+      {
+        "title": "Public discounts",
+        "body": "AAA, AARP, senior, government, military, student, and local resident rates may be easier to verify when you qualify. Always compare the final price after taxes and fees."
+      },
+      {
+        "title": "Flexible date searches",
+        "body": "Moving a trip by one night, choosing a nearby property, or changing room type can reduce the final price without relying on a restricted agreement."
+      }
+    ],
+    "safetyTitle": "Traveler safety and compliance tips",
+    "safetySections": [
+      {
+        "title": "Before booking",
+        "items": [
+          "Use official hotel websites or trusted booking channels when checking a code.",
+          "Read whether the rate is refundable, prepaid, commissionable, or tied to a specific company policy.",
+          "Take a screenshot or save the rate rules for your own trip records."
+        ]
+      },
+      {
+        "title": "At check-in",
+        "items": [
+          "Bring proof that matches the rate you booked if the hotel may ask for it.",
+          "Be prepared for the hotel to reprice the stay if you cannot show eligibility.",
+          "Do not misrepresent employment, membership, or government status to obtain a discount."
+        ]
+      }
+    ],
     "checklistTitle": "Booking checklist",
     "checklist": [
       "Confirm your eligibility before booking a restricted business rate.",
