@@ -7,7 +7,7 @@ export default function ({ dict }: { dict: any }) {
   return (
     <div className="mx-auto mt-4 max-w-full sm:mt-4 sm:px-0 lg:px-0">
       <div className="relative isolate overflow-hidden px-6 py-12  sm:rounded-3xl sm:px-24 xl:pt-24">
-        <h1 className="mx-auto max-w-4xl text-center text-3xl font-bold tracking-tight text-primary sm:text-6xl">
+        <h1 className="mx-auto max-w-4xl text-center text-4xl font-bold tracking-tight text-primary sm:text-4xl">
           {dict.brand.title}
         </h1>
         <p className="mx-auto mt-6 text-center text-xl leading-8">
